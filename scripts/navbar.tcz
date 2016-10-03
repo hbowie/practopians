@@ -1,0 +1,14 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Descending	Post Date	
+sort	add	Ascending	Author	
+sort	add	Ascending	Content Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/navbar_template.html
+template	generate			

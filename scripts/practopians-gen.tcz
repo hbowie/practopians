@@ -1,0 +1,68 @@
+module	action	modifier	object	value
+<!-- Generate html content for intro section -->
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/intro/
+template	open	text		#PATH#../factory/intro/intro_body_template.html
+template	generate			
+<!-- Generate html content for core section -->
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/core/
+template	open	text		#PATH#../factory/core/core_body_template.html
+template	generate			
+<!-- Generate html content for blog section -->
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
+template	generate			
+<!-- Generate Tags Pages -->
+input	set		normalization	0
+input	set		xpltags	true
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Tag	
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Descending	Post Date	
+sort	add	Ascending	Content Title	
+sort	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tag_template.html
+template	generate			
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tags_list_template.html
+template	generate			
+<!-- Generate navbar include file -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Descending	Post Date	
+sort	add	Ascending	Author	
+sort	add	Ascending	Content Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/navbar_template.html
+template	generate			
+<!-- Generate Next Navigation -->
+template	open	text		#PATH#../factory/nextnav_template.html
+template	generate			
+<!-- Generate Web pages for content -->
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	set		params	
+filter	clear			
+filter	set		params	
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Ascending	Author	
+sort	add	Ascending	Content Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/content_template.html
+template	generate			

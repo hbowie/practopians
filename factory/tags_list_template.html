@@ -1,0 +1,16 @@
+<?delims "<?" "?>" "#%" "%#" "&" ?>
+<?output "../includes/tags_list.html"?>
+					<h2>Tags</h2>
+					<ul>
+<?nextrec?>
+<?definegroup 1 "#%tag%#" ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+						<li>
+							<a href="=$relative$=tags/#%tag&f%#.html">
+								#%tag%#
+							</a>
+						</li>
+<?loop?>
+      		</ul>

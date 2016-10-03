@@ -1,0 +1,20 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	true
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Tag	
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Descending	Post Date	
+sort	add	Ascending	Content Title	
+sort	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tag_template.html
+template	generate			
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tags_list_template.html
+template	generate			

@@ -1,0 +1,5 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
+template	generate			
