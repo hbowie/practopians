@@ -15,10 +15,17 @@
 
       		<div class="collapse navbar-collapse" id="mynavbar-content">
       			<ul class="nav navbar-nav">
-      				<li><a href="=$relative$=index.html">Home</a></li>
+<?set last-section = "" ?>
 <?nextrec?>
 <?definegroup 1 "#%section-title%#" ?>
 <?ifendgroup 1 ?>
+<?if "#%last-section%#" == "Quotes" ?>
+                	<li><a href="javascript:randomQuote();">Random</a></li>
+                	<li><a href="javascript:nextQuote();">Next</a></li>
+                	<li><a href="javascript:priorQuote();">Prior</a></li>
+                	<li><a href="javascript:firstQuote();">First</a></li>
+                	<li><a href="javascript:lastQuote();">Last</a></li>
+<?endif?>
       					</ul>
 							</li>
 <?endif?>
@@ -28,9 +35,14 @@
       						#%section-title%# <b class="caret"></b>
       					</a>
       					<ul class="dropdown-menu">
+<?set menu-count = 0 ?>
+<?set last-section = "#%section-title%#" ?>
 <?endif?>
 <?if "#%content-title%#" ?>
+<?set menu-count ++ ?>
+<?if #%menu-count%# < 11 ?>
       						<li><a href="=$relative$=#%path&l%##%content-title&f%#.html">#%content-title%#</a></li>
+<?endif?>
 <?endif?>
 <?loop?>
       			</ul>

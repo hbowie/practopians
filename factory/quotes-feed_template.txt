@@ -1,0 +1,5 @@
+<?output "../feed/quotes-feed.txt"?>
+Section	Item Type	Date	Title	Link	Tags	Teaser
+<?nextrec?>
+Quotes	Quotation	=$dateadded$=	=$title$=	quotes/=$title&f$=.html	=$category$=	=$body$=
+<?loop?>

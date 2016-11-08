@@ -1,30 +1,86 @@
 module	action	modifier	object	value
+
+<!-- Generate Content feed in a standard format -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+template	open	text		#PATH#../factory/content-feed_template.txt
+template	generate			
+
+<!-- Generate Quotes feed in a standard format -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quotes-feed_template.txt
+template	generate			
+
+<!-- Generate News feed in a standard format -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news-feed_template.txt
+template	generate			
+
+<!-- Merge and create a Consolidated Feed -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/quotes-feed.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../feed/content-feed.txt
+input	open	file	merge	#PATH#../feed/news-feed.txt
+output	open	file		#PATH#../feed/combined-feed.txt
+
 <!-- Generate html content for intro section -->
+
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/intro/
 template	open	text		#PATH#../factory/intro/intro_body_template.html
 template	generate			
+
 <!-- Generate html content for core section -->
+
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/core/
 template	open	text		#PATH#../factory/core/core_body_template.html
 template	generate			
+
 <!-- Generate html content for blog section -->
+
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/blog/hbowie/
 template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
 template	generate			
+
+<!-- Generate html content for tags section -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/tags/
+template	open	text		#PATH#../factory/tags/tags_body_template.html
+template	generate			
+
+<!-- Generate html content for news section -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news/news_body_template.html
+template	generate			
+
 <!-- Generate Tags Pages -->
+
 input	set		normalization	0
 input	set		xpltags	true
-input	open	xls		#PATH#../lists/content.xls
+input	open	file		#PATH#../feed/combined-feed.txt
 sort	clear			
 sort	set		params	
 sort	add	Ascending	Tag	
-sort	add	Ascending	Section Seq	
-sort	add	Ascending	Content Seq	
-sort	add	Descending	Post Date	
-sort	add	Ascending	Content Title	
+sort	add	Ascending	Item Type	
+sort	add	Descending	Date	
+sort	add	Ascending	Title	
 sort	set		params	
 filter	add	not equal to	Tag	
 filter	set		params	
@@ -34,8 +90,11 @@ template	generate
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tags_list_template.html
 template	generate			
+
 <!-- Generate navbar include file -->
+
 input	set		normalization	0
+input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
 sort	clear			
 sort	set		params	
@@ -48,10 +107,51 @@ sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/navbar_template.html
 template	generate			
+
 <!-- Generate Next Navigation -->
+
 template	open	text		#PATH#../factory/nextnav_template.html
 template	generate			
+
+<!-- Generate Quotes Index -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	text		#PATH#../factory/quotes_index_template.html
+template	generate			
+
+<!-- Generate Blog Index -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	add	Descending	Post Date	
+sort	add	Ascending	Section Title	
+sort	add	Ascending	Content Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/blog_index_template.html
+template	generate			
+
+<!-- Generate News Index ->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+sort	clear			
+sort	add	Descending	Date	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/news_index_template.html
+template	generate			
+
 <!-- Generate Web pages for content -->
+
 input	set		normalization	0
 input	open	xls		#PATH#../lists/content.xls
 sort	clear			
@@ -65,4 +165,50 @@ sort	add	Ascending	Content Title
 sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/content_template.html
+template	generate			
+
+<!-- Generate web pages for Quotes -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quote_template.html
+template	generate			
+
+<!-- Generate web pages for News -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news_template.html
+template	generate			
+
+<!-- Generate Javascript Navigation for Quotes -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst	
+sort	add	Ascending	title	
+sort	set		params	
+template	open	text		#PATH#../factory/quotes_template.js
+template	generate			
+
+<!-- Generate Home Page featuring most recent content additions -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear			
+sort	add	Descending	Date	
+sort	add	Ascending	Section	
+sort	add	Ascending	Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/home_template.html
+template	generate			
+
+<!-- Generate RSS Feed -->
+
+template	open	text		#PATH#../factory/rss_template.xml
 template	generate			

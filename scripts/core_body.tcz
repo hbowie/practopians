@@ -1,5 +1,0 @@
-module	action	modifier	object	value
-input	set		normalization	0
-input	open	notenik+		#PATH#../content/core/
-template	open	text		#PATH#../factory/core/core_body_template.html
-template	generate			

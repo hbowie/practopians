@@ -17,7 +17,7 @@
     <link rel="icon" type="image/png" href="=$relative$=favicon.png" />
     <!-- Bootstrap -->
     <link href="=$relative$=css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom styles for SoftDevBigIdeas -->
+    <!-- Custom styles for Practopians -->
     <link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
     <link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
     <link rel="stylesheet" href="=$relative$=css/styles.css" />
@@ -38,14 +38,12 @@
           <h2>Working together to shape a brighter future for humanity</h2>
       </div>
 
-<?include "../includes/navbar.html" ?>
-
       <!-- Body -->
       <div class="row">
 
-        <!-- Left Hand Column: Navigation -->
+        <!-- Left Hand Column -->
         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 col-lg-offset-1">
-<?include "../includes/tags_list.html" ?>
+<?include "../includes/navbar.html" ?>
         </div>
 
         <!-- Center Column: Text -->
@@ -70,13 +68,16 @@
 
 					<p>By =$author-name$=</p>
 <?endif?>
-<?if "=$post-date$=" ?>
-
-					<p>=$post-date&dd MMM yyy$=</p>
+<?if "=$tags$=" ?>
+					<p>tags: =$tags&g$=</p>
 <?endif?>
 
 
 <?include "../html/=$path&l$==$content-title&f$=.html" ?>
+
+<?if "=$post-date$=" ?>
+					<p>=$item-type$= &nbsp; | &nbsp; =$post-date&yyyy MMM dd$= </p>
+<?endif?>
 
 					<!-- Navigation to Next Page -->
 
@@ -84,9 +85,9 @@
 
         </div>
 
-        <!-- Right Hand Column: white space -->
+        <!-- Right Hand Column: tags -->
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-3">
-					&nbsp;
+<?include "../includes/tags_list.html" ?>
         </div> <!-- end of right hand column -->
       </div> <!-- end of middle row -->
 
@@ -105,6 +106,8 @@
     <script src="=$relative$=js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="=$relative$=js/bootstrap.min.js"></script>
+    <!-- Include navigation for quotes -->
+    <script src="=$relative$=js/quotes.js"></script>
   </body>
 </html>
 

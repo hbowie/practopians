@@ -1,0 +1,12 @@
+<?output "../html/blog/index.html"?>
+<?nextrec?>
+<?if "=$section-title$=" == "Blog" ?>
+					<h3><a href="../=$path$==$content-title&f$=.html">
+						=$content-title$=
+					</a></h3>
+					<p>=$teaser&o$=</p>
+					<p><a href="=$path$==$content-title&f$=.html">read more...</a></p>
+					<p>Blog Post &nbsp; | &nbsp; =$date&yyyy MMM dd$= </p>
+					<hr />
+<?endif?>
+<?loop?>
