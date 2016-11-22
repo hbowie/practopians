@@ -1,7 +1,0 @@
-Section	Item Type	Date	Title	Link	Tags	Teaser
-News	News Item	2016-11-04	A staggering number of the world's children are breathing toxic air	news/a-staggering-number-of-the-worlds-children-are-breathing-toxic-air.html	population	A staggering number of the world's children are breathing toxic air, according to a new UNICEF report.
-
-News	News Item	2015-12-08	How ISIS Makes Radicals	news/how-isis-makes-radicals.html	imperfection, individuals, society	Great piece by David Brooks in the New York Times, summarizing elements of "The True Believer," by Eric Hoffer, written in 1951.
-
-News	News Item	2015-11-21	What Science Is -- and How and Why It Works	news/what-science-is-and-how-and-why-it-works.html	science	Great short article by Neil deGrasse Tyson about the nature of scientific knowledge.
-

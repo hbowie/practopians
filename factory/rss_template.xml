@@ -17,7 +17,7 @@
 <?set item-count ++ ?>
 <?if =$item-count$= < 21 ?>
 	<item>
-		<title>=$title&x$=</title>
+		<title>=$itemtype$=: =$title&x$=</title>
 		<link>http://www.practopians.com/=$link&x$=</link>
 		<guid isPermaLink="true">http://www.practopians.com/=$link&x$=</guid>
 		<pubDate>=$date&EEE, dd MMM yyyy HH:mm zzz$=</pubDate>
