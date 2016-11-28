@@ -6,11 +6,11 @@ These are the things we value most.
 
 2. [Liberty][]: We believe in allowing adults as much autonomy as practical, so long as they do not infringe on the life and liberty of others, either directly and individually, or indirectly and communally.
 
-3. [Society][]: We believe in the social fabric that binds us together as part of a shared human community, and need to establish institutions of [governance][] for society.
+3. [Society][]: We value the social fabric that binds us together as part of a shared human community, and believe in the need to establish institutions of [governance][] for society.
 
 4. [Connection][]: A feeling of caring connection to others is part of what makes us human, and is the central force that makes each one of us part of something larger than our individual selves.
 
-5. The [Rule of Law][rule-of-law]: Every society must establish laws to govern human interaction, to channel human energy along constructive paths, and to promote useful order; and it is the duty of citizens of a society to obey these laws.
+5. The [Rule of Law][rule-of-law]: Every society should establish rules to govern human interaction, to channel human energy along constructive paths, and to promote useful order; these rules should be constructed in accordance with Practopian principles and values; it is the duty of citizens of a society to obey such rules.
 
 6. [Equality][]: All citizens must be treated equally before the law, without discrimination based on appearance, gender, ethnic origin, race or sexual preference.
 

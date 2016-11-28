@@ -21,7 +21,12 @@
 		<link>http://www.practopians.com/=$link&x$=</link>
 		<guid isPermaLink="true">http://www.practopians.com/=$link&x$=</guid>
 		<pubDate>=$date&EEE, dd MMM yyyy HH:mm zzz$=</pubDate>
-		<description>=$teaser&x$=</description>
+		<description>
+			=$teaser&ox$=
+<?if "=$author$=" ?>
+			&lt;p&gt;Author: =$author&x$= &lt;/p&gt;
+<?endif?>
+		</description>
 	</item>
 <?endif?>
 <?loop?>

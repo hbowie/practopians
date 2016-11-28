@@ -1,5 +1,11 @@
-Title: 
+Title:  The Politans and the Mericans
 
+Status: 4 - Active
+
+Type:   Post
+
+Body:   
+ 
 Let me tell you a little story:
 
 Once upon a time, in a land far, far away, there lived two very different tribes. 
@@ -13,4 +19,5 @@ The politans were spinners of tales, writers of books, publishers of journals, r
 The mericans were doers of deeds and makers of things. They read from their holy book on Sundays, and from the first book of laws on other days, and saw no need for further writings. They brought rich ores and black energy up from beneath the earth. They harvested plants and trees for food and houses. They built machines that could travel across the land, and fly through the air, and sail across the seas. 
 
 The politans were of many colors, and came from many lands, and engaged in varied practices. 
+
 

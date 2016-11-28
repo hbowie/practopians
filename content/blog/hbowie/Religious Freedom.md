@@ -1,21 +1,24 @@
-Title: Religious Freedom
-
-Tags: written word, critical thinking, religion, love, balance
+Title:  Religious Freedom
 
 Author: Herb Bowie
 
-Date: 4 Aug 2012
+Date:   4 Aug 2012
 
-Teaser:
+Status: 6 - Published
 
+Tags:   balance, critical thinking, love, religion, written word
+
+Teaser: 
+ 
 When it comes to religion, I have to confess to being a bit of a mongrel.
 
 My mother was a Methodist. My father was a nudist. And I once called myself an immortalist.
 
 These days I choose not to align myself with any particular religious group.
 
-Body:
 
+Body:   
+ 
 <p><a href="http://en.wikipedia.org/wiki/Flushing_Remonstrance"><img class="img-top-right" src="../../images/ReligiousFreedomStamp.jpg" alt="A U.S. Postage Stamp commemorating religious freedom and the Flushing Remonstrance" title="Religious Freedom U.S. Postage Stamp" /></a></p>
 
 When it comes to religion, I have to confess to being a bit of a mongrel.
@@ -61,3 +64,5 @@ And if you ask me whether I believe in free speech, then I will say yes, absolut
 Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
 [immortalist]: http://www.amazon.com/Why-Die-Beginners-Living-Forever/dp/1890457078
+
+

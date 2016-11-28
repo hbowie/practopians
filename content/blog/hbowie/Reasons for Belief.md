@@ -1,21 +1,24 @@
-Title: Reasons for Belief
-
-Tags: critical thinking, religion
+Title:  Reasons for Belief
 
 Author: Herb Bowie
 
-Date: 21 Feb 2012
+Date:   21 Feb 2012
+
+Status: 6 - Published
+
+Tags:   critical thinking, religion
 
 Teaser: 
-
+ 
 We often seem to assume that people say things, and come to believe them, because they are true.
 
 It seems to me, though, that people take up beliefs for a whole host of reasons, and the likely truth or falsehood of these statements is often the least of the motivating factors at work.   
 
 Here then, are the multifarious reasons why people may choose to believe something.
 
-Body: 
 
+Body:   
+ 
 We often seem to assume that people say things, and come to believe them, because they are true.
 
 It seems to me, though, that people take up beliefs for a whole host of reasons, and the likely truth or falsehood of these statements is often the least of the motivating factors at work.   
@@ -92,3 +95,5 @@ Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 [science]:  http://en.wikipedia.org/wiki/Scientific_method
 [develop]:  developmental-levels
 [demarco]:  belief-impossible-things
+
+

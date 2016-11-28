@@ -304,6 +304,8 @@ qfilename[ix] = "the-web-of-life.html";
 ix++;
 qfilename[ix] = "freedom-of-expression-in-business.html";
 ix++;
+qfilename[ix] = "a-progressive-annual-tax-on-capital.html";
+ix++;
 qfilename[ix] = "postels-law.html";
 ix++;
 qfilename[ix] = "ism-mania.html";

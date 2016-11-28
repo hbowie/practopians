@@ -1,19 +1,22 @@
-Title: The Systemic Era
-
-Tags: cultural evolution, systemic
+Title:  The Systemic Era
 
 Author: Herb Bowie
 
-Date: 15 Aug 2011
+Date:   15 Aug 2011
 
-Teaser:
+Status: 6 - Published
 
+Tags:   cultural evolution, systemic
+
+Teaser: 
+ 
 We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."
 
 When I look at what's going on around me today and try to make sense of it, I am forced to draw the conclusion that we are deep into an as yet unnamed age that I would call "The Systemic Era." What I mean by this is that we are now at a point where the human condition is much more influenced by vast social and economic systems of our own collective making than by any natural forces or conditions, or any individual actions we might take, or even any individual intentions we might have.
 
-Body:
 
+Body:   
+ 
 <img src="../../images/charlie-chaplin-in-modern-times.jpg" alt="Charlie Chaplin in Modern Times" title="Charlie Chaplin in Modern Times" class="pic-right"> We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."
 
 When I look at what's going on around me today and try to make sense of it, I am forced to draw the conclusion that we are deep into an as yet unnamed age that I would call "The Systemic Era." What I mean by this is that we are now at a point where the human condition is much more influenced by vast social and economic systems of our own collective making than by any natural forces or conditions, or any individual actions we might take, or even any individual intentions we might have.
@@ -66,3 +69,5 @@ Copyright &copy; 2011 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 [wrightbros]: http://wrightbrothers.info/quotes
 [medicare]: http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html
 [levels]: developmental-levels
+
+

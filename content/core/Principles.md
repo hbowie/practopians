@@ -18,7 +18,7 @@ This list identifies our most fundamental beliefs about the world and our place 
 
 8. We harbor no romantic notions about the [perfectibility][imperfection] of humans or of human society: we are satisfied with progress, and do not demand perfection.
 
-9. We believe that [ordinary human beings][individuals] have the power to shape our cultural evolution and influence our human condition in ways both positive and negative; our goal is to help all of us make broader, better informed, more deeply felt, more conscious decisions that will help us advance towards a more positive future.
+9. We believe that [ordinary individuals][individuals] have the power to shape our cultural evolution and influence our human condition in ways both positive and negative; our goal is to help all of us make broader, better informed, more deeply felt, more conscious decisions that will help us advance towards a more positive future.
 
 10. We believe that we can produce better outcomes for humanity through the application of [critical thinking][critical-thinking] and the use of the [scientific method][science].
 

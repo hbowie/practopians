@@ -1,13 +1,15 @@
-Title: The Nature of God
-
-Tags: critical thinking, religion
+Title:  The Nature of God
 
 Author: Herb Bowie
 
-Date: 10 Mar 2012
+Date:   10 Mar 2012
+
+Status: 6 - Published
+
+Tags:   critical thinking, religion
 
 Teaser: 
-
+ 
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 
 
 At the same time, though, many skeptics have persistently questioned the existence of such a being, and beliefs about the attributes of God have exhibited wide variation, with such variations often being so deeply held that wars have been fought to advance one sort of belief over another. 
@@ -16,8 +18,9 @@ Rather than approach the question of God's existence directly, it seems wiser to
 
 There seem to be, most fundamentally, only two possibilities.
 
-Body: 
 
+Body:   
+ 
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 
 
 At the same time, though, many skeptics have persistently questioned the existence of such a being, and beliefs about the attributes of God have exhibited wide variation, with such variations often being so deeply held that wars have been fought to advance one sort of belief over another. 
@@ -69,3 +72,5 @@ Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 [levels]: developmental-levels
 [chesterton]: center-every-mans-existence-dream
 [wilber]: left-hand-dimension
+
+

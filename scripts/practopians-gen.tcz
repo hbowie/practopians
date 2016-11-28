@@ -48,6 +48,13 @@ input	set		normalization	0
 input	open	notenik+		#PATH#../content/core/
 template	open	text		#PATH#../factory/core/core_body_template.html
 template	generate			
+\
+<!-- Generate html content for issues section -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/issues/
+template	open	text		#PATH#../factory/issues/issue_body_template.html
+template	generate			
 
 <!-- Generate html content for blog section -->
 
@@ -123,6 +130,29 @@ sort	add	Ascending	title
 sort	set		params	
 template	open	text		#PATH#../factory/quotes_index_template.html
 template	generate			
+
+<!-- Generate Issues Index -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear			
+sort	add	Ascending	Section Seq	
+sort	add	Ascending	Content Seq	
+sort	add	Descending	Post Date	
+sort	add	Ascending	Section Title	
+sort	add	Ascending	Content Title	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equals	Section Title	Issues
+filter	add	not equal to	Content Title	Index
+filter	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/issues_index_template.html
+template	generate			
+filter	clear			
+filter	set		params	
 
 <!-- Generate Blog Index -->
 

@@ -1,13 +1,15 @@
-Title: Developmental Levels as Evolving Social Structures
-
-Tags: cultural evolution, integral
+Title:  Developmental Levels as Evolving Social Structures
 
 Author: Herb Bowie
 
-Date: 10 Jan 2016
+Date:   10 Jan 2016
 
-Teaser:
+Status: 6 - Published
 
+Tags:   cultural evolution, integral
+
+Teaser: 
+ 
 As human society has evolved over the centuries, we have developed different types of social structures. None of the later structures  replace earlier ones, yet each new structure has been devised in order to confer some new sort of evolutionary advantage to our species -- in other words, to help us survive and thrive more effectively.
 
 It's important to consider each of these structural patterns from two important perspectives.
@@ -20,8 +22,9 @@ These two perspectives are two sides of the same coin: as the old song says, "Yo
 
 So let's look at humanity's major [developmental levels][devlev] in the form of different sorts of social structures.
 
-Body:
 
+Body:   
+ 
 <img src="../../images/the-corp-penguins.jpg" alt="Stewart Moskowitz Penguins" title="Stewart Moskowitz Penguins" class="pic-right">
 
 ## Introduction
@@ -130,4 +133,5 @@ Our modern society depends on the proper functioning of a variety of different s
 
 [devlev]: http://practopians.com/content/developmental-levels
 [nyt1]:   http://www.nytimes.com/2015/12/30/business/economy/for-the-wealthiest-private-tax-system-saves-them-billions.html
+
 

@@ -1,13 +1,15 @@
-Title: The Four Quadrants of Human Knowledge
-
-Tags: integral
+Title:  The Four Quadrants of Human Knowledge
 
 Author: Herb Bowie
 
-Date: 26 Oct 2012
+Date:   26 Oct 2012
 
-Teaser:
+Status: 6 - Published
 
+Tags:   integral
+
+Teaser: 
+ 
 I first came across Ken Wilber's work late in the last century when a friend handed me a copy of <cite>A Brief History of Everything</cite> as a birthday present.
 
 Since then, Wilber's influence has been cited by figures as diverse as Bill Clinton and Deepak Chopra, which should give you some idea of how broadly his work can be applied. A <cite>Salon</cite> interview with Wilber from back in 2008 is a good, brief introduction to the man and some of his thoughts.
@@ -16,8 +18,9 @@ Wilber's work is tremendously dense, deep and broad and deserving of further stu
 
 Let me start with the Four Quadrants model.
 
-Body:
 
+Body:   
+ 
 I first came across [Ken Wilber's work][work] late in the last century when a friend handed me a copy of <cite>[A Brief History of Everything][bhoe]</cite> as a birthday present.
 
 Since then, Wilber's influence has been cited by figures as diverse as Bill Clinton and Deepak Chopra, which should give you some idea of how broadly his work can be applied. A [<cite>Salon</cite> interview][salon] with Wilber from back in 2008 is a good, brief introduction to the man and some of his thoughts.
@@ -84,3 +87,5 @@ Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 [salon]: http://www.salon.com/2008/04/28/ken_wilber/
 [toyota-culture]: http://www.amazon.com/exec/obidos/ASIN/0071492178/pagantuna-20
 [work]: http://www.amazon.com/Ken-Wilber/e/B000APH4W2/ref=sr_tc_2_0?qid=1351079953&sr=1-2-ent
+
+

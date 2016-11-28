@@ -1,5 +1,9 @@
-Title: Some Other Post-Election Thoughts
+Title:  Some Other Post-Election Thoughts
 
+Status: 4 - In Work
+
+Body:   
+ 
 Here are a few other thoughts that are occurring to me after the recent US elections.
 
 ## 1. The United States is a big, geographically diverse country. 
@@ -21,3 +25,5 @@ It really doesn't take much more than this simple truth to understand why Trump 
 2. What Divides Us
 
 	There's been lots of post-election analysis trying to figure out how so many people could have voted for Trump, and what makes them so different from the rest of us. 
+
+

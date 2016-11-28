@@ -1,13 +1,15 @@
-Title: Human Nature
-
-Tags: evolution, humanism, cultural evolution
+Title:  Human Nature
 
 Author: Herb Bowie
 
-Date: 15 Dec 2013
+Date:   15 Dec 2013
 
-Teaser:
+Status: 6 - Published
 
+Tags:   cultural evolution, evolution, humanism
+
+Teaser: 
+ 
 What does it mean to be human?
 
 This must certainly be a foundational question for all of us, when  contemplating almost any aspect of our existence. 
@@ -16,8 +18,9 @@ And while any brief answer to this question must admittedly be no more than a st
 
 And so, here they are: the primary traits we share that I think make us uniquely human. 
 
-Body:
 
+Body:   
+ 
 What does it mean to be human?
 
 This must certainly be a foundational question for all of us, when  contemplating almost any aspect of our existence. 
@@ -73,3 +76,5 @@ Copyright &copy; 2013 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 [1]: chimps-and-humans
 
 [2]: apes-and-humans
+
+

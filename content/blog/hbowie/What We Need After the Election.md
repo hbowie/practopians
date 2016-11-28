@@ -1,11 +1,13 @@
-Title: What We Need After the Election
+Title:  What We Need After the Election
 
-By: Herb Bowie
+Author: Herb Bowie
 
-Date: Nov 3, 2016
+Date:   Nov 3, 2016
 
-Body:
+Status: 6 - Published
 
+Body:   
+ 
 <p><img class="img-top-right" style="max-width: 100%; height: auto;" src="../../images/welcome-to-the-future.jpg" alt="Welcome to the Future" title="Welcome to the Future" /></p>
 
 It may be too early to know who will win on Tuesday, but it's not too early to assess the major issues roiling the electorate and offer a few thoughts about what needs to happen after the voting is over -- no matter who comes out on top.
@@ -83,3 +85,5 @@ After the election results are all in, and the results are clear and beyond furt
 But it should be clear by now that this election cycle is about major social, economic and cultural issues that must be addressed -- and not just about which party gets to occupy the seats of power for the next few years.
 
 If we are sincere about wanting to see consistent forward progress for us as a society -- and not just about wanting our side to win -- then next Tuesday is not the end of the fight, but just the beginning.
+
+
