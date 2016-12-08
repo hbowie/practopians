@@ -75,15 +75,20 @@
 
 <?include "../html/=$path&l$==$content-title&f$=.html" ?>
 
-<?if "=$post-date$=" ?>
-					<!-- <hr /> -->
-					<br />
-					<p class="centered">=$item-type$= &nbsp; | &nbsp; =$post-date&yyyy MMM dd$= </p>
+						<div id="content-footer">
+							<p class="content-footer-left">
+<?if "=$item-type$=" ?>
+								=$item-type$= &nbsp; &uArr; &nbsp;
 <?endif?>
-
-					<!-- Navigation to Next Page -->
-
+							</p>
 <?include "../nextnav/=$path&l$==$content-title&f$=.html" ?>
+							<p class="content-footer-right">
+<?if "=$post-date$=" ?>
+								&nbsp; &uArr; &nbsp; =$post-date&yyyy MMM dd$=
+<?endif?>
+							</p>
+					</div>
+					<div style="clear: both;"></div>
 
         </div>
 

@@ -131,7 +131,7 @@ Once we understand these structures, it's possible to start asking questions abo
 
 Our modern society depends on the proper functioning of a variety of different social structures, and the more we are aware of them, the more we can consciously leverage them for the benefit of our society as a whole.
 
-[devlev]: http://practopians.com/content/developmental-levels
+[devlev]: http://practopians.org/content/developmental-levels
 [nyt1]:   http://www.nytimes.com/2015/12/30/business/economy/for-the-wealthiest-private-tax-system-saves-them-billions.html
 
 

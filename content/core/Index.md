@@ -9,3 +9,4 @@ Our Core Writings spell out who we are and what we're about.
 * [Principles](principles)
 * [Values](values.html)
 * [About the Principles and Values](about-the-principles-and-values.html)
+* [The Practopian Pledge](pledge.html)

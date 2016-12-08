@@ -4,7 +4,8 @@ These are the things we value most.
 
 1. [Balance][]: We believe in striving for balance between competing concerns. Although all of the values on this list are important to us, we have no desire to establish any one of them as fundamentally absolute.
 
-2. [Liberty][]: We believe in allowing adults as much autonomy as practical, so long as they do not infringe on the life and liberty of others, either directly and individually, or indirectly and communally.
+
+2. [Liberty][]: We believe in allowing individuals as much autonomy as practical, so long as they do not infringe on the life and liberty of others, either directly and individually, or indirectly and communally.
 
 3. [Society][]: We value the social fabric that binds us together as part of a shared human community, and believe in the need to establish institutions of [governance][] for society.
 
@@ -48,6 +49,7 @@ These are the things we value most.
 [education]:          ../tags/education.html
 [equality]:           ../tags/equality.html
 [governance]:         ../tags/governance.html
+[hierarchy]:          ../tags/hierarchy.html
 [liberty]:            ../tags/liberty.html
 [parenthood]:         ../tags/parenthood.html
 [property]:           ../tags/property.html

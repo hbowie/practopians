@@ -1,10 +1,14 @@
+feed
+/html
+/nextnav
 /private
-web/tags/
 /web/rss.xml
 /web/core/mission.html
-feed
 /web/blog
 /web/core
 /web/intro
 /web/issues
 /web/news
+/web/quotes
+/web/tags
+

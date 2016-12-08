@@ -1,6 +1,6 @@
 Title: Index
 
-Welcome to Practopians.com, the website for Practical Utopians!
+Welcome to Practopians.org, the website for Practical Utopians!
 
 The Intro section contains the following content.
 

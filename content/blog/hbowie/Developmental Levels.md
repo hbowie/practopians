@@ -119,7 +119,7 @@ I should be clear that while the table above summarizes material from both Integ
 
 Copyright &copy; 2009 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
-[4Q]: four-quadrants-human-knowledge
+[4Q]: the-four-quadrants-of-human-knowledge.html
 
 [bhoe]: http://www.amazon.com/Brief-History-Everything-Ken-Wilber/dp/1570627401/ref=sr_1_3?s=books&ie=UTF8&qid=1351079735&sr=1-3&keywords=ken+wilber
 
@@ -127,6 +127,6 @@ Copyright &copy; 2009 by [Herb Bowie](http://www.herbbowie.com) per this [Creati
 
 [spiraldynamics]: http://en.wikipedia.org/wiki/Spiral_Dynamics
 
-[wilber]:  ../wisdom/authors/ken-wilber.html
+[wilber]:  https://en.wikipedia.org/wiki/Ken_Wilber
 
 

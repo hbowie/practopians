@@ -1,6 +1,6 @@
 Title: Introduction
 
-Welcome to Practopians.com, the website for Practical Utopians!
+Welcome to Practopians.org, the website for Practical Utopians!
 
 We invite you to explore our site. You'll note that it contains several different types of content.
 

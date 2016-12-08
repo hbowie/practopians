@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The practopians project is a collection of writings published on the web at practopians.com, home for the Society of Practical Utopians.
+The practopians project is a collection of writings published on the web at practopians.org, home for the Society of Practical Utopians.
 
 Tools
 -----
@@ -64,4 +64,4 @@ Build Process
 Rights
 ------
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Practopians</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.practopians.com/intro/about.html" property="cc:attributionName" rel="cc:attributionURL">Herb Bowie</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hbowie/practopians" rel="dct:source">https://github.com/hbowie/practopians</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Practopians</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.practopians.org/intro/about.html" property="cc:attributionName" rel="cc:attributionURL">Herb Bowie</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hbowie/practopians" rel="dct:source">https://github.com/hbowie/practopians</a>.
