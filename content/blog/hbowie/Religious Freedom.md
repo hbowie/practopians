@@ -31,15 +31,15 @@ I respect others who do make such choices, though. If you call yourself a Christ
 
 I don't personally know as much about Islam, but if you call yourself a Muslim, then I respect you for that as well. I know that there are many common elements to most modern religions, and that they share many valuable moral precepts. I will assume, unless you indicate otherwise, that your religious beliefs are motivated by a belief in a higher power that calls to all of us to be our better selves, and to act, not just as isolated individuals, but as part of a larger whole. I'm good with that. I feel that too.
 
-If you tell me, however, that you believe every statement in some special religious text to be completely true, and that you believe it all without question, and without any need for independent verification, then I will probably start to look at you a little funny, and will be reminded of [H.L. Mencken's quotation](we-must-respect-other-fellows-religion):
+If you tell me, however, that you believe every statement in some special religious text to be completely true, and that you believe it all without question, and without any need for independent verification, then I will probably start to look at you a little funny, and will be reminded of [H.L. Mencken's quotation](../../quotes/we-must-respect-the-other-fellows-religion.html):
 
 > We must respect the other fellow's religion, but only in the sense and to the extent that we respect his theory that his wife is beautiful and his children smart.
 
-If you go further, and begin to demonize a certain segment of society based on attributes or behaviors that do no harm -- whether it is blacks, women, Jews or gays -- and you defend those statements based only on some words you find in your religious text, then I will begin to back away from you, and be reminded of [Ken Wilber's words](homophobia):
+If you go further, and begin to demonize a certain segment of society based on attributes or behaviors that do no harm -- whether it is blacks, women, Jews or gays -- and you defend those statements based only on some words you find in your religious text, then I will begin to back away from you, and be reminded of [Ken Wilber's words](../../quotes/homophobia.html):
 
 > An integral approach acknowledges that all views have a degree of truth, but some views are more true than others, more evolved, more developed, more adequate. And so let's get that part out of the way right now: homophobia in any form, as far as I can tell, stems from a lower level of human development — but it is a level, it exists, and one has to make room in one's awareness for those lower levels as well, just as one has to include third grade in any school curriculum. Just don't, you know, put those people in charge of anything important.
 
-Now if you happen to be using your religious text to demonize those who have done you no harm, and you are already in a position of some authority, then I will begin to think that you are a dangerous lunatic. In this case, I will feel compelled to let you know, and let others around us know, in no uncertain terms, that I disagree with you, and I will be reminded of these [words attributed to pastor Martin Niemöller](first-they-came):
+Now if you happen to be using your religious text to demonize those who have done you no harm, and you are already in a position of some authority, then I will begin to think that you are a dangerous lunatic. In this case, I will feel compelled to let you know, and let others around us know, in no uncertain terms, that I disagree with you, and I will be reminded of these [words attributed to pastor Martin Niemöller](../../quotes/first-they-came.html):
 
 > First they came for the communists,
 and I didn't speak out because I wasn't a communist.
@@ -59,9 +59,7 @@ And if you ask me whether I believe in free speech, then I will say yes, absolut
 
 > The purpose of free speech is not to give equal time to every citizen to speak whatever idiocy pops into their heads, while the rest of us sit around and nod our heads in pretended agreement -- the purpose of free speech is to encourage a vigorous public discourse that will make all of us better informed and wiser citizens. Sometimes we must suffer the former in order to achieve the latter, but we should never confuse the two.
 
-----
 
-Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
 [immortalist]: http://www.amazon.com/Why-Die-Beginners-Living-Forever/dp/1890457078
 

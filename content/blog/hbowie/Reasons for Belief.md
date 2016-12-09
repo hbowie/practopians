@@ -83,17 +83,14 @@ Note that, for many people, all of these reasons except the last two tend to sup
 
 It is also worth noting that all of these reasons for belief tend to be operative in the case of [corporate accounting scandals][scandals] such as the one at [Enron][]. Of course, these factors routinely come into play as part of everyday organizational life on smaller scales as well, such as [belief in unrealistic project schedules][demarco].
 
-----
 
-Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
-
-[hammett]:  thinkings-dizzy-business
-[russell]:  celestial-teapot
-[mencken]:  we-must-respect-other-fellows-religion
+[hammett]:  ../../quotes/thinkings-a-dizzy-business.html
+[russell]:  ../../quotes/the-celestial-teapot.html
+[mencken]:  ../../quotes/we-must-respect-the-other-fellows-religion.html
 [scandals]: http://en.wikipedia.org/wiki/Accounting_scandals
 [Enron]:    http://en.wikipedia.org/wiki/Enron
 [science]:  http://en.wikipedia.org/wiki/Scientific_method
-[develop]:  developmental-levels
-[demarco]:  belief-impossible-things
+[develop]:  developmental-levels.html
+[demarco]:  ../../quotes/belief-in-impossible-things.html
 
 

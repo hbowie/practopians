@@ -66,7 +66,7 @@ That is, if certain paintings, poems, music, novels and films seem to speak to t
 
 Note that such a conception of religious feeling does nothing to devalue traditional religious texts, but simply allows us to appreciate them in a different context. 
 
-Considered in this way, art becomes more than mere ornament, but can be seen as a foundational element of [human existence](human-nature). 
+Considered in this way, art becomes more than mere ornament, but can be seen as a foundational element of [human existence](human-nature.html). 
 
 Novelist Kurt Vonnegut described his revelations on this topic in a [1974 interview](http://www.wnyc.org/story/kurt-vonnegut-breakfast-champions/):
 
@@ -88,6 +88,3 @@ But if certain works of art help to shape our lives and give meaning to them -- 
 
 One advantage of this form of religious feeling, of course, is that we know who the artists are, and know they are fallible humans, just like us. What's more, I can speak to you about my favorite works of art, and tell you why they are so meaningful to me, without any danger that I will condemn you if you find other works more moving than my favorites. And so my form of worship is to [tell you in some detail about the works of art I find most moving, and to attempt to describe why they affect me so deeply](http://www.reasontorock.com).  
 
-----
-
-Copyright &copy; 2014 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted

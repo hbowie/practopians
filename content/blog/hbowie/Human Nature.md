@@ -69,12 +69,9 @@ If we can agree on these, then there's much more worth discussing.
 
 But if we disagree here, then we're not likely to make much progress in other areas.  
 
-----
 
-Copyright &copy; 2013 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
+[1]: ../../quotes/chimps-and-humans.html
 
-[1]: chimps-and-humans
-
-[2]: apes-and-humans
+[2]: ../../quotes/apes-and-humans.html
 
 

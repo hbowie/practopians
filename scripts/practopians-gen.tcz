@@ -168,6 +168,21 @@ template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/blog_index_template.html
 template	generate			
 
+<!-- Generate Blog Index by Title -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear			
+filter	set		params	
+filter	add	equals	Section Title	Blog
+filter	add	does not contain	Title for Sort	index
+filter	set		params	
+sort	add	Ascending	Title for Sort	
+sort	set		params	
+template	open	text		#PATH#../factory/blog_index_by_title.html
+template	generate			
+
 <!-- Generate News Index ->
 
 input	set		normalization	0
@@ -236,6 +251,17 @@ sort	add	Ascending	Title
 sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/home_template.html
+template	generate			
+
+<!-- Generate Search Page -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear			
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/search_template.html
 template	generate			
 
 <!-- Generate RSS Feed -->

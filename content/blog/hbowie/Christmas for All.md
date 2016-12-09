@@ -28,19 +28,19 @@ But that's perhaps as it should be, for Christmas, it seems to me, has always be
 
 After all, at least in my part of the world, Christmas is not a small event practiced by a few behind closed doors --  no, it's something that happens out in the public, and is shared by the entire community. 
 
-In the darkest time of the year, lights are strung on trees and buildings, visible to all, driving back the darkness. 
+* *On the darkest nights of the year, lights are strung on trees and buildings, visible to all, driving back the darkness.* 
 
-Warm cards and messages are exchanged with those separated from us by the miles, but still held close in our hearts.
+* *Warm cards and messages are exchanged with those separated from us by the miles, but still held close in our hearts.*
 
-When trees outside are bare, and the ground is cold and hard, evergreens are cut and displayed, decorated with ornaments and brightly lit. 
+* *When trees outside are bare, and the ground is cold and hard, evergreens are cut and displayed, decorated with ornaments and brightly lit.*
 
-Gifts for those most dear to us are selected, purchased, wrapped, and placed under the trees.  
+* *Gifts for those most dear to us are selected, purchased, wrapped, and placed under the trees.*  
 
-Those who can, travel home, leaving behind for a little while the cares of labor and commerce, to spend cherished time with those they know as family, however those familiar bonds were formed. 
+* *Those who can, travel home, leaving behind for a little while the cares of labor and commerce, to spend cherished time with those they know as family, however those familiar bonds were formed.* 
 
-Special foods are prepared with care and, in the coldest part of the year, when nothing grows, we have the greatest of feasts, and pour out libations, toasting our friends, family and good fortunes, celebrating the facts that we have warm homes and ample food and those to share them with. 
+* *Special foods are prepared with care and, in the coldest time of the year, when nothing grows, we have the greatest of feasts, and pour out libations, toasting our friends, family and good fortunes, celebrating the facts that we have warm homes and ample food and those to share them with.* 
 
-And, this being the time of year when differences in human fortunes can be most cruel, those of us who have much share some with those who have less. 
+* *And, this being the time of year when differences in human fortunes can be most cruel, those of us who have much share some with those who have less.* 
 
 And, oh, the stories that are told. Of misers and beggars, cripples and kings, angels and elves, newborn babes and aging men, reindeer and sleighs, snow and ice, foolishness and wisdom, loneliness and union, enchantment and enlightenment. Charles Dickens' <cite><a href="http://amzn.to/2gDkBYg" target="ref">A Christmas Carol</a></cite>. Frank Capra's <cite><a href="http://amzn.to/2h4k9Td" target="ref">It's A Wonderful Life</a></cite>. Some of the finest tales ever told, tales for the ages. 
 
@@ -64,13 +64,13 @@ And, of course, the songs that are sung, songs that touch on all the themes and 
  
 * "<a href="http://amzn.to/2h7Qol3" target=“ref">The Rebel Jesus</a>" by Jackson Browne;
 
-* Charlie Parker bopping to "<a href="http://amzn.to/2h7OOPY" target=“ref">White Christmas</a>;
+* Charlie Parker bopping to "<a href="http://amzn.to/2h7OOPY" target=“ref">White Christmas</a>";
 
 * Brothers Johnny and Edgar Winter (as part of an early band called Insight) singing an achingly beautiful version of "<a href="http://amzn.to/2h7MWXK" target=“ref">Please Come Home For Christmas</a>";
 
 * Dexter Gordon using his horn to sculpt a lovely version of "<a href="http://amzn.to/2h7TGEZ" target=“ref">The Christmas Song</a>";
 
-* "Christmas Bells," as sung and played by John Gorka; 
+* "<a href="http://amzn.to/2hnzUbj" target=“ref">Christmas Bells</a>," as sung and played by John Gorka; 
 
 * Or any of the twenty-five different versions I have of "Have Yourself A Merry Little Christmas," by the likes of Paul Ray, Bela Fleck, Tony Bennett, Diana Krall and many others. 
 

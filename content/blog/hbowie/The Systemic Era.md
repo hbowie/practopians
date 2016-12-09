@@ -55,19 +55,16 @@ Third, **the continued, strident debate over whether we should have small govern
 
 Make no mistake, the Systemic Era is upon us -- even though we may not see it trumpeted as such on the front pages of newspapers and Web sites, nor on the lips of media pundits, talk show hosts, and news commentators. Our only choice is whether we shall embrace such knowledge and use it to intelligently fashion the systems that we live under, or whether we shall leave it to other forces to determine our collective human fate.
 
-----
-
-Copyright &copy; 2011 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
 [global warming]: http://en.wikipedia.org/wiki/Global_warming
 [financial meltdown]: http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010
-[prius]: http://www.bloomberg.com/apps/news?pid=20601209&sid=ad.SUVyWEEiA
+[prius]: https://en.wikipedia.org/wiki/2009%E2%80%9311_Toyota_vehicle_recalls
 [car talk]: http://www.cartalk.com/
 [haiti]: http://www.unicef.org/infobycountry/haiti_52571.html
 [apple]: http://www.apple.com/
 [pepsi]: http://en.wikipedia.org/wiki/Steve_Jobs#Beginnings_of_Apple_Computer
-[wrightbros]: http://wrightbrothers.info/quotes
+[wrightbros]: http://www.success.com/mobile/article/profiles-in-greatness-wilbur-and-orville-wright
 [medicare]: http://www.huffingtonpost.com/bob-cesca/get-your-goddamn-governme_b_252326.html
-[levels]: developmental-levels
+[levels]: developmental-levels.html
 
 

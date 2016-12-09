@@ -376,6 +376,16 @@ div.five-star {
 	text-align: right;
 }
 
+.blog-by-and-date
+{
+	margin-top: 0;
+	margin-left: 1em;
+	font-style: italic;
+	font-size: 0.9em;
+	color: #808090;
+	line-height: 1em;
+}
+
 .shopItem {
 	margin-bottom: 3em;
 }

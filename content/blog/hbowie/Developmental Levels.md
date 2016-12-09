@@ -115,9 +115,6 @@ What I am referring to as levels 1 - 6 are sometimes referred to as "first tier,
 
 I should be clear that while the table above summarizes material from both Integral Theory and Spiral Dynamics, it does full justice to neither; interested readers are encouraged to seek out more authoritative source materials such as <cite>[A Brief History of Everything][bhoe]</cite>, by Wilber, as well as <cite>[Spiral Dynamics: Mastering Values, Leadership and Change][sd]</cite>, by Graves, Beck and Cowan.
 
-----
-
-Copyright &copy; 2009 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
 [4Q]: the-four-quadrants-of-human-knowledge.html
 

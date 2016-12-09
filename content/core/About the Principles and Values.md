@@ -36,6 +36,7 @@ We have no intention, however, to discount or demean or disavow any particular r
 
 In fact, many elements of the Practopian Principles and Values can be found in various religious texts and teachings, and it is no part of our intent to diminish anyone's appreciation for these other works. 
 
+
 [mission]:    mission.html
 [principles]: principles.html
 [values]:     values.html

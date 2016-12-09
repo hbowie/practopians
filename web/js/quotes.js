@@ -120,6 +120,8 @@ qfilename[ix] = "the-divine-gift-of-purely-nonsensical-speech-and-action.html";
 ix++;
 qfilename[ix] = "evolutionary-drive-towards-complexity.html";
 ix++;
+qfilename[ix] = "belief-in-impossible-things.html";
+ix++;
 qfilename[ix] = "thnk-globally-act-locally.html";
 ix++;
 qfilename[ix] = "a-happy-man.html";

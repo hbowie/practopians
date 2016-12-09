@@ -63,14 +63,11 @@ As [G. K. Chesterton][chesterton] so elegantly stated it:
 
 > The center of every man's existence is a dream. Death, disease, insanity, are merely material accidents, like a toothache or a twisted ankle. That these brutal forces always besiege and often capture the citadel does not prove that they are the citadel. 
 
-----
-
-Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
 
 [natural-selection]: http://en.wikipedia.org/wiki/Natural_selection
-[human-nature]: human-nature
-[levels]: developmental-levels
-[chesterton]: center-every-mans-existence-dream
-[wilber]: left-hand-dimension
+[human-nature]: human-nature.html
+[levels]: 		developmental-levels.html
+[chesterton]: 	../../quotes/the-center-of-every-mans-existence-is-a-dream.html
+[wilber]: 		../../quotes/the-left-hand-dimension.html
 
 

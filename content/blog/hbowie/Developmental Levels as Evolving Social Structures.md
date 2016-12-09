@@ -89,7 +89,7 @@ Note that, from an interior perspective, this level encourages an acceptance of 
 
 Now that I've described these social structures (aka levels), let me tell you why it's important for us all to understand them, and to consistently apply this knowledge.
 
-#### A. All of these structures are constantly at work around us, whether we recognize and understand them or not.
+### A. All of these structures are constantly at work around us, whether we recognize and understand them or not.
 
 As employees, we work for organizations that are based on all or most of these structures, to varying degrees.
 
@@ -99,21 +99,21 @@ As capitalists and/or consumers, we are conducting transactions within economies
 
 As members of a church, or some comparable secular organization, we are participating in organizations run with these same sorts of structures.
 
-#### B. We need to accept that all of these structures have their uses.
+### B. We need to accept that all of these structures have their uses.
 
 All of these structures have evolved to serve distinct and useful purposes. None of us can afford the luxury of thinking that some of these structures are inferior to others in any kind of absolute, universal sense.
 
-#### C. We need to understand that all of these structures can be at work simultaneously.
+### C. We need to understand that all of these structures can be at work simultaneously.
 
 If we think about social organization in a way that emphasizes some of these structures, and excludes others, then we are probably not seeing a complete picture of what's going on.
 
-#### D. If we understand our structural preferences, we can compensate for them to achieve better outcomes.
+### D. If we understand our structural preferences, we can compensate for them to achieve better outcomes.
 
 Some of us are drawn to power pyramids. Others are more comfortable with peer networks, while still others like the feel of a post-modern cosmopolis.
 
 But this is like saying I prefer chocolate, or I love ice cream. It's good to know you're drawn to these things, it's good to indulge once in a while, but you don't want to end up sitting in front of the TV every night with a half gallon of ice cream for dinner. To have a well-rounded life, we need to accept all of these types of social structures.
 
-#### E. If we're aware of these structures, then we can establish success criteria for them.
+### E. If we're aware of these structures, then we can establish success criteria for them.
 
 Once we understand these structures, it's possible to start asking questions about how well each of these are working.
 
@@ -131,7 +131,7 @@ Once we understand these structures, it's possible to start asking questions abo
 
 Our modern society depends on the proper functioning of a variety of different social structures, and the more we are aware of them, the more we can consciously leverage them for the benefit of our society as a whole.
 
-[devlev]: http://practopians.org/content/developmental-levels
+[devlev]: developmental-levels.html
 [nyt1]:   http://www.nytimes.com/2015/12/30/business/economy/for-the-wealthiest-private-tax-system-saves-them-billions.html
 
 

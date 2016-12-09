@@ -44,10 +44,17 @@ The first dimension (left or right) can be expressed as either interior or exter
 
 * LR. Exterior of a Collective (Lower Right) -- This is reality viewed from the "They" perspective, based on the observable behavior of a group. Sociology studies are generally based on this perspective, and include the behaviors of a society.
 
-
 An understanding of these four quadrants of perception is useful because it helps us understand that very different views of reality (Freudian psychology vs. Skinner's behaviorism, for example) are not contradictory or mutually exclusive, but rather are complementary. Views from all of these different perspectives may be equally valid, even if they are very different ways of looking at the world.
 
 Note that the two exterior, right-hand views are often lumped together for purposes of discussion.
+
+It's worth noting that Yuval Noah Harari, in his book *Sapiens: A Brief History of Humankind*, uses the terms subjective, inter-subjective and objective to describe, respectively, the upper-left, lower-left and right-hand sides of Wilber's quadrant, defining them like this:
+
+* “An objective [right-hand] phenomenon exists independently of human consciousness and human beliefs." 
+
+* "The subjective [upper-left] is something that exists depending on the consciousness and beliefs of a single individual. It disappears or changes if that particular individual changes his or her beliefs."
+
+* "The inter-subjective [lower-left] is something that exists within the communication network linking the subjective consciousness of many individuals. If a single individual changes his or her beliefs, or even dies, it is of little importance. However, if most individuals in the network die or change their beliefs, the inter-subjective phenomenon will mutate or disappear."
 
 Wilber has explained some of these differences of perspective as follows.
 
@@ -75,9 +82,9 @@ Notice how the story talks about individual behavior (Exterior of an Individual)
 
 This is the beauty of the Four Quadrants model, in that it gives us a complete picture of reality, and increases our understanding of that reality. Many lean transformation efforts fail, for example, because they are focused only on productivity improvements (Exterior of a Collective) and fail to instill the corresponding cultural elements necessary to support the desired behavior.
 
-----
+*Updated on 9 Dec 2016 to add references to Harari's work.*
 
-Copyright &copy; 2012 by [Herb Bowie](http://www.herbbowie.com) per this [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/3.0/), except where otherwise noted
+
 
 [austin]: http://www.cbs.dk/en/research/departments-and-centres/department-of-management-politics-and-philosophy/staff/rampp
 [austin1]: http://www.amazon.com/exec/obidos/ASIN/0932633366/pagantuna-20
