@@ -1,24 +1,6 @@
 Title: Christmas for All
 
-Author: Herb Bowie
-
-Date: 2016-12-08
-
-Status: 9 - Published
-
-Tags: humanism
-
-Teaser:
-
-Here we are at the end of another year, well into what many of us call the Holiday Season. 
-
-As I've remarked elsewhere, when it comes to religion, I'm a bit of a mongrel, so my approach to the holidays, while imbued with many of the traditional elements associated with a good Methodist upbringing, does not hew closely to any particular set of Christian dictates. 
-
-But that's perhaps as it should be, for Christmas, it seems to me, has always been too big a thing to be narrowly claimed by any particular religious organization. 
-
-Body:
-
-<p><a href="http://amzn.to/2h4Oq4w" target="ref"><img class="img-top-right" src="../../images/a-christmas-gift-for-you.jpg" alt="A Christmas Gift For You album cover" title="A Christmas Gift For You album cover" /></a></p>
+# Christmas for All
 
 Here we are at the end of another year, well into what many of us call the Holiday Season. 
 
@@ -80,4 +62,6 @@ These are not questions asked only by those of some particular faith, nor, I thi
 
 And so I wish you the very best this Christmas season: the best of what we humans have to offer each other, the brightest gifts, the most piercing joy, the deepest love.
 
-[rf]: religious-freedom.html
+*Originally published on [Practopians.org](http://www.practopians.org)*
+
+[rf]: http://www.practopians.org/blog/hbowie/religious-freedom.html

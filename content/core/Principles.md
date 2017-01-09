@@ -10,7 +10,7 @@ This list identifies our most fundamental beliefs about the world and our place 
 
 4. We believe in [evolution][] as an ongoing force in the world, and in particular are interested in the continuing evolution of [humanity][humanism].
 
-5. We are particularly interested in [cultural evolution][cultural-evolution], since what it means to be human is so intertwined with our cultural identity.
+5. We are especially focused on [cultural evolution][cultural-evolution], since what it means to be human is so intertwined with our cultural identity.
 
 6. We believe in the importance of the [written word][written-word], including many works of philosophy and literature, but place no faith in any single text that we deem to be sacred.
 

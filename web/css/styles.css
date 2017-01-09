@@ -11,6 +11,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #687C99;
 }
 
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; }
+h6 { font-size: 1.0em; }
+
 .sand { color: #F8BA51; }
 
 
@@ -173,16 +180,18 @@ table {
   border-collapse: collapse;
   margin-bottom: 1em;
   font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.428571429;
 }
 
-caption {
+caption
+{
 	border: 0;
 	font-size: 1.2em;
 	font-weight: bold;
 	margin-top: 0.4em;
 	margin-bottom: 0.2em;
+	text-align: center;
 }
 
 th {

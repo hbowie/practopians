@@ -13,7 +13,7 @@ These are the things we value most.
 
 5. The [Rule of Law][rule-of-law]: Every society should establish rules to govern human interaction, to channel human energy along constructive paths, and to promote useful order; these rules should be constructed in accordance with Practopian principles and values; it is the duty of citizens of a society to obey such rules.
 
-6. [Equality][]: All citizens must be treated equally before the law, without discrimination based on appearance, gender, ethnic origin, race or sexual preference.
+6. [Equality][]: All citizens must be treated equally before the law, without discrimination based on appearance, gender, ethnic origin, race or sexual orientation.
 
 7. [Democracy][]: All citizens should have an equal say in defining their society's laws, and equal ability to influence the operation of society's institutions of governance.
 

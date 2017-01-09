@@ -6,6 +6,8 @@ We invite you to explore our site. You'll note that it contains several differen
 
 * Our [Core Writings](../core/) spell out who we are and what we're about, laying out our Background, Mission, Principles and Values.
 
+* Our [Issues](../issues/) section identifies the issues we feel are most important.
+
 * Our [Blog Posts](../blog/) offer commentary on a variety of topics from a Practopian perspective.
 
 * We've collected a number of [Quotations](../quotes/) that reflect and illustrate our core beliefs.

@@ -1,3 +1,9 @@
+Title:  Practopians Business Plan
+
+Tags:   practopians
+
+Body:   
+ 
 # Practopians
 
 ## Strategic Plan
@@ -81,3 +87,5 @@ What it is you hope to change
 ### Notes on Business Structure
 
 501(c)(3) requirements for purpose: Religious, Educational, Charitable, Scientific, and/or Literary.
+
+

@@ -2,4 +2,5 @@ Title: Contact
 
 Body:
 
-If you have any feedback on the site then I'd love to hear from you. Drop me a note at [hb@practopians.org](mailto:hb@practopians.org). 
+If you have questions, comments or inquiries (or simply wish to express unbridled enthusiasm for our work!), please feel free to drop us a note at [feedback@practopians.org](mailto:feedback@practopians.org). 
+
