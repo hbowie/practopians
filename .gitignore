@@ -10,5 +10,8 @@ feed
 /web/issues
 /web/news
 /web/quotes
+/web/search
 /web/tags
 
+/web/index.html
+/web/js/quotes.js
