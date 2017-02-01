@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>News from The Society for Practical Utopians</title>
+	<title>Practical Utopians</title>
 	<description>The latest content from the Practopians</description>
 	<link>http://www.practopians.org</link>
 	<atom:link href="http://www.practopians.org/rss.xml" rel="self" type="application/rss+xml" />

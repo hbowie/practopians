@@ -12,7 +12,9 @@ We invite you to explore our site. You'll note that it contains several differen
 
 * We've collected a number of [Quotations](../quotes/) that reflect and illustrate our core beliefs.
 
-* We also highlight various [News Items](../news/) , with some brief commentary on why they're relevant to our interests.
+* We also highlight various [News Items](../news/), with some brief commentary on why they're relevant to our interests.
+
+* Our [Links](../links/) section contains a collection of helpful hyperlinks to other resources -- works of art, websites -- that we recommend.
 
 When you visit our home page, you'll find yourself viewing all the [Latest Additions](../index.html) to our site, including all of the various content types listed above.
 

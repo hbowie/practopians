@@ -92,6 +92,8 @@ We believe in:
 
 * We also highlight various [News Items](../news/) , with some brief commentary on why they're relevant to our interests.
 
+* Our [Links](../links/) section contains a collection of helpful hyperlinks to recommended resources.
+
 
 ### Ownership
 

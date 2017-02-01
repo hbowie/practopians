@@ -34,6 +34,14 @@ input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news-feed_template.txt
 template	generate			
 
+<!-- Generate Links feed in a standard format -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links-feed_template.txt
+template	generate			
+
 <!-- Merge and create a Consolidated Feed -->
 
 input	set		normalization	0
@@ -43,6 +51,7 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	file	merge	#PATH#../feed/content-feed.txt
 input	open	file	merge	#PATH#../feed/news-feed.txt
+input	open	file	merge	#PATH#../feed/links-feed.txt
 output	open	file		#PATH#../feed/combined-feed.txt
 
 <!-- Generate html content for intro section -->
@@ -58,7 +67,7 @@ input	set		normalization	0
 input	open	notenik+		#PATH#../content/core/
 template	open	text		#PATH#../factory/core/core_body_template.html
 template	generate			
-\
+
 <!-- Generate html content for issues section -->
 
 input	set		normalization	0
@@ -85,6 +94,20 @@ template	generate
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news/news_body_template.html
+template	generate			
+
+<!-- Generate html content for links section -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links/link_body_template.html
+template	generate			
+
+<!-- Generate html content for follow section -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/follow/
+template	open	text		#PATH#../factory/follow/follow_body_template.html
 template	generate			
 
 <!-- Generate Tags Pages -->
@@ -205,6 +228,29 @@ sort	set		params
 template	open	text		#PATH#../factory/news_index_template.html
 template	generate			
 
+<!-- Generate Links Index ->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+sort	clear			
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/links_index_template.html
+template	generate			
+
+<!-- Generate Links Index by Title -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+filter	clear			
+filter	set		params	
+sort	add	Ascending	Title	
+sort	set		params	
+template	open	text		#PATH#../factory/links_index_by_title.html
+template	generate			
+
 <!-- Generate Web pages for content -->
 
 input	set		normalization	0
@@ -238,6 +284,14 @@ input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news_template.html
 template	generate			
 
+<!-- Generate web pages for Links -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/link_template.html
+template	generate			
+
 <!-- Generate Javascript Navigation for Quotes -->
 
 input	set		normalization	0
@@ -263,6 +317,11 @@ template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/home_template.html
 template	generate			
 
+<!-- Generate RSS Feed -->
+
+template	open	text		#PATH#../factory/rss_template.xml
+template	generate			
+
 <!-- Generate Search Page -->
 
 input	set		normalization	0
@@ -272,9 +331,4 @@ sort	clear
 sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/search_template.html
-template	generate			
-
-<!-- Generate RSS Feed -->
-
-template	open	text		#PATH#../factory/rss_template.xml
 template	generate			

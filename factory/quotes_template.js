@@ -16,18 +16,20 @@ function rand(n) {
 }
 
 function setContent(n) {
-  var thisURL = document.URL;
-  var blogIx = thisURL.indexOf("/blog/");
-  var tagsIx = thisURL.indexOf("/tags/");
+  var thisURL  = document.URL;
+  var blogIx   = thisURL.indexOf("/blog/");
+  var tagsIx   = thisURL.indexOf("/tags/");
   var quotesIx = thisURL.indexOf("/quotes/");
-  var coreIx = thisURL.indexOf("/core/");
-  var intoIx = thisURL.indexOf("/intro/");
+  var coreIx   = thisURL.indexOf("/core/");
+  var introIx  = thisURL.indexOf("/intro/");
+  var linksIx  = thisURL.indexOf("/links/");
+  var newsIx   = thisURL.indexOf("/news/");
   var page = qfilename[n];
   if (blogIx > 0) {
     page = "../../quotes/" + page;
   }
   else
-  if (tagsIx < 0 && quotesIx < 0 && coreIx < 0 && introIx < 0) {
+  if (tagsIx < 0 && quotesIx < 0 && coreIx < 0 && introIx < 0 && linksIx < 0 && newsIx < 0) {
     page = "quotes/" + page;
   } else {
     page = "../quotes/" + page;
