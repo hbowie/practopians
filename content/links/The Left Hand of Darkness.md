@@ -6,7 +6,7 @@ Tags: cultural evolution, art
 
 Author: Herb Bowie
 
-Date: January 31, 2017
+Date: 2017-01-31
 
 Link: http://amzn.to/2jsmsVa
 
