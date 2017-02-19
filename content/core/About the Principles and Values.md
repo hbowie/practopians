@@ -37,6 +37,15 @@ We have no intention, however, to discount or demean or disavow any particular r
 In fact, many elements of the Practopian Principles and Values can be found in various religious texts and teachings, and it is no part of our intent to diminish anyone's appreciation for these other works. 
 
 
+## Breadth of Concerns
+
+We have stated as our first [principle][principles] that we are [humanistic][humanism], and thus focused on human concerns and human potential.
+
+Nowhere do we restrict this interest to any particular part of the world and so, by implication, and with conscious intent, our perspective is a global one. 
+
+While none of our principles and values explicitly state a concern for other species on our planet, our humanistic perspective is not intended to imply any disregard for the condition of other life forms on our planet nor, indeed, for the web of life of which humanity is only a part. In fact, we believe that humans would be rather foolish to think that our happiness, if not our very survival, hinges on our ability to harmoniously coexist with the many other species with which we share our planet. 
+
+[humanism]:	  ../tags/humanism.html
 [mission]:    mission.html
 [principles]: principles.html
 [values]:     values.html
