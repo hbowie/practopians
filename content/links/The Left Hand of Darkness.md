@@ -50,4 +50,6 @@ I urge you to buy a copy today. If you're not familiar with it, read it. And the
 
 When logic and reason fail, perhaps stories like this can awaken new possibilities. 
 
+<br />
+
 <a href="https://www.amazon.com/Left-Hand-Darkness-Penguin-Galaxy/dp/0143111590/ref=as_li_ss_il?_encoding=UTF8&qid=1485903447&sr=8-1&linkCode=li3&tag=practopians-20&linkId=b741e3ab2b062c31c7737ba6936eb2df" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0143111590&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=practopians-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=practopians-20&l=li3&o=1&a=0143111590" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

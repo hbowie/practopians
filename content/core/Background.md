@@ -4,7 +4,7 @@ It has seemed to me for some time that there is a space -- perhaps even a need -
 
 Our modern human landscape is one of tremendous diversity and specialization. More than ever before, individuals are free to choose from an almost infinite palette of cultural elements: fields of academic study, professional specializations, languages, works of art, athletic pursuits, ethnic traditions, cuisines, styles of fashion, political parties, modes of sexual expression, philanthropic efforts, sacred texts, religions, sects, spiritual movements, and so on. This ever-expanding palette presents us with a huge range of opportunities for exploration and self-definition.  
 
-In most ways, I believe, this cultural freedom is tremendously liberating, and therefore beneficial to human society: people are no longer slaves to the cultures in which they were raised, but free to choose cultural elements that allow them to be their own individuals.  
+In most ways, I believe, this cultural freedom is tremendously liberating, and therefore beneficial to human society: people are no longer prisoners of the cultures in which they were raised, but free to choose cultural elements that allow them to be their own individuals.  
 
 At the same time, though, it sometimes feels that this diversity is giving rise to ever-increasing fragmentation of our culture, to the point that it even becomes difficult to speak of culture as something shared by members of a society. 
 

@@ -95,9 +95,11 @@ We believe in:
 * Our [Links](../links/) section contains a collection of helpful hyperlinks to recommended resources.
 
 
-### Ownership
+### About
 
-Practopians.org is currently owned and authored by <a href="http://www.herbbowie.com" target="ref">Herb Bowie</a>, who is actively seeking like-minded collaborators, and pursuing incorporation of The Society for Practical Utopians in the state of Washington as a 501(c)(3) tax exempt nonprofit. 
+The Society for Practical Utopians was incorporated in the State of Washington, USA, as a WA Non-Profit Corporation on March 1, 2017.
+
+Practopians.org is currently owned and authored by <a href="http://www.herbbowie.com" target="ref">Herb Bowie</a>, who is actively seeking like-minded collaborators, and pursuing recognition of The Society for Practical Utopians as a 501(c)(3) tax exempt nonprofit. 
 
 
 ### Contact

@@ -6,10 +6,12 @@ feed
 /web/core/mission.html
 /web/blog
 /web/core
+/web/creed
 /web/intro
 /web/issues
 /web/news
 /web/quotes
+/web/quotes-by-author
 /web/search
 /web/tags
 
@@ -19,3 +21,5 @@ feed
 /reference
 /web/follow
 /web/links
+web/creed/*
+web/quotes-by-author/*

@@ -1,6 +1,6 @@
 Title: Principles
 
-This list identifies our most fundamental beliefs about the world and our place in it.
+Our principles identify our most fundamental beliefs about the world and our place in it.
 
 1. We are [humanistic][humanism]: we are focused on human concerns and human potential.
 
@@ -24,7 +24,7 @@ This list identifies our most fundamental beliefs about the world and our place 
 
 11. In order to achieve positive outcomes from the [complex social, economic, and ecological systems][systemic] in which we live, we believe we must think systemically -- rather than simply focusing on the individual actors within these systems -- and need to identify root causes and take actions at that level.
 
-12. We experience a sense of [wonder][] in our approach to the world as we encounter the mysterious, the unexpected, the unfamiliar and the inexplicable.
+12. We experience a sense of [wonder][] in our approach to the world as we encounter the mysterious, the unexpected, the unfamiliar and the unexplained.
 
 13. Although we cannot define the meaning of the word in any comprehensive way -- or, perhaps, *because* we cannot fully define it -- we believe in [love][].
 

@@ -71,6 +71,7 @@ template	generate
 <!-- Generate html content for issues section -->
 
 input	set		normalization	0
+input	set		xpltags	false
 input	open	notenik+		#PATH#../content/issues/
 template	open	text		#PATH#../factory/issues/issue_body_template.html
 template	generate			
@@ -169,18 +170,14 @@ template	generate
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
-sort	clear			
-sort	add	Ascending	Section Seq	
-sort	add	Ascending	Content Seq	
-sort	add	Descending	Post Date	
-sort	add	Ascending	Section Title	
-sort	add	Ascending	Content Title	
-sort	set		params	
 filter	clear			
 filter	set		params	
 filter	add	equals	Section Title	Issues
 filter	add	not equal to	Content Title	Index
 filter	set		params	
+sort	clear			
+sort	add	Ascending	Content Seq	
+sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/issues_index_template.html
 template	generate			
@@ -234,7 +231,7 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/links/
 sort	clear			
-sort	add	Ascending	Title	
+sort	add	Descending	Date	
 sort	set		params	
 template	open	text		#PATH#../factory/links_index_template.html
 template	generate			
@@ -266,6 +263,19 @@ sort	add	Ascending	Content Title
 sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/content_template.html
+template	generate			
+
+<!-- Generate Quotes by Author Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorfilename	
+sort	add	Ascending	year	
+sort	add	Ascending	dateadded	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/quotes_by_author_template.html
 template	generate			
 
 <!-- Generate web pages for Quotes -->
@@ -331,4 +341,25 @@ sort	clear
 sort	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/search_template.html
+template	generate			
+
+<!-- Generate Creed Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/creed/
+template	open	text		#PATH#../factory/creed/creed_template.md
+template	generate			
+template	open	text		#PATH#../factory/creed/creed_template.html
+template	generate			
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/creed/creed_index_template.html
+template	generate			
+filter	add	contains	Status	Current
+filter	set		params	
+template	open	text		#PATH#../factory/creed/creed_current_template.md
+template	generate			
+template	open	text		#PATH#../factory/creed/creed_current_template.html
+template	generate			
+template	open	text		#PATH#../factory/creed/creed_core_template.html
 template	generate			

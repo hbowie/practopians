@@ -1,5 +1,21 @@
 Title: Sustainability
 
+Author: Herb Bowie
+
+Date: 2016-11-23
+
+Issue: Sustainability
+
+Tags:  sustainability
+
+Seq: 1
+
+Teaser:
+
+As Practical Utopians, we want our culture to continue to evolve towards better and brighter outcomes for humanity. The biggest threat we see to this continued evolution is our ongoing exhaustion and degradation of our natural environment here on Earth. 
+
+Body:
+
 As Practical Utopians, we want our culture to continue to evolve towards better and brighter outcomes for humanity. 
 
 The biggest threat we see to this continued evolution is our ongoing exhaustion and degradation of our natural environment here on Earth. 

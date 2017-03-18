@@ -6,7 +6,7 @@ Put another way, these two lists are intended to constitute a minimum set of bel
 
 We make no claims that these principles and values are fixed and immutable; in fact, they are subject to change and improvement. And we do not uphold them because they were handed down from some higher authority; we believe them because we make a conscious choice to do so. 
 
-It is because of the foundational nature of these beliefs, their transparent authorship, and our openness to change, that we sometimes speak of the Practical Utopians as a sort of "open-source religion." 
+It is because of the foundational nature of these beliefs, their transparent authorship, and our openness to change, that we sometimes speak of The Society for Practical Utopians as a sort of "open-source religion." 
 
 ## Criteria for Inclusion
 
@@ -43,7 +43,7 @@ We have stated as our first [principle][principles] that we are [humanistic][hum
 
 Nowhere do we restrict this interest to any particular part of the world and so, by implication, and with conscious intent, our perspective is a global one. 
 
-While none of our principles and values explicitly state a concern for other species on our planet, our humanistic perspective is not intended to imply any disregard for the condition of other life forms on our planet nor, indeed, for the web of life of which humanity is only a part. In fact, we believe that humans would be rather foolish to think that our happiness, if not our very survival, hinges on our ability to harmoniously coexist with the many other species with which we share our planet. 
+While none of our principles and values explicitly state a concern for other species on our planet, our humanistic perspective is not intended to imply any disregard for the condition of other life forms on our planet nor, indeed, for the web of life of which humanity is only a part. In fact, we believe that humans would be rather foolish if we did not think that our happiness, and perhaps even our very survival, hinges on our ability to harmoniously coexist with the many other species with which we share this world. 
 
 [humanism]:	  ../tags/humanism.html
 [mission]:    mission.html
