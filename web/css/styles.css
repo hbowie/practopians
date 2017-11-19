@@ -97,10 +97,13 @@ a.reflink:active 	{ color: #B78A3F; text-decoration: none; }
 	text-align: center;
 }
 
-blockquote {
-  font-size: 0.9em;
-  border-left: 5px solid #98A6C2;
-  padding-left: 33px;
+blockquote
+{
+	font-size: 1.0em;
+	border-left: 10px #B7C6E1 solid;
+	padding-left: 33px;
+	font-style: italic;
+	font-weight: lighter;
 }
 
 blockquote footer {
@@ -371,6 +374,11 @@ div.five-star {
  text-align:right;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .pic-right {
   float: right;
   padding: 4px;
@@ -379,6 +387,12 @@ div.five-star {
 .img-top-right {
   float: right;
   padding: 4px;
+}
+
+.centered-block {
+	display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .pub-date {
@@ -469,6 +483,14 @@ table.toc {
 	font-weight: normal;
 	color: #333;
 }
+
+.no-indent-list ol
+{
+	margin-left: 0;
+	padding-left: 0;
+	list-style-position: inside;
+}
+
 
 @media (min-width: 768px) {
 	.navbar .navbar-nav {

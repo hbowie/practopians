@@ -23,3 +23,5 @@ feed
 /web/links
 web/creed/*
 web/quotes-by-author/*
+*.png
+*.jpg

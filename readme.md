@@ -59,7 +59,9 @@ Build Process
 
 3. Use iWisdom to export All Fields of Entire Collection to a tab delimited text file named 'quotes.tab' in the lists folder.
 
-4. Use PSTextMerge to play the script named 'practopians-gen.tcz' in the scripts folder.
+4. Update content.xls in the lists folder to add a new blog post. 
+
+5. Use PSTextMerge to play the script named 'practopians-gen.tcz' in the scripts folder.
 
 Rights
 ------

@@ -131,6 +131,10 @@ template	generate
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tags_list_template.html
 template	generate			
+template	open	text		#PATH#../factory/tag_cloud_template.txt
+template	generate			
+template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
+template	generate			
 
 <!-- Generate navbar include file -->
 
