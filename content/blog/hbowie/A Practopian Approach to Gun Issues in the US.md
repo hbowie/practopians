@@ -14,6 +14,8 @@ The recent Florida school shooting has again propelled issues surrounding gun vi
 
 Body:
 
+<p><img src="../../images/guns.jpg" alt="Guns and Automatic Weapons" title="Guns and Automatic Weapons" /></p>
+
 The [recent Florida school shooting][stoneman] has again propelled issues surrounding gun violence into the forefront of our national dialogue. 
 
 The [Core Practopian beliefs][core] may seem very broad and general, but I'd like to illustrate how they can be usefully employed in a specific debate such as this one. 
