@@ -2,11 +2,13 @@ Title:  Evolution
 
 Type:   Principle
 
-Seq:    4
+Seq:    P.04
 
 Tags:   evolution
 
 Level:  5
+
+Abridged: 04. We believe in **[evolution](http://www.practopians.org/tags/evolution.html)** as an ongoing force in the world, and in particular are interested in the continuing evolution of humanity.
 
 Teaser: 
  

@@ -164,8 +164,8 @@ And there you have it: as promised, a belief system that is:
 So what do you think? I'm looking forward to your feedback. Send me a note at [hb@practopians.org](mailto:hb@practopians.org), or post your reactions and comments on the [Practopians Facebook Page][fb].
 
 [1]: ../../
-[2]: ../../creed/practopians-creed.md
-[3]: ../../creed/practopians-creed.html
+[2]: ../../creed/practopian-creed.md
+[3]: ../../creed/practopian-creed.html
 [4]: https://github.com/hbowie/practopians/
 [5]: http://www.herbbowie.com
 [6]: http://creativecommons.org/licenses/by-sa/4.0/

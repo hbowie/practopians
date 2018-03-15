@@ -54,6 +54,7 @@ connection
 connection
 connection
 connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -109,6 +110,9 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+cultural evolution
+cultural evolution
+cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
@@ -177,6 +181,9 @@ diversity
 diversity
 diversity
 diversity
+education
+education
+education
 education
 education
 education
@@ -286,6 +293,8 @@ individuals
 individuals
 individuals
 individuals
+individuals
+integral
 integral
 integral
 integral
@@ -343,6 +352,8 @@ parenthood
 parenthood
 parenthood
 population
+population
+practical
 practical
 practical
 practical
@@ -441,6 +452,7 @@ systemic
 systemic
 systemic
 systemic
+systemic
 tools
 value creation
 value creation
@@ -464,6 +476,7 @@ wonder
 wonder
 wonder
 wonder
+written word
 written word
 written word
 written word

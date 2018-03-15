@@ -1,17 +1,23 @@
-Title: Humanism
+Title:  Humanism
 
-Type:  Principle
+Type:   Principle
 
-Seq:   1
+Seq:    P.01
 
-Level: 5
+Tags:   humanism
 
-Teaser:
+Level:  5
 
+Teaser: 
+ 
 Humanism is a [Core Principle](../core/principles.html).
 
-Body:
+Abridged: 01. We are **[humanistic](http://www.practopians.org/tags/humanism.html)**: we are focused on human concerns and human potential.
 
+Body:   
+ 
 We are [humanistic][humanism]: we are focused on human concerns and human potential.
 
 [humanism]:           ../tags/humanism.html
+
+

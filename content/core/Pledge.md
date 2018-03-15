@@ -8,6 +8,6 @@ We ask only the following from Practical Utopians:
 
 3. Provide us with [Feedback](mailto:feedback@practopians.org) in any areas where you see opportunities for improvement. 
 
-Our Mission, Principles and Values have been combined into a single, stand-alone document we call [The Practopian Creed](../creed/practopians-creed.html), for easy reference.
+Our Mission, Principles and Values have been combined into a single, stand-alone document we call [The Practopian Creed](../creed/practopian-creed.html), for easy reference.
 
 <p>If you can agree to the elements of the Creed, then you're ready to <a href="mailto:pledge@practopians.org?subject=Practopian%20Pledge&body=Yes,%20I'm ready%20to%20take%20the%20Practopian%20Pledge!">take the Practopian Pledge</a>!</p>

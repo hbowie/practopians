@@ -2,9 +2,13 @@ Title: Changes
 
 This log tracks changes to the site, especially in regards to the Core Writings. A more detailed change history can be found on <a href="https://github.com/hbowie/practopians/" target="ref">GitHub</a>.
 
+### 14 Mar 2018
+
+Made a few minor changes to the wording of some of the Core beliefs. Also created the [Abridged Version of the Creed](../abridged.html). Revised Core beliefs Version Number to 0.91. 
+
 ### 18 Mar 2017
 
-Bundled the Mission, Principles and Values into The Practopian Creed. 
+Bundled the Mission, Principles and Values into The Practopian Creed. Identified the Core beliefs at Version Number 0.90. 
 
 ### 01 Feb 2017
 

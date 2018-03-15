@@ -1,6 +1,6 @@
 <?nextrec?>
 <?definegroup 1 "=$authorfilename$=" ?>
-<?definegroup 2 "=$source$=" ?>
+<?definegroup 2 "=$worktitle$=" ?>
 <?ifendgroup 2 ?>
 <?endif?>
 <?ifendgroup 1 ?>
@@ -91,15 +91,15 @@
           <h2>Quotations by =$author$=</h2>
 <?endif?>
 <?ifnewgroup 2 ?>
-<?if "=$sourceline$=" ?>
+<?if "=$workhtmlline$=" ?>
 					<p class="sourceline">
-						From =$sourceline$=
+						From =$workhtmlline$=
 					</p>
 <?endif?>
 <?endif?>
 		  			<h3>=$title$=</h3>
-<?if "=$category$=" ?>
-					<p>tags: =$category&g$=</p>
+<?if "=$tags$=" ?>
+					<p>tags: =$tags&g$=</p>
 <?endif?>
 					<blockquote>
 						=$body$=

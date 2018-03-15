@@ -2,16 +2,17 @@ Title:  Science
 
 Type:   Principle
 
-Seq:    3
+Seq:    P.03
 
-Tags:   science
+Tags:   science, tools
 
 Level:  5
+
+Abridged: 03. We embrace **[science](http://www.practopians.org/tags/science.html)** as one way of understanding the universe, and we accept toolmaking as one means of improving the human condition.
 
 Teaser: 
  
 Science is a [Core Principle](../core/principles.html).
-
 
 Body:   
  

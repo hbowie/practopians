@@ -1,9 +1,19 @@
-Title: value creation
+Title:  Value Creation
 
-Teaser:
+Type:   Value
 
+Seq:    V.11
+
+Tags:   value creation
+
+Abridged: 11. **[Value Creation](http://www.practopians.org/tags/value-creation.html)** -- It is in the best interests of society to encourage its citizens to engage in activities that will create value for themselves and others and society at large.
+
+Teaser: 
+ 
 Value creation is a [Core Value](../core/values.html).
 
-Body:
-
+Body:   
+ 
 It is in the best interests of society to encourage its citizens to engage in activities that will create value for themselves and others and society at large, and to allocate capital so that the greatest amount of it is available for use by those with the strongest likelihood of using it wisely.
+
+

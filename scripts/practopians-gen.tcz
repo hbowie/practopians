@@ -1,5 +1,47 @@
 module	action	modifier	object	value
 
+<!-- Generate Mission Statement -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	add	equals	Type	Mission
+filter	set		params	
+template	open	text		#PATH#../factory/mission_template.md
+template	generate			
+
+<!-- Generate List of Principles -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equals	Type	Principle
+filter	set		params	
+template	open	text		#PATH#../factory/principles_template.md
+template	generate			
+
+<!-- Generate List of Values -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equals	Type	Value
+filter	set		params	
+template	open	text		#PATH#../factory/values_template.md
+template	generate			
+
 <!-- Generate Developmental Levels include -->
 
 input	set		normalization	0
@@ -86,8 +128,15 @@ template	generate
 <!-- Generate html content for tags section -->
 
 input	set		normalization	0
-input	open	notenik+		#PATH#../content/tags/
-template	open	text		#PATH#../factory/tags/tags_body_template.html
+input	set		xpltags	true
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Tag	
+sort	add	Ascending	Title	
+sort	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
 template	generate			
 
 <!-- Generate html content for news section -->
@@ -111,6 +160,30 @@ input	open	notenik+		#PATH#../content/follow/
 template	open	text		#PATH#../factory/follow/follow_body_template.html
 template	generate			
 
+<!-- Generate Tags List with links for right-hand column -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Tag	
+sort	add	Ascending	Item Type	
+sort	add	Descending	Date	
+sort	add	Ascending	Title	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tags_list_template.html
+template	generate			
+template	open	text		#PATH#../factory/tag_cloud_template.txt
+template	generate			
+template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
+template	generate			
+
 <!-- Generate Tags Pages -->
 
 input	set		normalization	0
@@ -123,17 +196,11 @@ sort	add	Ascending	Item Type
 sort	add	Descending	Date	
 sort	add	Ascending	Title	
 sort	set		params	
+filter	clear			
+filter	set		params	
 filter	add	not equal to	Tag	
 filter	set		params	
-template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tag_template.html
-template	generate			
-template	webroot	text		#PATH#../web/
-template	open	text		#PATH#../factory/tags_list_template.html
-template	generate			
-template	open	text		#PATH#../factory/tag_cloud_template.txt
-template	generate			
-template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
 template	generate			
 
 <!-- Generate navbar include file -->
@@ -275,7 +342,7 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
 sort	add	Ascending	authorfilename	
-sort	add	Ascending	year	
+sort	add	Ascending	date	
 sort	add	Ascending	dateadded	
 sort	set		params	
 template	webroot	text		#PATH#../web/
@@ -347,6 +414,21 @@ template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/search_template.html
 template	generate			
 
+<!-- Generate Creed Content from beliefs -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params	
+template	open	text		#PATH#../factory/creed/creed_content_gen.md
+template	generate			
+
 <!-- Generate Creed Pages -->
 
 input	set		normalization	0
@@ -366,4 +448,15 @@ template	generate
 template	open	text		#PATH#../factory/creed/creed_current_template.html
 template	generate			
 template	open	text		#PATH#../factory/creed/creed_core_template.html
+template	generate			
+
+<!-- Generate Abridged Creed -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/creed/abridged_template.html
 template	generate			

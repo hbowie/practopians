@@ -8,6 +8,8 @@ Level:
 
 Tags:   One or more tags, separated by commas 
 
+Abridged: <longtext>
+
 Teaser: 
  
 A brief sample of the note that will make people want to read more

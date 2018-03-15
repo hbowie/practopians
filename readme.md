@@ -23,6 +23,7 @@ The practopians project is organized into the following folders.
 
 * content -- The site provides several different types of content, and each type of content exists here within its respective subfolder.
 
+	* beliefs -- Core beliefs. This folder can be accessed as a Notenik collection. 
 	* blog -- Blog posts are organized by author.
 	* core -- These are core writings that provide the basic definition of what it means to be a Practical Utopian.
 	* intro -- Brief introductory notes.
