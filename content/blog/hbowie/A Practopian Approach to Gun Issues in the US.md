@@ -28,7 +28,7 @@ A good starting point would be the first two elements of the [Practopian mission
 
 * We strive to combine a clear-eyed view of what is possible with an idealistic yearning for a better tomorrow.
 
-Let's try to remember that, when all is said and done, if we haven't advanced our mission, then we've failed. This is the ultimate acid test for the direction of our discussions: we're trying to create a better tomorrow. In this case, we're trying to create a future in which innocent children are not gunned down in their schools.
+Let's try to remember that, when all is said and done, if we haven't advanced our mission, then we've failed. This is the ultimate acid test for the direction of our discussions: we're trying to create a better tomorrow. In this case, we're trying to create a future in which innocent people are not killed by guns.
 
 ## Balance
 

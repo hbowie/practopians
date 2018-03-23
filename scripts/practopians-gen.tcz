@@ -1,6 +1,7 @@
 module	action	modifier	object	value
 
-<!-- Generate Mission Statement -->
+<!-- Generate Mission Statement         -->
+<!-- Output: ../content/core/Mission.md -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -61,6 +62,7 @@ template	open	text		#PATH#../factory/content-feed_template.txt
 template	generate			
 
 <!-- Generate Quotes feed in a standard format -->
+<!-- Output: ../feed/quotes-feed.txt"          -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -130,11 +132,15 @@ template	generate
 input	set		normalization	0
 input	set		xpltags	true
 input	open	notenik-defined		#PATH#../content/beliefs/
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+sort	clear			
+sort	set		params	
 sort	add	Ascending	Tag	
 sort	add	Ascending	Title	
 sort	set		params	
-filter	add	not equal to	Tag	
-filter	set		params	
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
 template	generate			

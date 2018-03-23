@@ -26,6 +26,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -55,6 +56,10 @@ connection
 connection
 connection
 connection
+connection
+critical thinking
+critical thinking
+critical thinking
 critical thinking
 critical thinking
 critical thinking
@@ -171,6 +176,7 @@ democracy
 democracy
 democracy
 democracy
+democracy
 diversity
 diversity
 diversity
@@ -181,6 +187,7 @@ diversity
 diversity
 diversity
 diversity
+diversity
 education
 education
 education
@@ -200,6 +207,9 @@ education
 education
 education
 education
+education
+equality
+equality
 equality
 equality
 equality
@@ -226,6 +236,8 @@ equality
 evolution
 evolution
 evolution
+evolution
+governance
 governance
 governance
 governance
@@ -341,12 +353,16 @@ love
 love
 love
 love
+love
+love
 mission
 mission
 mission
 mission
 mission
 mission
+parenthood
+parenthood
 parenthood
 parenthood
 parenthood
@@ -414,6 +430,7 @@ science
 science
 science
 science
+society
 society
 society
 society

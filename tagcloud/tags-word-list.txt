@@ -1,22 +1,22 @@
-28	art	http://www.practopians.org/tags/art.html
+29	art	http://www.practopians.org/tags/art.html
 09	balance	http://www.practopians.org/tags/balance.html
-20	connection	http://www.practopians.org/tags/connection.html
-55	critical thinking	http://www.practopians.org/tags/critical-thinking.html
+21	connection	http://www.practopians.org/tags/connection.html
+58	critical thinking	http://www.practopians.org/tags/critical-thinking.html
 56	cultural evolution	http://www.practopians.org/tags/cultural-evolution.html
-05	democracy	http://www.practopians.org/tags/democracy.html
-10	diversity	http://www.practopians.org/tags/diversity.html
-19	education	http://www.practopians.org/tags/education.html
-23	equality	http://www.practopians.org/tags/equality.html
-03	evolution	http://www.practopians.org/tags/evolution.html
-14	governance	http://www.practopians.org/tags/governance.html
+06	democracy	http://www.practopians.org/tags/democracy.html
+11	diversity	http://www.practopians.org/tags/diversity.html
+20	education	http://www.practopians.org/tags/education.html
+25	equality	http://www.practopians.org/tags/equality.html
+04	evolution	http://www.practopians.org/tags/evolution.html
+15	governance	http://www.practopians.org/tags/governance.html
 21	humanism	http://www.practopians.org/tags/humanism.html
 04	imperfection	http://www.practopians.org/tags/imperfection.html
 29	individuals	http://www.practopians.org/tags/individuals.html
 13	integral	http://www.practopians.org/tags/integral.html
 20	liberty	http://www.practopians.org/tags/liberty.html
-14	love	http://www.practopians.org/tags/love.html
+16	love	http://www.practopians.org/tags/love.html
 06	mission	http://www.practopians.org/tags/mission.html
-04	parenthood	http://www.practopians.org/tags/parenthood.html
+06	parenthood	http://www.practopians.org/tags/parenthood.html
 02	population	http://www.practopians.org/tags/population.html
 04	practical	http://www.practopians.org/tags/practical.html
 28	progress	http://www.practopians.org/tags/progress.html
@@ -24,7 +24,7 @@
 14	religion	http://www.practopians.org/tags/religion.html
 02	rule of law	http://www.practopians.org/tags/rule-of-law.html
 12	science	http://www.practopians.org/tags/science.html
-11	society	http://www.practopians.org/tags/society.html
+12	society	http://www.practopians.org/tags/society.html
 09	stories	http://www.practopians.org/tags/stories.html
 14	sustainability	http://www.practopians.org/tags/sustainability.html
 05	systemic	http://www.practopians.org/tags/systemic.html

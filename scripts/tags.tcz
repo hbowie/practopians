@@ -1,0 +1,18 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-defined		#PATH#../content/beliefs/
+filter	clear			
+filter	set		params	
+filter	clear			
+filter	set		params	
+filter	add	not equal to	Tag	
+filter	set		params	
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Tag	
+sort	add	Ascending	Title	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
+template	generate			
