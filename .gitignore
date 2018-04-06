@@ -25,3 +25,6 @@ web/creed/*
 web/quotes-by-author/*
 *.png
 *.jpg
+/medium posts
+/emails
+/Practopians To Do

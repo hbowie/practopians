@@ -28,7 +28,7 @@ A good starting point would be the first two elements of the [Practopian mission
 
 * We strive to combine a clear-eyed view of what is possible with an idealistic yearning for a better tomorrow.
 
-Let's try to remember that, when all is said and done, if we haven't advanced our mission, then we've failed. This is the ultimate acid test for the direction of our discussions: we're trying to create a better tomorrow. In this case, we're trying to create a future in which innocent people are not killed by guns.
+Let's try to remember that, when all is said and done, if we haven't advanced our mission, then we've failed. This is the ultimate acid test for the direction of our discussions: we're trying to create a better tomorrow. In this case, we're trying to create a future in which fewer innocent people are killed by guns.
 
 ## Balance
 
@@ -96,7 +96,7 @@ Practopians understand that we humans create meaning for ourselves through [stor
 
 This American belief in the efficacy of guns is also reinforced by our special history. We used guns to achieve our independence. We used guns to expand our American boundaries. We used guns to preserve our union during our Civil War. We used guns during World Wars I and II to defend freedom, not just for us, but for others all around the world. 
 
-Our national experiences in the two World Wars, I think, further explains our love of guns. Unlike many European countries, we did not suffer either invasion or occupation during these 20th century conflicts. In [WW I we lost 0.13% of our population in deaths attributable to the war][wwi]. In contrast, the United Kingdom lost about 2% of their population and France lost over 4%. So while Europe was sick of war and guns by the end of WW I, the US  was still able to see them primarily as heroic instruments. 
+Our national experiences in the two World Wars, I think, further explain our love of guns. Unlike many European countries, we did not suffer either invasion or occupation during these 20th century conflicts. In [WW I we lost 0.13% of our population in deaths attributable to the war][wwi]. In contrast, the United Kingdom lost about 2% of their population and France lost over 4%. So while Europe was sick of war and guns by the end of WW I, the US  was still able to see them primarily as heroic instruments. 
 
 Similarly, the [US lost only 0.32% of our population in WW II][wwii]. This is roughly one tenth of the 3.0% average for all countries involved in the conflict. The United Kingdom and its colonies lost almost 1% of their population, Germany lost over 8%, Russia  lost over 13% and France lost almost 1.5% of their population. 
 
