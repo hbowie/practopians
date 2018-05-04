@@ -27,6 +27,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -115,6 +116,10 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+critical thinking
+cultural evolution
+cultural evolution
+cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
@@ -179,6 +184,7 @@ democracy
 democracy
 democracy
 democracy
+democracy
 diversity
 diversity
 diversity
@@ -210,6 +216,8 @@ education
 education
 education
 education
+equality
+equality
 equality
 equality
 equality
@@ -254,6 +262,11 @@ governance
 governance
 governance
 governance
+governance
+governance
+governance
+humanism
+humanism
 humanism
 humanism
 humanism
@@ -308,6 +321,9 @@ individuals
 individuals
 individuals
 individuals
+individuals
+individuals
+integral
 integral
 integral
 integral
@@ -445,6 +461,7 @@ society
 society
 society
 society
+society
 stories
 stories
 stories
@@ -469,6 +486,9 @@ sustainability
 sustainability
 sustainability
 sustainability
+systemic
+systemic
+systemic
 systemic
 systemic
 systemic
@@ -485,6 +505,8 @@ value creation
 value creation
 value creation
 value creation
+value creation
+wonder
 wonder
 wonder
 wonder
