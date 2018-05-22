@@ -14,6 +14,8 @@ A belief in evolution is one of the core Practopian principles. But to say that 
 
 Body:
 
+<p><img src="../images/evolution.jpg" alt="Human Evolution" title="Human Evolution" /></p>
+
 A belief in [evolution][] is one of the [core Practopian principles][cp]. We state our belief in the following way:
 
 > We believe in evolution as an ongoing force in the world, and in particular are interested in the continuing evolution of humanity.
