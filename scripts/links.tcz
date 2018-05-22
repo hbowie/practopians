@@ -1,0 +1,52 @@
+module	action	modifier	object	value
+
+<!-- Generate Links feed in a standard format -->
+<!-- Output: ../feed/links-feed.txt.          -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links-feed_template.txt
+template	generate
+
+<!-- Generate html content for links section    -->
+<!-- Output: ../../html/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links/link_body_template.html
+template	generate
+
+<!-- Generate Links Index              -->
+<!-- Output: ../html/links/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+sort	clear
+sort	add	Descending	Date
+sort	set		params
+template	open	text		#PATH#../factory/links_index_template.html
+template	generate
+
+<!-- Generate Links Index by Title              -->
+<!-- Output: ../html/links/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+filter	clear
+filter	set		params
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/links_index_by_title.html
+template	generate
+
+<!-- Generate web pages for Links           -->
+<!-- Output "../web/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/link_template.html
+template	generate

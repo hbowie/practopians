@@ -1,0 +1,9 @@
+module	action	modifier	object	value
+
+<!-- Generate html content for follow section    -->
+<!-- Output: ../../html/follow/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/follow/
+template	open	text		#PATH#../factory/follow/follow_body_template.html
+template	generate

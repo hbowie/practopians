@@ -1,0 +1,16 @@
+module	action	modifier	object	value
+
+<!-- Generate List of Values            -->
+<!-- Output: ../content/core/Values.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	clear			
+filter	set		params	
+filter	add	equals	Type	Value
+filter	set		params	
+template	open	text		#PATH#../factory/values_template.md
+template	generate			

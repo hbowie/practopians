@@ -1,0 +1,103 @@
+module	action	modifier	object	value
+
+<!-- Generate Content feed in a standard format -->
+<!-- Output: ../feed/content-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+template	open	text		#PATH#../factory/content-feed_template.txt
+template	generate
+
+<!-- Generate navbar include file     -->
+<!-- Output: ../includes/navbar.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Descending	Post Date
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/navbar_template.html
+template	generate
+
+<!-- Generate Next Navigation                              -->
+<!-- Output: ../nextnav/=$lastpath$==$lastfilename$=.html  -->
+
+template	open	text		#PATH#../factory/nextnav_template.html
+template	generate
+
+<!-- Generate Issues Index              -->
+<!-- Output: ../html/issues/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Issues
+filter	add	not equal to	Content Title	Index
+filter	set		params
+sort	clear
+sort	add	Ascending	Content Seq
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/issues_index_template.html
+template	generate
+filter	clear
+filter	set		params
+
+<!-- Generate Blog Index              -->
+<!-- Output: ../html/blog/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	add	Descending	Post Date
+sort	add	Ascending	Section Title
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/blog_index_template.html
+template	generate
+
+<!-- Generate Blog Index by Title              -->
+<!-- Output: ../html/blog/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Blog
+filter	add	does not contain	Title for Sort	index
+filter	set		params
+sort	add	Ascending	Title for Sort
+sort	set		params
+template	open	text		#PATH#../factory/blog_index_by_title.html
+template	generate
+
+<!-- Generate Web pages for content                     -->
+<!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+filter	clear
+filter	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/content_template.html
+template	generate

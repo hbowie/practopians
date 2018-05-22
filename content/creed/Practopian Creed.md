@@ -1,15 +1,13 @@
-Title: Practopian Creed
+Title:  Practopian Creed
 
-Version: 0.91
+Status: 6 - Current
 
-Status: Current
+Seq:    0.91
 
-Changes:
+Date Added: 2018-05-04 16:13:45
 
-Added abridged version of Creed. Tweaked Principle # 2 to "arrive at a more complete understanding of ourselves and the world around us" rather than "arrive at a more perfect understanding of the truth." Also tweaked Value # 6 to discourage discrimination based on "wealth or social status" in addition to other factors.
-
-Body:
-
+Body:   
+ 
 This document defines a set of aims and beliefs intended to help guide the actions of Practical Utopians everywhere.
 
 Mission
@@ -20,6 +18,7 @@ We Practopians seek to identify and promote beliefs, principles, values and acti
 We strive to combine a clear-eyed view of what is possible with an idealistic yearning for a better tomorrow.
 
 By documenting in an inclusive and transparent manner a foundational modern worldview, we hope to launch something that might be thought of as the world's first [open-source religion][github].
+
 
 [github]: https://github.com/hbowie/practopians
 
@@ -146,3 +145,5 @@ Feel free to reference the following links for additional information.
 [hb]: http://www.herbbowie.com
 [cc40]: http://creativecommons.org/licenses/by-sa/4.0/
 [feedback]: mailto:feedback@practopians.org
+
+

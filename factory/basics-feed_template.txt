@@ -1,0 +1,5 @@
+<?output "../feed/basics-feed.txt"?>
+Section	Item Type	Date	Title	Link	Tags	Teaser
+<?nextrec?>
+Basics	Basic Info	=$date$=	=$title$=	basics/=$title&f$=.html	=$tags$=	=$teaser$=
+<?loop?>

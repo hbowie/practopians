@@ -1,65 +1,69 @@
 module	action	modifier	object	value
 
-<!-- Generate Mission Statement         -->
-<!-- Output: ../content/core/Mission.md -->
+<!-- Generate Mission Statement          -->
+<!-- Output: ../content/core/Mission.md  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-defined		#PATH#../content/beliefs/
-sort	clear			
-sort	set		params	
-sort	add	Ascending	Seq	
-sort	set		params	
+sort	clear
+sort	set		params
+sort	add	Ascending	Seq
+sort	set		params
 filter	add	equals	Type	Mission
-filter	set		params	
+filter	set		params
 template	open	text		#PATH#../factory/mission_template.md
-template	generate			
+template	generate
 
-<!-- Generate List of Principles -->
+<!-- Generate List of Principles            -->
+<!-- Output: ../content/core/Principles.md  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-defined		#PATH#../content/beliefs/
-sort	add	Ascending	Seq	
-sort	set		params	
-filter	clear			
-filter	set		params	
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
 filter	add	equals	Type	Principle
-filter	set		params	
+filter	set		params
 template	open	text		#PATH#../factory/principles_template.md
-template	generate			
+template	generate
 
-<!-- Generate List of Values -->
+<!-- Generate List of Values            -->
+<!-- Output: ../content/core/Values.md  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-defined		#PATH#../content/beliefs/
-sort	add	Ascending	Seq	
-sort	set		params	
-filter	clear			
-filter	set		params	
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
 filter	add	equals	Type	Value
-filter	set		params	
+filter	set		params
 template	open	text		#PATH#../factory/values_template.md
-template	generate			
+template	generate
 
 <!-- Generate Developmental Levels include -->
+<!-- Output ../includes/devlevs.html       -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-general		#PATH#../content/dev levels/
-sort	add	Ascending	Seq	
-sort	set		params	
+sort	add	Ascending	Seq
+sort	set		params
 template	open	text		#PATH#../factory/devlevs_template.html
-template	generate			
+template	generate
 
 <!-- Generate Content feed in a standard format -->
+<!-- Output: ../feed/content-feed.txt           -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
 template	open	text		#PATH#../factory/content-feed_template.txt
-template	generate			
+template	generate
 
 <!-- Generate Quotes feed in a standard format -->
 <!-- Output: ../feed/quotes-feed.txt"          -->
@@ -68,25 +72,37 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
 template	open	text		#PATH#../factory/quotes-feed_template.txt
-template	generate			
+template	generate
 
 <!-- Generate News feed in a standard format -->
+<!-- Output: ../feed/news-feed.txt           -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news-feed_template.txt
-template	generate			
+template	generate
 
 <!-- Generate Links feed in a standard format -->
+<!-- Output: ../feed/links-feed.txt.          -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/links/
 template	open	text		#PATH#../factory/links-feed_template.txt
-template	generate			
+template	generate
+
+<!-- Generate Basics feed in a standard format -->
+<!-- Output: ../feed/basics-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics-feed_template.txt
+template	generate
 
 <!-- Merge and create a Consolidated Feed -->
+<!-- Output: ../feed/combined-feed.txt.   -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -96,344 +112,395 @@ input	set		xpltags	false
 input	open	file	merge	#PATH#../feed/content-feed.txt
 input	open	file	merge	#PATH#../feed/news-feed.txt
 input	open	file	merge	#PATH#../feed/links-feed.txt
+input	open	file	merge	#PATH#../feed/basics-feed.txt
 output	open	file		#PATH#../feed/combined-feed.txt
 
-<!-- Generate html content for intro section -->
+<!-- Generate html content for intro section    -->
+<!-- Output: ../../html/intro/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/intro/
 template	open	text		#PATH#../factory/intro/intro_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for core section -->
+<!-- Generate html content for core section    -->
+<!-- Output: ../../html/core/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/core/
 template	open	text		#PATH#../factory/core/core_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for issues section -->
+<!-- Generate html content for issues section                -->
+<!-- Output: ../../html/issues/=$issue&f$=/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/issues/
 template	open	text		#PATH#../factory/issues/issue_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for blog section -->
+<!-- Generate html content for blog section              -->
+<!-- Output: ../../../html/blog/hbowie/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/blog/hbowie/
 template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for tags section -->
+<!-- Generate html content for tags pages    -->
+<!-- Output: ../../html/tags/=$tag&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	true
 input	open	notenik-defined		#PATH#../content/beliefs/
-filter	clear			
-filter	set		params	
-filter	add	not equal to	Tag	
-filter	set		params	
-sort	clear			
-sort	set		params	
-sort	add	Ascending	Tag	
-sort	add	Ascending	Title	
-sort	set		params	
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Title
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for news section -->
+<!-- Generate html content for news section    -->
+<!-- Output: ../../html/news/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news/news_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for links section -->
+<!-- Generate html content for links section    -->
+<!-- Output: ../../html/links/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/links/
 template	open	text		#PATH#../factory/links/link_body_template.html
-template	generate			
+template	generate
 
-<!-- Generate html content for follow section -->
+<!-- Generate html content for follow section    -->
+<!-- Output: ../../html/follow/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/follow/
 template	open	text		#PATH#../factory/follow/follow_body_template.html
-template	generate			
+template	generate
 
 <!-- Generate Tags List with links for right-hand column -->
+<!-- Output: ../includes/tags_list.html                  -->
 
 input	set		normalization	0
 input	set		xpltags	true
 input	open	file		#PATH#../feed/combined-feed.txt
-sort	clear			
-sort	set		params	
-sort	add	Ascending	Tag	
-sort	add	Ascending	Item Type	
-sort	add	Descending	Date	
-sort	add	Ascending	Title	
-sort	set		params	
-filter	clear			
-filter	set		params	
-filter	add	not equal to	Tag	
-filter	set		params	
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/tags_list_template.html
-template	generate			
+template	generate
 template	open	text		#PATH#../factory/tag_cloud_template.txt
-template	generate			
+template	generate
 template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
-template	generate			
+template	generate
 
-<!-- Generate Tags Pages -->
+<!-- Generate Tags Pages                 -->
+<!-- Output: ../web/tags/=$tag&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	true
 input	open	file		#PATH#../feed/combined-feed.txt
-sort	clear			
-sort	set		params	
-sort	add	Ascending	Tag	
-sort	add	Ascending	Item Type	
-sort	add	Descending	Date	
-sort	add	Ascending	Title	
-sort	set		params	
-filter	clear			
-filter	set		params	
-filter	add	not equal to	Tag	
-filter	set		params	
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
 template	open	text		#PATH#../factory/tag_template.html
-template	generate			
+template	generate
 
-<!-- Generate navbar include file -->
+<!-- Generate navbar include file     -->
+<!-- Output: ../includes/navbar.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
-sort	clear			
-sort	set		params	
-sort	add	Ascending	Section Seq	
-sort	add	Ascending	Content Seq	
-sort	add	Descending	Post Date	
-sort	add	Ascending	Author	
-sort	add	Ascending	Content Title	
-sort	set		params	
+sort	clear
+sort	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Descending	Post Date
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/navbar_template.html
-template	generate			
+template	generate
 
-<!-- Generate Next Navigation -->
+<!-- Generate Next Navigation                              -->
+<!-- Output: ../nextnav/=$lastpath$==$lastfilename$=.html  -->
 
 template	open	text		#PATH#../factory/nextnav_template.html
-template	generate			
+template	generate
 
-<!-- Generate Quotes Index -->
+<!-- Generate Quotes Index              -->
+<!-- Output: ../html/quotes/index.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
-sort	add	Ascending	authorlastnamefirst	
-sort	add	Ascending	title	
-sort	set		params	
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
 template	open	text		#PATH#../factory/quotes_index_template.html
-template	generate			
+template	generate
 
-<!-- Generate Issues Index -->
+<!-- Generate Issues Index              -->
+<!-- Output: ../html/issues/index.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
-filter	clear			
-filter	set		params	
+filter	clear
+filter	set		params
 filter	add	equals	Section Title	Issues
 filter	add	not equal to	Content Title	Index
-filter	set		params	
-sort	clear			
-sort	add	Ascending	Content Seq	
-sort	set		params	
+filter	set		params
+sort	clear
+sort	add	Ascending	Content Seq
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/issues_index_template.html
-template	generate			
-filter	clear			
-filter	set		params	
+template	generate
+filter	clear
+filter	set		params
 
-<!-- Generate Blog Index -->
+<!-- Generate Blog Index              -->
+<!-- Output: ../html/blog/index.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
-sort	clear			
-sort	add	Descending	Post Date	
-sort	add	Ascending	Section Title	
-sort	add	Ascending	Content Title	
-sort	set		params	
+sort	clear
+sort	add	Descending	Post Date
+sort	add	Ascending	Section Title
+sort	add	Ascending	Content Title
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/blog_index_template.html
-template	generate			
+template	generate
 
-<!-- Generate Blog Index by Title -->
+<!-- Generate Blog Index by Title              -->
+<!-- Output: ../html/blog/index-by-title.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	xls		#PATH#../lists/content.xls
-filter	clear			
-filter	set		params	
+filter	clear
+filter	set		params
 filter	add	equals	Section Title	Blog
 filter	add	does not contain	Title for Sort	index
-filter	set		params	
-sort	add	Ascending	Title for Sort	
-sort	set		params	
+filter	set		params
+sort	add	Ascending	Title for Sort
+sort	set		params
 template	open	text		#PATH#../factory/blog_index_by_title.html
-template	generate			
+template	generate
 
-<!-- Generate News Index ->
+<!-- Generate News Index              -->
+<!-- Output: ../html/news/index.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/news/
-sort	clear			
-sort	add	Descending	Date	
-sort	add	Ascending	Title	
-sort	set		params	
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
 template	open	text		#PATH#../factory/news_index_template.html
-template	generate			
+template	generate
 
-<!-- Generate Links Index ->
+<!-- Generate Basics Index              -->
+<!-- Output: ../html/basics/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/basics_index_template.html
+template	generate
+
+<!-- Generate Links Index              -->
+<!-- Output: ../html/links/index.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/links/
-sort	clear			
-sort	add	Descending	Date	
-sort	set		params	
+sort	clear
+sort	add	Descending	Date
+sort	set		params
 template	open	text		#PATH#../factory/links_index_template.html
-template	generate			
+template	generate
 
-<!-- Generate Links Index by Title -->
+<!-- Generate Links Index by Title              -->
+<!-- Output: ../html/links/index-by-title.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/links/
-filter	clear			
-filter	set		params	
-sort	add	Ascending	Title	
-sort	set		params	
+filter	clear
+filter	set		params
+sort	add	Ascending	Title
+sort	set		params
 template	open	text		#PATH#../factory/links_index_by_title.html
-template	generate			
+template	generate
 
-<!-- Generate Web pages for content -->
+<!-- Generate Web pages for content                     -->
+<!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
 
 input	set		normalization	0
 input	open	xls		#PATH#../lists/content.xls
-sort	clear			
-sort	set		params	
-filter	clear			
-filter	set		params	
-sort	add	Ascending	Section Seq	
-sort	add	Ascending	Content Seq	
-sort	add	Ascending	Author	
-sort	add	Ascending	Content Title	
-sort	set		params	
+sort	clear
+sort	set		params
+filter	clear
+filter	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/content_template.html
-template	generate			
+template	generate
 
-<!-- Generate Quotes by Author Pages -->
+<!-- Generate Quotes by Author Pages                          -->
+<!-- Output: ../web/quotes-by-author/=$authorfilename$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
-sort	add	Ascending	authorfilename	
-sort	add	Ascending	date	
-sort	add	Ascending	dateadded	
-sort	set		params	
+sort	add	Ascending	authorfilename
+sort	add	Ascending	date
+sort	add	Ascending	dateadded
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/quotes_by_author_template.html
-template	generate			
+template	generate
 
-<!-- Generate web pages for Quotes -->
+<!-- Generate web pages for Quotes           -->
+<!-- Output: ../web/quotes/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
 template	open	text		#PATH#../factory/quote_template.html
-template	generate			
+template	generate
 
-<!-- Generate web pages for News -->
+<!-- Generate web pages for News           -->
+<!-- Output: ../web/news/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/news/
 template	open	text		#PATH#../factory/news_template.html
-template	generate			
+template	generate
 
-<!-- Generate web pages for Links -->
+<!-- Generate web pages for Basic Info       -->
+<!-- Output: ../web/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics_template.html
+template	generate
+
+<!-- Generate web pages for Links           -->
+<!-- Output "../web/links/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/links/
 template	open	text		#PATH#../factory/link_template.html
-template	generate			
+template	generate
 
 <!-- Generate Javascript Navigation for Quotes -->
+<!-- Output: ../web/js/quotes.js               -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../lists/quotes.tab
-sort	add	Ascending	authorlastnamefirst	
-sort	add	Ascending	title	
-sort	set		params	
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
 template	open	text		#PATH#../factory/quotes_template.js
-template	generate			
+template	generate
 
 <!-- Generate Home Page featuring most recent content additions -->
+<!-- Output: ../web/index.html                                  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../feed/combined-feed.txt
-sort	clear			
-sort	add	Descending	Date	
-sort	add	Ascending	Section	
-sort	add	Ascending	Title	
-sort	set		params	
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/home_template.html
-template	generate			
+template	generate
 
-<!-- Generate RSS Feed -->
+<!-- Generate RSS Feed       -->
+<!-- Output: ../web/rss.xml  -->
 
 template	open	text		#PATH#../factory/rss_template.xml
-template	generate			
+template	generate
 
-<!-- Generate Search Page -->
+<!-- Generate Search Page               -->
+<!-- Output: ../web/search/search.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../feed/combined-feed.txt
-sort	clear			
-sort	set		params	
+sort	clear
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/search_template.html
-template	generate			
+template	generate
 
-<!-- Generate Creed Content from beliefs -->
+<!-- Generate Creed Content from beliefs              -->
+<!-- Output: ../../content/creed/practopian-creed.md  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-defined		#PATH#../content/beliefs/
-sort	add	Ascending	Seq	
-sort	set		params	
-filter	clear			
-filter	set		params	
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
 filter	add	not equal to	Type	Clarification
 filter	add	not equal to	Type	Issue
-filter	set		params	
+filter	set		params
 template	open	text		#PATH#../factory/creed/creed_content_gen.md
-template	generate			
+template	generate
 
 <!-- Generate Creed Pages -->
 
@@ -441,28 +508,29 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/creed/
 template	open	text		#PATH#../factory/creed/creed_template.md
-template	generate			
+template	generate
 template	open	text		#PATH#../factory/creed/creed_template.html
-template	generate			
+template	generate
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/creed/creed_index_template.html
-template	generate			
+template	generate
 filter	add	contains	Status	Current
-filter	set		params	
+filter	set		params
 template	open	text		#PATH#../factory/creed/creed_current_template.md
-template	generate			
+template	generate
 template	open	text		#PATH#../factory/creed/creed_current_template.html
-template	generate			
+template	generate
 template	open	text		#PATH#../factory/creed/creed_core_template.html
-template	generate			
+template	generate
 
-<!-- Generate Abridged Creed -->
+<!-- Generate Abridged Creed                      -->
+<!-- Output "../../web/creed/abridged-creed.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-general		#PATH#../content/beliefs/
-sort	add	Ascending	Seq	
-sort	set		params	
+sort	add	Ascending	Seq
+sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/creed/abridged_template.html
-template	generate			
+template	generate

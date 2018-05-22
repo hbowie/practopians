@@ -1,0 +1,40 @@
+module	action	modifier	object	value
+
+<!-- Generate News feed in a standard format -->
+<!-- Output: ../feed/news-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news-feed_template.txt
+template	generate
+
+<!-- Generate html content for news section    -->
+<!-- Output: ../../html/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news/news_body_template.html
+template	generate
+
+<!-- Generate News Index              -->
+<!-- Output: ../html/news/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/news_index_template.html
+template	generate
+
+<!-- Generate web pages for News           -->
+<!-- Output: ../web/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news_template.html
+template	generate

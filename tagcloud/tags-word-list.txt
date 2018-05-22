@@ -2,14 +2,14 @@
 09	balance	http://www.practopians.org/tags/balance.html
 21	connection	http://www.practopians.org/tags/connection.html
 59	critical thinking	http://www.practopians.org/tags/critical-thinking.html
-60	cultural evolution	http://www.practopians.org/tags/cultural-evolution.html
+61	cultural evolution	http://www.practopians.org/tags/cultural-evolution.html
 08	democracy	http://www.practopians.org/tags/democracy.html
 11	diversity	http://www.practopians.org/tags/diversity.html
 20	education	http://www.practopians.org/tags/education.html
 27	equality	http://www.practopians.org/tags/equality.html
-04	evolution	http://www.practopians.org/tags/evolution.html
+05	evolution	http://www.practopians.org/tags/evolution.html
 18	governance	http://www.practopians.org/tags/governance.html
-23	humanism	http://www.practopians.org/tags/humanism.html
+24	humanism	http://www.practopians.org/tags/humanism.html
 04	imperfection	http://www.practopians.org/tags/imperfection.html
 31	individuals	http://www.practopians.org/tags/individuals.html
 14	integral	http://www.practopians.org/tags/integral.html
@@ -27,7 +27,7 @@
 13	society	http://www.practopians.org/tags/society.html
 09	stories	http://www.practopians.org/tags/stories.html
 15	sustainability	http://www.practopians.org/tags/sustainability.html
-08	systemic	http://www.practopians.org/tags/systemic.html
+09	systemic	http://www.practopians.org/tags/systemic.html
 01	tools	http://www.practopians.org/tags/tools.html
 11	value creation	http://www.practopians.org/tags/value-creation.html
 14	wonder	http://www.practopians.org/tags/wonder.html

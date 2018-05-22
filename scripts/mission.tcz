@@ -1,0 +1,16 @@
+module	action	modifier	object	value
+
+<!-- Generate Mission Statement         -->
+<!-- Output: ../content/core/Mission.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	clear			
+sort	set		params	
+sort	add	Ascending	Seq	
+sort	set		params	
+filter	add	equals	Type	Mission
+filter	set		params	
+template	open	text		#PATH#../factory/mission_template.md
+template	generate			

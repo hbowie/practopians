@@ -1,0 +1,10 @@
+module	action	modifier	object	value
+
+<!-- Generate html content for issues section                -->
+<!-- Output: ../../html/issues/=$issue&f$=/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/issues/
+template	open	text		#PATH#../factory/issues/issue_body_template.html
+template	generate

@@ -1,0 +1,12 @@
+module	action	modifier	object	value
+
+<!-- Generate Developmental Levels include -->
+<!-- Output ../includes/devlevs.html       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/dev levels/
+sort	add	Ascending	Seq	
+sort	set		params	
+template	open	text		#PATH#../factory/devlevs_template.html
+template	generate			

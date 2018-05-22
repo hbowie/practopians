@@ -1,0 +1,57 @@
+module	action	modifier	object	value
+
+<!-- Generate Quotes feed in a standard format -->
+<!-- Output: ../feed/quotes-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quotes-feed_template.txt
+template	generate
+
+<!-- Generate Quotes Index              -->
+<!-- Output: ../html/quotes/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_index_template.html
+template	generate
+
+<!-- Generate Quotes by Author Pages                          -->
+<!-- Output: ../web/quotes-by-author/=$authorfilename$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorfilename
+sort	add	Ascending	date
+sort	add	Ascending	dateadded
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/quotes_by_author_template.html
+template	generate
+
+<!-- Generate web pages for Quotes           -->
+<!-- Output: ../web/quotes/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quote_template.html
+template	generate
+
+<!-- Generate Javascript Navigation for Quotes -->
+<!-- Output: ../web/js/quotes.js               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_template.js
+template	generate

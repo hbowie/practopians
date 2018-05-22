@@ -4,17 +4,19 @@ Welcome to Practopians.org, the website for Practical Utopians!
 
 We invite you to explore our site. You'll note that it contains several different types of content.
 
-* Our [Core Writings](../core/) spell out who we are and what we're about, laying out our Background, Mission, Principles and Values.
+* Our [Core Writings](../core/index.html) spell out who we are and what we're about, laying out our Background, Mission, Principles and Values.
 
-* Our [Issues](../issues/) section identifies the issues we feel are most important.
+* Our [Issues](../issues/index.html) section identifies the issues we feel are most important.
 
-* Our [Blog Posts](../blog/) offer commentary on a variety of topics from a Practopian perspective.
+* Our [Basics](../basics/index.html) offer extended, but still foundational, information about our core beliefs. 
 
-* We've collected a number of [Quotations](../quotes/) that reflect and illustrate our core beliefs.
+* Our [Blog Posts](../blog/index.html) offer commentary on a variety of topics from a Practopian perspective.
 
-* We also highlight various [News Items](../news/), with some brief commentary on why they're relevant to our interests.
+* We've collected a number of [Quotations](../quotes/index.html) that reflect and illustrate our core beliefs.
 
-* Our [Links](../links/) section contains a collection of helpful hyperlinks to other resources -- works of art, websites -- that we recommend.
+* We also highlight various [News Items](../news/index.html), with some brief commentary on why they're relevant to our interests.
+
+* Our [Links](../links/index.html) section contains a collection of helpful hyperlinks to other resources -- works of art, websites -- that we recommend.
 
 When you visit our home page, you'll find yourself viewing all the [Latest Additions](../index.html) to our site, including all of the various content types listed above.
 

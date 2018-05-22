@@ -1,0 +1,9 @@
+module	action	modifier	object	value
+
+<!-- Generate html content for intro section    -->
+<!-- Output: ../../html/intro/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/intro/
+template	open	text		#PATH#../factory/intro/intro_body_template.html
+template	generate
