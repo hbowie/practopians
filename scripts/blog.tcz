@@ -1,9 +1,0 @@
-module	action	modifier	object	value
-
-<!-- Generate html content for blog section              -->
-<!-- Output: ../../../html/blog/hbowie/=$title&f$=.html  -->
-
-input	set		normalization	0
-input	open	notenik+		#PATH#../content/blog/hbowie/
-template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
-template	generate

@@ -354,6 +354,8 @@ div.five-star {
 #content-footer { 
 	margin-top: 3em;
 	font-family: 'concourse_t4regular', Verdana, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 0.9em;
+	text-align: center;
 }
 
 .content-footer-left {
@@ -373,6 +375,26 @@ div.five-star {
  width:30%;
  text-align:right;
 }
+
+.nav-footer {
+	margin-top: 3em;
+	font-family: 'concourse_t4regular', Verdana, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 0.9em;
+}
+
+.nav-footer-head
+{
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+	font-weight: normal;
+	margin-bottom: 0.7em;
+}
+
+.nav-footer-row {
+	margin-top: 0.5em;
+}
+
+.nav-footer-center { text-decoration: none; }
 
 img {
   max-width: 100%;

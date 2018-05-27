@@ -1,9 +1,0 @@
-module	action	modifier	object	value
-
-<!-- Generate html content for core section    -->
-<!-- Output: ../../html/core/=$title&f$=.html  -->
-
-input	set		normalization	0
-input	open	notenik+		#PATH#../content/core/
-template	open	text		#PATH#../factory/core/core_body_template.html
-template	generate

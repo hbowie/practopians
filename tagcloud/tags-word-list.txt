@@ -5,7 +5,7 @@
 61	cultural evolution	http://www.practopians.org/tags/cultural-evolution.html
 08	democracy	http://www.practopians.org/tags/democracy.html
 11	diversity	http://www.practopians.org/tags/diversity.html
-20	education	http://www.practopians.org/tags/education.html
+21	education	http://www.practopians.org/tags/education.html
 27	equality	http://www.practopians.org/tags/equality.html
 05	evolution	http://www.practopians.org/tags/evolution.html
 18	governance	http://www.practopians.org/tags/governance.html

@@ -22,4 +22,6 @@ When you visit our home page, you'll find yourself viewing all the [Latest Addit
 
 You'll see a list of Tags on every page. Each piece of content on the site is tagged with one or more of these words or phrases. Most of these Tags tie back to one of our Core Principles or Values; feel free to click on any of these to delve into additional content on a particular topic.
 
+Navigation links at the bottom of most pages can be used to proceed directly from one page to another, using any of several possible paths through the site. 
+
 If you have feedback or a message for us of any kind, please use our [Contact](contact.html) page to send us a note. We'd love to hear from you!

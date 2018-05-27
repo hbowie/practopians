@@ -85,6 +85,7 @@ And gradually an uncomfortable dynamic around the costs of US goods and services
 
 None of what I'm saying here is meant to gainsay any of the valuable wisdom shared generously with us by Reich in his latest book. On the other hand, I firmly believe that it's important to look at our modern problems from a [systemic][] perspective, as well as from a [values][] orientation. In order to achieve lasting, positive change, we need to consider structural issues in addition to the issues of values that Reich so ably addresses. 
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=practopians-20&marketplace=amazon&region=US&placement=052552049X&asins=052552049X&linkId=e5a1f96d7d60f3d8c6bb628f55d2c5bf&show_border=true&link_opens_in_new_window=true"></iframe>
 
 [big3]: https://en.wikipedia.org/wiki/Big_Three_(automobile_manufacturers)
 
@@ -124,4 +125,3 @@ None of what I'm saying here is meant to gainsay any of the valuable wisdom shar
 
 [values]: http://www.practopians.org/core/values.html
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=practopians-20&marketplace=amazon&region=US&placement=052552049X&asins=052552049X&linkId=f0d2f125da44dd449b1b16c9fd464d37&show_border=true&link_opens_in_new_window=true"></iframe>
