@@ -58,6 +58,7 @@ connection
 connection
 connection
 connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -186,6 +187,7 @@ democracy
 democracy
 democracy
 democracy
+diversity
 diversity
 diversity
 diversity
@@ -454,6 +456,7 @@ science
 science
 science
 science
+society
 society
 society
 society

@@ -72,9 +72,14 @@
 					<p class="byline">
 						&mdash;
 						<span class="authors">
+<?if "=$authorlink$="?>
+							<a href="=$authorlink$=" target="ref">
+<?else?>
 							<a href="https://en.wikipedia.org/wiki/=$authorwikimediapage$=" target="ref">
+<?endif?>
 								=$author$=
 							</a>
+
 						</span>
 					</p>
 <?if "=$workhtmlline$=" ?>
