@@ -59,6 +59,7 @@ connection
 connection
 connection
 connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -187,6 +188,7 @@ democracy
 democracy
 democracy
 democracy
+democracy
 diversity
 diversity
 diversity
@@ -220,6 +222,9 @@ education
 education
 education
 education
+education
+equality
+equality
 equality
 equality
 equality
@@ -270,6 +275,8 @@ governance
 governance
 governance
 governance
+humanism
+humanism
 humanism
 humanism
 humanism
@@ -363,6 +370,7 @@ liberty
 liberty
 liberty
 liberty
+love
 love
 love
 love
@@ -470,6 +478,7 @@ society
 society
 society
 society
+society
 stories
 stories
 stories
@@ -479,6 +488,7 @@ stories
 stories
 stories
 stories
+sustainability
 sustainability
 sustainability
 sustainability

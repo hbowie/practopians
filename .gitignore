@@ -32,3 +32,5 @@ nextnav/*
 /includes/tags_list.html
 /web/js/where_to_reverse_chron.js
 /web/basics
+/web/js/where_to_content_logical.js
+/includes/navbar.html
