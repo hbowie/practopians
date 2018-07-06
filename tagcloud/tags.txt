@@ -37,6 +37,7 @@ balance
 balance
 balance
 balance
+balance
 connection
 connection
 connection
@@ -189,6 +190,7 @@ democracy
 democracy
 democracy
 democracy
+democracy
 diversity
 diversity
 diversity
@@ -223,6 +225,7 @@ education
 education
 education
 education
+equality
 equality
 equality
 equality

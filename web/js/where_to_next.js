@@ -1,6 +1,11 @@
 var url = document.URL;
 var urlLower = url.toLowerCase();
 var depth = 0;
+/* document.write('<p>Debugging Info:</p>');
+document.write('<dl>');
+document.write('<dt>url to lower case</dt>');
+document.write('<dd>' + urlLower + '</dd>');
+document.write('</dl>'); */
 
   // Let's break the page URL down into a site and a local path
 
