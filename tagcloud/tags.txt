@@ -38,6 +38,7 @@ balance
 balance
 balance
 balance
+balance
 connection
 connection
 connection
@@ -61,6 +62,9 @@ connection
 connection
 connection
 connection
+connection
+connection
+critical thinking
 critical thinking
 critical thinking
 critical thinking
@@ -191,6 +195,8 @@ democracy
 democracy
 democracy
 democracy
+democracy
+democracy
 diversity
 diversity
 diversity
@@ -225,6 +231,9 @@ education
 education
 education
 education
+equality
+equality
+equality
 equality
 equality
 equality
@@ -260,6 +269,8 @@ evolution
 evolution
 evolution
 evolution
+governance
+governance
 governance
 governance
 governance
@@ -339,6 +350,7 @@ individuals
 individuals
 individuals
 individuals
+individuals
 integral
 integral
 integral
@@ -390,6 +402,7 @@ love
 love
 love
 love
+mission
 mission
 mission
 mission
@@ -482,6 +495,12 @@ society
 society
 society
 society
+society
+society
+society
+society
+stories
+stories
 stories
 stories
 stories
@@ -528,6 +547,9 @@ value creation
 value creation
 value creation
 value creation
+value creation
+value creation
+wonder
 wonder
 wonder
 wonder
