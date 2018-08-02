@@ -8,7 +8,7 @@ Tags:   art, stories
 
 Teaser: 
 
-Abridged: 07. We believe that we humans create meaning for ourselves through **[storytelling](http://www.practopians.org/tags/stories.html)** and all forms of artistic expression.
+Abridged: 07. We believe that we humans create meaning for ourselves through **[storytelling](https://www.practopians.org/tags/stories.html)** and all forms of artistic expression.
  
 Art is a [Core Principle](../core/principles.html).
 

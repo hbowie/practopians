@@ -22,7 +22,7 @@ The [Core Practopian beliefs][core] may seem very broad and general, but I'd lik
 
 ## Mission
 
-A good starting point would be the first two elements of the [Practopian mission](http://www.practopians.org/core/mission.html):
+A good starting point would be the first two elements of the [Practopian mission](https://www.practopians.org/core/mission.html):
 
 * We Practopians seek to identify and promote beliefs, principles, values and actions that will result in a brighter future for humanity.
 
@@ -130,26 +130,26 @@ So where does all this leave us? Here are some key points worth remembering as w
 * It is hard to visualize any sort of reasonable compromise that will continue to allow weapons designed for mass slaughter to be so widely distributed within our society. 
 
 [atlantic]:  https://www.theatlantic.com/health/archive/2018/02/gun-violence-public-health/553430/
-[balance]:   http://www.practopians.org/tags/balance.html
-[core]:      http://www.practopians.org/core/index.html 
-[culture]:   http://www.practopians.org/tags/cultural-evolution.html
-[diversity]: http://www.practopians.org/tags/diversity.html
+[balance]:   https://www.practopians.org/tags/balance.html
+[core]:      https://www.practopians.org/core/index.html 
+[culture]:   https://www.practopians.org/tags/cultural-evolution.html
+[diversity]: https://www.practopians.org/tags/diversity.html
 [finality]: https://www.theatlantic.com/politics/archive/2018/02/what-i-saw-treating-the-victims-from-parkland-should-change-the-debate-on-guns/553937/
-[imperfection]: http://www.practopians.org/tags/imperfection.html
-[individuals]: http://www.practopians.org/tags/individuals.html
-[integral]:  http://www.practopians.org/tags/integral.html
-[liberty]:   http://www.practopians.org/tags/liberty.html
-[values]:    http://www.practopians.org/core/values.html
-[critical-thinking]: http://www.practopians.org/tags/critical-thinking.html
+[imperfection]: https://www.practopians.org/tags/imperfection.html
+[individuals]: https://www.practopians.org/tags/individuals.html
+[integral]:  https://www.practopians.org/tags/integral.html
+[liberty]:   https://www.practopians.org/tags/liberty.html
+[values]:    https://www.practopians.org/core/values.html
+[critical-thinking]: https://www.practopians.org/tags/critical-thinking.html
 [rapidity]: https://www.nbcnews.com/think/opinion/parkland-shooter-s-ar-15-was-designed-kill-efficiently-possible-ncna848346
 [popdensity]: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
-[science]:   http://www.practopians.org/tags/science.html
+[science]:   https://www.practopians.org/tags/science.html
 [selma]:     https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches
-[society]:   http://www.practopians.org/tags/society.html
+[society]:   https://www.practopians.org/tags/society.html
 [stoneman]:  https://en.wikipedia.org/wiki/Stoneman_Douglas_High_School_shooting
-[stories]:   http://www.practopians.org/tags/stories.html
+[stories]:   https://www.practopians.org/tags/stories.html
 [students]:  https://www.cnn.com/2018/02/16/us/gun-control-teenage-advocates/index.html
-[value]:     http://www.practopians.org/tags/value-creation.html
+[value]:     https://www.practopians.org/tags/value-creation.html
 [vox]:       https://www.vox.com/policy-and-politics/2015/12/8/9870240/gun-ownership-deaths-homicides
 [wwi]:       https://en.wikipedia.org/wiki/World_War_I_casualties
 [wwii]:      https://en.wikipedia.org/wiki/World_War_II_casualties

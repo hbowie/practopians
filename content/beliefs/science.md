@@ -8,7 +8,7 @@ Tags:   science, tools
 
 Level:  5
 
-Abridged: 03. We embrace **[science](http://www.practopians.org/tags/science.html)** as one way of understanding the universe, and we accept toolmaking as one means of improving the human condition.
+Abridged: 03. We embrace **[science](https://www.practopians.org/tags/science.html)** as one way of understanding the universe, and we accept toolmaking as one means of improving the human condition.
 
 Teaser: 
  

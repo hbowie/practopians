@@ -6,7 +6,7 @@ Seq:    V.03
 
 Tags:   governance, society
 
-Abridged: 03. **[Society](http://www.practopians.org/tags/society.html)** -- We value the social fabric and institutions that binds us together as part of a shared human community.
+Abridged: 03. **[Society](https://www.practopians.org/tags/society.html)** -- We value the social fabric and institutions that binds us together as part of a shared human community.
 
 Teaser: 
  

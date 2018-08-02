@@ -6,7 +6,7 @@ Seq:    P.13
 
 Tags:   love
 
-Abridged: 13. Although we cannot define the meaning of the word in any comprehensive way -- or, perhaps, *because* we cannot fully define it -- we believe in **[love](http://www.practopians.org/tags/love.html)**.
+Abridged: 13. Although we cannot define the meaning of the word in any comprehensive way -- or, perhaps, *because* we cannot fully define it -- we believe in **[love](https://www.practopians.org/tags/love.html)**.
 
 Teaser: 
  

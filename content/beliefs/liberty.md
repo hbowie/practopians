@@ -6,7 +6,7 @@ Seq:    V.02
 
 Tags:   liberty
 
-Abridged: 02. **[Liberty](http://www.practopians.org/tags/liberty.html)** -- We believe in allowing adults as much autonomy as practical, so long as they do not infringe on the life and liberty of others.
+Abridged: 02. **[Liberty](https://www.practopians.org/tags/liberty.html)** -- We believe in allowing adults as much autonomy as practical, so long as they do not infringe on the life and liberty of others.
 
 Teaser: 
  

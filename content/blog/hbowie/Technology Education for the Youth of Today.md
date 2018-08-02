@@ -70,11 +70,11 @@ So I'm going to count this as a win.
 
 [bb]: https://www.theregister.co.uk/2010/11/29/bondi_blue_imac/
 
-[jobs1]: http://www.practopians.org/quotes/where-the-puck-is-going-to-be.html
+[jobs1]: https://www.practopians.org/quotes/where-the-puck-is-going-to-be.html
 
-[jobs2]: http://www.practopians.org/quotes/life-can-be-much-broader.html
+[jobs2]: https://www.practopians.org/quotes/life-can-be-much-broader.html
 
-[jobs3]: http://www.practopians.org/quotes/technology-married-with-the-humanities.html
+[jobs3]: https://www.practopians.org/quotes/technology-married-with-the-humanities.html
 
 [km]: https://www.kirkville.com/the-tech-industrys-tunnel-vision-about-coding-and-language/
 

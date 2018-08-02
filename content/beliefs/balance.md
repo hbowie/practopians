@@ -6,7 +6,7 @@ Seq:    V.01
 
 Tags:   balance
 
-Abridged: 01. **[Balance](http://www.practopians.org/tags/balance.html)** -- We believe in striving for balance between competing concerns, rather than establishing any single value as fundamentally absolute.
+Abridged: 01. **[Balance](https://www.practopians.org/tags/balance.html)** -- We believe in striving for balance between competing concerns, rather than establishing any single value as fundamentally absolute.
 
 Teaser: 
  

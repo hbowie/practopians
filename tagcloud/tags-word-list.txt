@@ -1,34 +1,34 @@
-30	art	http://www.practopians.org/tags/art.html
-11	balance	http://www.practopians.org/tags/balance.html
-25	connection	http://www.practopians.org/tags/connection.html
-60	critical thinking	http://www.practopians.org/tags/critical-thinking.html
-61	cultural evolution	http://www.practopians.org/tags/cultural-evolution.html
-12	democracy	http://www.practopians.org/tags/democracy.html
-12	diversity	http://www.practopians.org/tags/diversity.html
-22	education	http://www.practopians.org/tags/education.html
-33	equality	http://www.practopians.org/tags/equality.html
-05	evolution	http://www.practopians.org/tags/evolution.html
-20	governance	http://www.practopians.org/tags/governance.html
-26	humanism	http://www.practopians.org/tags/humanism.html
-04	imperfection	http://www.practopians.org/tags/imperfection.html
-32	individuals	http://www.practopians.org/tags/individuals.html
-14	integral	http://www.practopians.org/tags/integral.html
-20	liberty	http://www.practopians.org/tags/liberty.html
-17	love	http://www.practopians.org/tags/love.html
-07	mission	http://www.practopians.org/tags/mission.html
-06	parenthood	http://www.practopians.org/tags/parenthood.html
-03	population	http://www.practopians.org/tags/population.html
-04	practical	http://www.practopians.org/tags/practical.html
-28	progress	http://www.practopians.org/tags/progress.html
-01	property	http://www.practopians.org/tags/property.html
-14	religion	http://www.practopians.org/tags/religion.html
-02	rule of law	http://www.practopians.org/tags/rule-of-law.html
-13	science	http://www.practopians.org/tags/science.html
-19	society	http://www.practopians.org/tags/society.html
-11	stories	http://www.practopians.org/tags/stories.html
-16	sustainability	http://www.practopians.org/tags/sustainability.html
-09	systemic	http://www.practopians.org/tags/systemic.html
-01	tools	http://www.practopians.org/tags/tools.html
-13	value creation	http://www.practopians.org/tags/value-creation.html
-15	wonder	http://www.practopians.org/tags/wonder.html
-13	written word	http://www.practopians.org/tags/written-word.html
+30	art	https://www.practopians.org/tags/art.html
+11	balance	https://www.practopians.org/tags/balance.html
+25	connection	https://www.practopians.org/tags/connection.html
+60	critical thinking	https://www.practopians.org/tags/critical-thinking.html
+61	cultural evolution	https://www.practopians.org/tags/cultural-evolution.html
+12	democracy	https://www.practopians.org/tags/democracy.html
+12	diversity	https://www.practopians.org/tags/diversity.html
+22	education	https://www.practopians.org/tags/education.html
+33	equality	https://www.practopians.org/tags/equality.html
+05	evolution	https://www.practopians.org/tags/evolution.html
+20	governance	https://www.practopians.org/tags/governance.html
+26	humanism	https://www.practopians.org/tags/humanism.html
+04	imperfection	https://www.practopians.org/tags/imperfection.html
+32	individuals	https://www.practopians.org/tags/individuals.html
+14	integral	https://www.practopians.org/tags/integral.html
+20	liberty	https://www.practopians.org/tags/liberty.html
+17	love	https://www.practopians.org/tags/love.html
+07	mission	https://www.practopians.org/tags/mission.html
+06	parenthood	https://www.practopians.org/tags/parenthood.html
+03	population	https://www.practopians.org/tags/population.html
+04	practical	https://www.practopians.org/tags/practical.html
+28	progress	https://www.practopians.org/tags/progress.html
+01	property	https://www.practopians.org/tags/property.html
+14	religion	https://www.practopians.org/tags/religion.html
+02	rule of law	https://www.practopians.org/tags/rule-of-law.html
+13	science	https://www.practopians.org/tags/science.html
+19	society	https://www.practopians.org/tags/society.html
+11	stories	https://www.practopians.org/tags/stories.html
+16	sustainability	https://www.practopians.org/tags/sustainability.html
+09	systemic	https://www.practopians.org/tags/systemic.html
+01	tools	https://www.practopians.org/tags/tools.html
+13	value creation	https://www.practopians.org/tags/value-creation.html
+15	wonder	https://www.practopians.org/tags/wonder.html
+13	written word	https://www.practopians.org/tags/written-word.html

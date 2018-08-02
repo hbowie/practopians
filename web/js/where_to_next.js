@@ -37,7 +37,7 @@ var page = url.substr(lastSlash + 1);
 
 document.write('<div class="nav-footer">');
 document.write('<div class="row">');
-document.write('<div class="col-xs-2 col-xs-offset-5 text-center nav-footer-head">');
+document.write('<div class="col-2 offset-5 text-center nav-footer-head">');
 document.write('Where to Next?');
 document.write('</div>');
 document.write('</div>');

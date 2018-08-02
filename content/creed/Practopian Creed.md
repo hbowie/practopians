@@ -138,9 +138,9 @@ Feel free to reference the following links for additional information.
 * [practopian-creed.html][3] -- Latest version of the Creed, as a stand-alone html file
 * [github.com/hbowie/practopians][4] -- GitHub project for the Practopians, containing source and change history for all of the content at Practopians.org
 
-[1]: http://www.practopians.org/
-[2]: http://www.practopians.org/creed/practopian-creed.md
-[3]: http://www.practopians.org/creed/practopian-creed.html
+[1]: https://www.practopians.org/
+[2]: https://www.practopians.org/creed/practopian-creed.md
+[3]: https://www.practopians.org/creed/practopian-creed.html
 [4]: https://github.com/hbowie/practopians/
 [hb]: http://www.herbbowie.com
 [cc40]: http://creativecommons.org/licenses/by-sa/4.0/

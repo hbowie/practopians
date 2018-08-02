@@ -43,6 +43,6 @@ It would be wonderful if a majority of us could reach some agreement on just wha
 
 [aca]: https://www.nytimes.com/2017/02/07/upshot/one-third-dont-know-obamacare-and-affordable-care-act-are-the-same.html
 [feedback]:   mailto:feedback@practopians.org
-[practopians]: http://www.practopians.org/index.html
-[principles]: http://www.practopians.org/core/principles.html
-[values]:     http://www.practopians.org/core/values.html
+[practopians]: https://www.practopians.org/index.html
+[principles]: https://www.practopians.org/core/principles.html
+[values]:     https://www.practopians.org/core/values.html

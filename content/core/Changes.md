@@ -2,6 +2,10 @@ Title: Changes
 
 This log tracks major changes to the site, especially in regards to the Core Writings. A more detailed change history can be found on <a href="https://github.com/hbowie/practopians/" target="ref">GitHub</a>.
 
+### 2 Aug 2018
+
+Changed "The Practopian Creed" to "The Practopian Way." Only the title was changed. No changes were made to the content. 
+
 ### 27 May 2018
 
 Added *Where to Next?* navigation links at the bottom of most pages, giving the user access to multiple ways to navigate through the site from one page to the next. These links are powered by Javascript. 

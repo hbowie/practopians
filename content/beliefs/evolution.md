@@ -8,7 +8,7 @@ Tags:   evolution
 
 Level:  5
 
-Abridged: 04. We believe in **[evolution](http://www.practopians.org/tags/evolution.html)** as an ongoing force in the world, and in particular are interested in the continuing evolution of humanity.
+Abridged: 04. We believe in **[evolution](https://www.practopians.org/tags/evolution.html)** as an ongoing force in the world, and in particular are interested in the continuing evolution of humanity.
 
 Teaser: 
  

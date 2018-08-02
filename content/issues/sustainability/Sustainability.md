@@ -74,4 +74,4 @@ We realize that, when we discuss slowing and reversing human population growth, 
 
 [totc]: https://en.wikipedia.org/wiki/Tragedy_of_the_commons
 [pg]:	https://en.wikipedia.org/wiki/World_population#/media/File:World_population_v3.svg
-[ur]: http://www.practopians.org/images/urban_rural_graph2.jpg
+[ur]: https://www.practopians.org/images/urban_rural_graph2.jpg

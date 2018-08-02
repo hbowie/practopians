@@ -16,7 +16,7 @@ What follows is going to require some understanding of evolving developmental le
 
 Body:
 
-<p><a href="http://www-personal.umich.edu/~mejn/election/2016/"><img src="http://www.practopians.org/images/countymappurple512.png" alt="County Map Purple" title="County Map Purple" /></a></p>
+<p><a href="http://www-personal.umich.edu/~mejn/election/2016/"><img src="https://www.practopians.org/images/countymappurple512.png" alt="County Map Purple" title="County Map Purple" /></a></p>
 
 I was recently puzzling over the still surprising victory of Donald Trump in the recent US Presidential elections, when it occurred to me that there is another way to think about this whole chain of events. 
 
@@ -160,5 +160,5 @@ I think there are three main areas on which we need to focus our energies.
 3. We need to use these higher levels of development to assess the performance of our current and incoming political leaders. This will require some patience. It does no good to start pointing fingers now. But it would do a lot of good to establish some reasonable measures of success and then start tracking these on a monthly basis, in a non-partisan way, showing numbers and trends by state and county, as well as at the national level. 
 
 
-[devlev]:  http://www.practopians.org/blog/hbowie/developmental-levels.html
-[devlev2]: http://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html
+[devlev]:  https://www.practopians.org/blog/hbowie/developmental-levels.html
+[devlev2]: https://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html

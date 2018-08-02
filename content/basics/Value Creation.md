@@ -21,7 +21,7 @@ Body:
 
 <p><img src="../images/value-creation.jpg" alt="Hand with can watering money tree" title="Value Creation" /></p>
 
-Many of the [Practopian Core Beliefs][creed] will seem rather straightforward to most people: [Liberty][] and [Equality][], for example, are fundamental human values that should sound familiar no matter what your background. 
+Many of the [Practopian Core Beliefs][way] will seem rather straightforward to most people: [Liberty][] and [Equality][], for example, are fundamental human values that should sound familiar no matter what your background. 
 
 The belief in the importance of [Value Creation][vc], on the other hand, may be puzzling to many. What do we mean by this phrase, and why does it deserve such focus? Let me try to explain. 
 
@@ -126,8 +126,6 @@ So the Practopian approach is to try to reach agreement on a set of more atomic 
 
 [connection]: ../tags/connection.html
 
-[creed]: ../creed/abridged-creed.html
-
 [democracy]: ../tags/democracy.html
 
 [equality]: ../tags/equality.html
@@ -151,3 +149,5 @@ So the Practopian approach is to try to reach agreement on a set of more atomic 
 [vc]: ../tags/value-creation.html
 
 [vch]: https://en.wikipedia.org/wiki/Value_chain
+
+[way]: ../way/abridged-way.html

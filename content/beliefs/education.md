@@ -6,7 +6,7 @@ Seq:    V.09
 
 Tags:   education
 
-Abridged: 09. **[Education](http://www.practopians.org/tags/education.html)** -- It is in the best interests of society to assist in the education of its members.
+Abridged: 09. **[Education](https://www.practopians.org/tags/education.html)** -- It is in the best interests of society to assist in the education of its members.
 
 Teaser: 
  

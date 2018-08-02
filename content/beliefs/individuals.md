@@ -6,7 +6,7 @@ Seq:    P.09
 
 Tags:   individuals
 
-Abridged: 09. We believe that **[ordinary individuals](http://www.practopians.org/tags/individuals.html)** have the power to shape our cultural evolution and influence our human condition.
+Abridged: 09. We believe that **[ordinary individuals](https://www.practopians.org/tags/individuals.html)** have the power to shape our cultural evolution and influence our human condition.
 
 Teaser: 
  

@@ -6,7 +6,7 @@ Seq:    P.11
 
 Tags:   systemic
 
-Abridged: 11. In order to achieve positive outcomes from the complex social, economic, and ecological systems in which we live, we believe we must employ **[systems thinking](http://www.practopians.org/tags/systemic.html)**.
+Abridged: 11. In order to achieve positive outcomes from the complex social, economic, and ecological systems in which we live, we believe we must employ **[systems thinking](https://www.practopians.org/tags/systemic.html)**.
 
 Teaser: 
  

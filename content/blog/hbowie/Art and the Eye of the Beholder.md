@@ -101,16 +101,16 @@ And for those who think that art is a mere adornment, the icing on the cake, som
 [rc]: 	https://en.wikipedia.org/wiki/Raymond_Chandler
 [wm]:	http://wyntonmarsalis.org
 
-[blake]:	http://www.practopians.org/quotes/art-science-and-empire.html
+[blake]:	https://www.practopians.org/quotes/art-science-and-empire.html
 
-[burgess]:  http://www.practopians.org/quotes/excitement-from-art.html
+[burgess]:  https://www.practopians.org/quotes/excitement-from-art.html
 
-[chandler]: http://www.practopians.org/quotes/vital-and-significant-forms-of-art.html
+[chandler]: https://www.practopians.org/quotes/vital-and-significant-forms-of-art.html
 
-[lewis]:	http://www.practopians.org/quotes/the-enormous-extension-of-our-being.html
+[lewis]:	https://www.practopians.org/quotes/the-enormous-extension-of-our-being.html
 
-[marsalis1]: http://www.practopians.org/quotes/the-power-of-art.html
+[marsalis1]: https://www.practopians.org/quotes/the-power-of-art.html
 
-[marsalis2]: http://www.practopians.org/quotes/the-undisputed-sovereignty-of-the-human-being.html
+[marsalis2]: https://www.practopians.org/quotes/the-undisputed-sovereignty-of-the-human-being.html
 
-[miller]:	http://www.practopians.org/quotes/enemies-of-art-and-artist.html
+[miller]:	https://www.practopians.org/quotes/enemies-of-art-and-artist.html

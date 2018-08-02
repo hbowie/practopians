@@ -2,7 +2,7 @@
 <?nextrec?>
 <?definegroup 1 "=$tag$=" ?>
 <?ifendgroup 1 ?>
-=$count&r2$=	=$lasttag$=	http://www.practopians.org/tags/=$lasttag&f$=.html
+=$count&r2$=	=$lasttag$=	https://www.practopians.org/tags/=$lasttag&f$=.html
 <?endif?>
 <?ifnewgroup 1 ?>
 <?set count = 0 ?>

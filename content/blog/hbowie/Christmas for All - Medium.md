@@ -62,6 +62,6 @@ These are not questions asked only by those of some particular faith, nor, I thi
 
 And so I wish you the very best this Christmas season: the best of what we humans have to offer each other, the brightest gifts, the most piercing joy, the deepest love.
 
-*Originally published on [Practopians.org](http://www.practopians.org)*
+*Originally published on [Practopians.org](https://www.practopians.org)*
 
-[rf]: http://www.practopians.org/blog/hbowie/religious-freedom.html
+[rf]: https://www.practopians.org/blog/hbowie/religious-freedom.html

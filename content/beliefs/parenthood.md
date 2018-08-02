@@ -6,7 +6,7 @@ Seq:    V.08
 
 Tags:   parenthood
 
-Abridged: 08. **[Parenthood](http://www.practopians.org/tags/parenthood.html)** -- Parents have an obligation to help their children become healthy, happy adults who make their own positive contributions to society.
+Abridged: 08. **[Parenthood](https://www.practopians.org/tags/parenthood.html)** -- Parents have an obligation to help their children become healthy, happy adults who make their own positive contributions to society.
 
 Teaser: 
  

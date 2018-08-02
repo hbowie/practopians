@@ -87,16 +87,16 @@ function writeNextByType(table, index, depth) {
   }
   if (skips > 0) {
 		document.write('<div class="row nav-footer-row">');
-		document.write('<div class="col-xs-5 text-right">');
+		document.write('<div class="col-5 text-right">');
 		if (priorPageIx >= 0) {
 			var priorPage = table[priorPageIx];
 			document.write(getAnchor(priorPage, relative) + ' &lt;= ' + "Newer");
 		}
 		document.write('</div>');
-		document.write('<div class="col-xs-2 text-center nav-footer-center">');
+		document.write('<div class="col-2 text-center nav-footer-center">');
 		document.write(currPage.section);
 		document.write('</div>');
-		document.write('<div class="col-xs-5 text-left">');
+		document.write('<div class="col-5 text-left">');
 		var nextPageIx = index + 1;
 		while (nextPageIx < table.length && table[nextPageIx].type != currPage.type) {
 			nextPageIx++;
@@ -121,16 +121,16 @@ function writeNext(table, index, depth, left, center, right) {
     j++;
   }
   document.write('<div class="row nav-footer-row">');
-  document.write('<div class="col-xs-5 text-right">');
+  document.write('<div class="col-5 text-right">');
   if (index > 0) {
     var priorPage = table[index - 1];
     document.write(getAnchor(priorPage, relative) + ' &lt;= ' + left);
   }
   document.write('</div>');
-  document.write('<div class="col-xs-2 text-center nav-footer-center">');
+  document.write('<div class="col-2 text-center nav-footer-center">');
   document.write(center);
   document.write('</div>');
-  document.write('<div class="col-xs-5 text-left">');
+  document.write('<div class="col-5 text-left">');
   var nextIndex = index + 1;
   if (nextIndex < table.length) {
     var nextPage = table[nextIndex];

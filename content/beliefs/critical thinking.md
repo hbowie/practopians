@@ -6,7 +6,7 @@ Seq:    P.10
 
 Tags:   critical thinking
 
-Abridged: 10. We believe that we can produce better outcomes for humanity through the application of **[critical thinking](http://www.practopians.org/tags/critical-thinking.html)**.
+Abridged: 10. We believe that we can produce better outcomes for humanity through the application of **[critical thinking](https://www.practopians.org/tags/critical-thinking.html)**.
 
 Teaser: 
  

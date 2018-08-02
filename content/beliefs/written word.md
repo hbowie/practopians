@@ -6,7 +6,7 @@ Seq:    P.06
 
 Tags:   written word
 
-Abridged: 06. We place great value on the **[written word](http://www.practopians.org/tags/written-word.html)**, but place no faith in any single text that we deem to be sacred.
+Abridged: 06. We place great value on the **[written word](https://www.practopians.org/tags/written-word.html)**, but place no faith in any single text that we deem to be sacred.
 
 Teaser: 
  

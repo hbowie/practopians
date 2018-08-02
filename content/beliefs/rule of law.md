@@ -6,7 +6,7 @@ Seq:    V.05
 
 Tags:   rule of law
 
-Abridged: 05. **[Rule of Law](http://www.practopians.org/tags/rule-of-law.html)** -- Every society should establish rules to govern human interaction, and to help channel human energy along constructive paths.
+Abridged: 05. **[Rule of Law](https://www.practopians.org/tags/rule-of-law.html)** -- Every society should establish rules to govern human interaction, and to help channel human energy along constructive paths.
 
 Teaser: 
  

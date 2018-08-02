@@ -48,7 +48,7 @@ On the other hand, it's also worth pointing out some areas of difference.
 
 ## Belief in the Value of the Written Word
 
-The [Practopian Creed][creed] places explicit value on the [written word][], whereas the Amsterdam Declaration goes out of its way to say that it "imposes no creed upon its adherents." This is a nicely egalitarian sentiment, but it also can leave one wondering exactly what it means to be a "humanist." 
+The [Practopian Way][way] places explicit value on the [written word][], whereas the Amsterdam Declaration goes out of its way to say that it "imposes no creed upon its adherents." This is a nicely egalitarian sentiment, but it also can leave one wondering exactly what it means to be a "humanist." 
 
 In fact, when visiting the [American Humanist Association's website][aha], I can find no mention of the Amsterdam Declaration, and instead find a [Humanist Manifesto][manifesto], along with a [page listing no less than eight separate definitions of "Humanism"][defs]. 
 
@@ -92,78 +92,78 @@ And finally, we Practopians choose not to focus our energy and attention on divi
 
 Since Humanists position themselves as offering an alternative to traditional religion, it may be fair to say that the Practopian beliefs offer an alternative to traditional humanism.  One might think of the Practopians as Humanism+. I think it's fair to say that we start with the basic humanistic beliefs, but then go on to flesh out our thinking with additional, forward-thinking elements that round out our philosophy and make it a more viable, modern belief system. 
 
-[about]: http://www.practopians.org/core/about-the-principles-and-values.html
+[about]: https://www.practopians.org/core/about-the-principles-and-values.html
 
 [aha]: https://americanhumanist.org
 
 [amsterdam]: https://iheu.org/humanism/the-amsterdam-declaration/
 
-[art]: http://www.practopians.org/tags/art.html
+[art]: https://www.practopians.org/tags/art.html
 
-[balance]: http://www.practopians.org/tags/balance.html
+[balance]: https://www.practopians.org/tags/balance.html
 
-[connection]: http://www.practopians.org/tags/connection.html
+[connection]: https://www.practopians.org/tags/connection.html
 
-[creed]: http://www.practopians.org/creed/abridged-creed.html
+[critical thinking]: https://www.practopians.org/tags/critical-thinking.html
 
-[critical thinking]: http://www.practopians.org/tags/critical-thinking.html
-
-[cultevo]: http://www.practopians.org/tags/cultural-evolution.html
+[cultevo]: https://www.practopians.org/tags/cultural-evolution.html
 
 [defs]: https://americanhumanist.org/what-is-humanism/definition-of-humanism/
 
-[democracy]: http://www.practopians.org/tags/democracy.html
+[democracy]: https://www.practopians.org/tags/democracy.html
 
-[devlevels]: http://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html
+[devlevels]: https://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html
 
-[diversity]: http://www.practopians.org/tags/diversity.html
+[diversity]: https://www.practopians.org/tags/diversity.html
 
-[education]: http://www.practopians.org/tags/education.html
+[education]: https://www.practopians.org/tags/education.html
 
-[einstein1]: http://www.practopians.org/quotes/moral-religion.html
+[einstein1]: https://www.practopians.org/quotes/moral-religion.html
 
-[einstein2]: http://www.practopians.org/quotes/this-highest-kind-of-religious-feeling.html
+[einstein2]: https://www.practopians.org/quotes/this-highest-kind-of-religious-feeling.html
 
-[equality]: http://www.practopians.org/tags/equality.html
+[equality]: https://www.practopians.org/tags/equality.html
 
-[humanism]: http://www.practopians.org/tags/humanism.html
+[humanism]: https://www.practopians.org/tags/humanism.html
 
 [iheu]: https://iheu.org
 
-[imperfection]: http://www.practopians.org/tags/imperfection.html
+[imperfection]: https://www.practopians.org/tags/imperfection.html
 
-[individuals]: http://www.practopians.org/tags/individuals.html
+[individuals]: https://www.practopians.org/tags/individuals.html
 
-[integral]: http://www.practopians.org/tags/integral.html
+[integral]: https://www.practopians.org/tags/integral.html
 
-[issues]: http://www.practopians.org/issues/index.html
+[issues]: https://www.practopians.org/issues/index.html
 
-[law]: http://www.practopians.org/tags/rule-of-law.html
+[law]: https://www.practopians.org/tags/rule-of-law.html
 
-[liberty]: http://www.practopians.org/tags/liberty.html
+[liberty]: https://www.practopians.org/tags/liberty.html
 
 [manifesto]: https://americanhumanist.org/what-is-humanism/manifesto3/
 
-[mission]: http://www.practopians.org/core/mission.html
+[mission]: https://www.practopians.org/core/mission.html
 
 [orgs]: https://iheu.org/membership/our-members/
 
-[parenthood]: http://www.practopians.org/tags/parenthood.html
+[parenthood]: https://www.practopians.org/tags/parenthood.html
 
-[practopians]: http://www.practopians.org
+[practopians]: https://www.practopians.org
 
-[property]: http://www.practopians.org/tags/property.html
+[property]: https://www.practopians.org/tags/property.html
 
-[science]: http://www.practopians.org/tags/science.html
+[science]: https://www.practopians.org/tags/science.html
 
-[society]: http://www.practopians.org/tags/society.html
+[society]: https://www.practopians.org/tags/society.html
 
-[systems]: http://www.practopians.org/tags/systemic.html
+[systems]: https://www.practopians.org/tags/systemic.html
 
-[value]: http://www.practopians.org/tags/value-creation.html
+[value]: https://www.practopians.org/tags/value-creation.html
 
-[wilber]: http://www.practopians.org/quotes/an-integral-god.html
+[way]: https://www.practopians.org/way/abridged-way.html
+
+[wilber]: https://www.practopians.org/quotes/an-integral-god.html
 
 [wvs]: http://www.worldvaluessurvey.org/WVSContents.jsp
 
-[written word]: http://www.practopians.org/tags/written-word.html
+[written word]: https://www.practopians.org/tags/written-word.html

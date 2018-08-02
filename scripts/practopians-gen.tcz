@@ -63,6 +63,22 @@ filter	set		params
 template	open	text		#PATH#../factory/creed/creed_content_gen.md
 template	generate
 
+<!-- Generate Way Content from beliefs              -->
+<!-- Output: ../../content/way/practopian-way.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params
+template	open	text		#PATH#../factory/way/way_content_gen.md
+template	generate
+
 <!-- Generate Creed Pages -->
 
 input	set		normalization	0
@@ -84,6 +100,27 @@ template	generate
 template	open	text		#PATH#../factory/creed/creed_core_template.html
 template	generate
 
+<!-- Generate Way Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_template.html
+template	generate
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/way/way_index_template.html
+template	generate
+filter	add	contains	Status	Current
+filter	set		params
+template	open	text		#PATH#../factory/way/way_current_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_current_template.html
+template	generate
+template	open	text		#PATH#../factory/way/way_core_template.html
+template	generate
+
 <!-- Generate Abridged Creed                      -->
 <!-- Output "../../web/creed/abridged-creed.html  -->
 
@@ -94,6 +131,18 @@ sort	add	Ascending	Seq
 sort	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/creed/abridged_template.html
+template	generate
+
+<!-- Generate Abridged Way                      -->
+<!-- Output "../../way/abridged-way.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/way/abridged_way_template.html
 template	generate
 
 <!-- Generate Developmental Levels include -->
@@ -180,6 +229,14 @@ template	generate
 input	set		normalization	0
 input	open	notenik+		#PATH#../content/creed/
 template	open	text		#PATH#../factory/creed/creed_body_template.html
+template	generate
+
+<!-- Generate html content for way section    -->
+<!-- Output: ../../html/way/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_body_template.html
 template	generate
 
 <!-- Generate html content for tags pages    -->

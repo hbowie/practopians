@@ -6,7 +6,7 @@ Seq:    V.07
 
 Tags:   democracy
 
-Abridged: 07. **[Democracy](http://www.practopians.org/tags/democracy.html)** -- All citizens should have equal say in defining society's laws, and equal opportunity to influence the operation of their governments.
+Abridged: 07. **[Democracy](https://www.practopians.org/tags/democracy.html)** -- All citizens should have equal say in defining society's laws, and equal opportunity to influence the operation of their governments.
 
 Teaser: 
  

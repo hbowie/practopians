@@ -6,7 +6,7 @@ Seq:    V.12
 
 Tags:   diversity
 
-Abridged: 12. **[Diversity](http://www.practopians.org/tags/diversity.html)** -- We believe in the diverse expression of human potential.
+Abridged: 12. **[Diversity](https://www.practopians.org/tags/diversity.html)** -- We believe in the diverse expression of human potential.
 
 Teaser: 
  

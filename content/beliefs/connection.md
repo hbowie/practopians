@@ -6,7 +6,7 @@ Seq:    V.04
 
 Tags:   connection
 
-Abridged: 04. **[Connection](http://www.practopians.org/tags/connection.html)** -- A feeling of caring connection to others is part of what makes us human, and  makes us part of something larger than ourselves.
+Abridged: 04. **[Connection](https://www.practopians.org/tags/connection.html)** -- A feeling of caring connection to others is part of what makes us human, and  makes us part of something larger than ourselves.
 
 Teaser: 
  

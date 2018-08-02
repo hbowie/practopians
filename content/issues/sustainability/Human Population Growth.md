@@ -220,7 +220,7 @@ For those with a full appreciation of our current situation, and who care for ou
 
 
 
-[pru]: http://www.practopians.org
+[pru]: https://www.practopians.org
 
 [pri]: ../../core/principles.html
 [val]: ../../core/values.html

@@ -93,9 +93,9 @@ None of what I'm saying here is meant to gainsay any of the valuable wisdom shar
 
 [datsun]: https://en.wikipedia.org/wiki/Datsun_510
 
-[democracy]: http://www.practopians.org/tags/democracy.html
+[democracy]: https://www.practopians.org/tags/democracy.html
 
-[education]: http://www.practopians.org/tags/education.html
+[education]: https://www.practopians.org/tags/education.html
 
 [flint]: https://en.wikipedia.org/wiki/Flint_water_crisis
 
@@ -103,9 +103,9 @@ None of what I'm saying here is meant to gainsay any of the valuable wisdom shar
 
 [gov-pensions]: https://www.nytimes.com/2018/04/14/business/pension-finance-oregon.html
 
-[individuals]: http://www.practopians.org/tags/individuals.html
+[individuals]: https://www.practopians.org/tags/individuals.html
 
-[law]: http://www.practopians.org/tags/rule-of-law.html
+[law]: https://www.practopians.org/tags/rule-of-law.html
 
 [lean]: https://en.wikipedia.org/wiki/Lean_manufacturing
 
@@ -115,13 +115,13 @@ None of what I'm saying here is meant to gainsay any of the valuable wisdom shar
 
 [rr]: http://robertreich.org
 
-[society]: http://www.practopians.org/tags/society.html
+[society]: https://www.practopians.org/tags/society.html
 
-[systemic]: http://www.practopians.org/tags/systemic.html
+[systemic]: https://www.practopians.org/tags/systemic.html
 
 [tcg]: https://www.amazon.com/Common-Good-Robert-B-Reich/dp/052552049X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=practopians-20&linkId=1a1aecaf91223f29c0cb1bf648fdb0c1
 
 [unsafe]: https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed
 
-[values]: http://www.practopians.org/core/values.html
+[values]: https://www.practopians.org/core/values.html
 
