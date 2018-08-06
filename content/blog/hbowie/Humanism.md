@@ -8,6 +8,16 @@ Status: 6 - Published
 
 Tags:   humanism
 
+Index: humanism
+Index: Amsterdam Declaration
+Index: humanists
+Index: humanist organizations
+Index: religion
+Index: Wilber, Ken
+Index: Einstein, Albert
+Index: economics
+Index: belief system
+
 Teaser: 
  
 The first Practopian core principle states that "We are humanistic: we are focused on human concerns and human potential." The primary intent behind this statement is to signal that we don't claim to represent any authority other than our own very human selves, and that we focus on the interests of ourselves and our fellow humans. However, there are a whole host of Humanist organizations already in existence around the globe, representing a Humanist movement of sorts, and so it may be helpful to comment on how I see the Society for Practical Utopians in relationship to these other brands of humanism.. 

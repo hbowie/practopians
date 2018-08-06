@@ -8,6 +8,15 @@ Status: 6 - Published
 
 Tags:   critical thinking, religion
 
+Index: god
+Index: religion
+Index: human nature
+Index: levels, developmental
+Index: developmental levels
+Index: death
+Index: Wilber, Ken
+Index: Chesterton, G.K.
+
 Teaser: 
  
 Human records indicate that some sort of belief in a God or collection of gods is a feature of almost all human culture. No matter what the continent or age, a belief in powerful, supernatural beings that somehow influence human existence is a near-constant. 

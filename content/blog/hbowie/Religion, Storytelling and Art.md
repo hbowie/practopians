@@ -6,6 +6,13 @@ Author: Herb Bowie
 
 Date: 27 Nov 2014
 
+Index: religion
+Index: stories
+Index: art
+Index: humanism
+Index: Miller, Henry
+Index: Vonnegut, Kurt
+
 Teaser: 
 
 Religion can be thought of as a collection of shared cultural artifacts that provide a sense of meaning about human existence.

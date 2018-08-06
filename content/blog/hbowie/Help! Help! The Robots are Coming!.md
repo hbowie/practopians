@@ -8,6 +8,19 @@ Status: 6 - Published
 
 Tags:   cultural evolution, individuals
 
+Index: robots
+Index: AI
+Index: artificial intelligence
+Index: Harari, Yuval Noah
+Index: work
+Index: labor
+Index: Mead, Margaret
+Index: Jobs, Steve
+Index: Wales, Jimmy
+Index: Vonnegut, Kurt
+Index: Robbins, Tom
+Index: technology
+
 Teaser: 
  
 Many pundits today are predicting a future of robots equipped with artificial intelligence so powerful that they will essentially render great swaths of humanity obsolete. Let me just make a few points concerning such imaginings. 

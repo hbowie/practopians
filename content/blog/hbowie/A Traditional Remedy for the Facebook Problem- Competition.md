@@ -8,6 +8,12 @@ Status: 9 - Published
 
 Tags: democracy, cultural evolution, value creation
 
+Index: Facebook
+Index: Zuckerberg, Mark
+Index: competition
+Index: business
+Index: social media
+
 Teaser:
 
 Facebook has been in the news lately due to renewed privacy concerns, and many observers have called for various solutions, including pledges from CEO Mark Zuckerberg to do better, as well as increased government regulation. But there seems to be an obvious and somewhat traditional remedy that is not getting much consideration: good old fashioned competition. 

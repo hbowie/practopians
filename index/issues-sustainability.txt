@@ -1,0 +1,9 @@
+Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+C	churchill, winston	Churchill, Winston		Issues	issue		Sustainability	issues/sustainability/sustainability.html
+E	earth	earth		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
+E	earth	earth		Issues	issue		Sustainability	issues/sustainability/sustainability.html
+E	environment	environment		Issues	issue		Sustainability	issues/sustainability/sustainability.html
+E	evolution	evolution		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
+P	population growth	population growth		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
+S	sustainability	sustainability		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
+S	sustainability	sustainability		Issues	issue		Sustainability	issues/sustainability/sustainability.html

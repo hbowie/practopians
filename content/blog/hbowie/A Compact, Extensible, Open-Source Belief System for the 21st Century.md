@@ -8,6 +8,9 @@ Status: 6 - Published
 
 Tags:   
 
+Index: open-source
+Index: belief system
+
 Teaser: 
  
 It often seems that there is little in this modern world that any two of us can agree on. 

@@ -6,6 +6,18 @@ Date:   Nov 15, 2017
 
 Status: 6 - Published
 
+Index: art
+Index: Wilber, Ken
+Index: Harari, Yuval Noah
+Index: beauty
+Index: Chandler, Raymond
+Index: Long Goodbye, The
+Index: Blake, William
+Index: Burgess, Anthony
+Index: Marsalis, Wynton
+Index: Lewis, C.S.
+Index: Miller, Henry
+
 Teaser:
 
 I've noticed that Big Thinkers -- people like Ken Wilber and Yuval Noah Harari -- tend to get confused about art and why it matters. Unable to find a neat place for it in their developmental models of civilization, they end up citing that old chestnut of "Beauty is in the eye of the beholder" and leaving it at that, as an entirely subjective experience. Everyone's idea of beauty can be different, they say, and they're all equally valid. Of course, I've never run across an actual artist who sees things this way.

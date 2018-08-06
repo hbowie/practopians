@@ -8,6 +8,11 @@ Status: 9 - Published
 
 Tags: integral, cultural evolution
 
+Index: integral
+Index: guns
+Index: Florida
+Index: Stoneman Douglas High School
+
 Teaser:
 
 The recent Florida school shooting has again propelled issues surrounding gun violence into the forefront of our national dialogue. The Core Practopian beliefs may seem very broad and general, but I'd like to illustrate how they can be usefully employed in a specific debate such as this one. 

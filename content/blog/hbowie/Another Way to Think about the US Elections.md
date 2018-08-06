@@ -8,6 +8,12 @@ Status: 6 - Published
 
 Tags:   cultural evolution, integral
 
+Index: US politics
+Index: politics, US
+Index: Wilber, Ken
+Index: levels, developmental
+Index: developmental levels
+
 Teaser: 
  
 I was recently puzzling over the still surprising victory of Donald Trump in the recent US Presidential elections, when it occurred to me that there is another way to think about this whole chain of events. 

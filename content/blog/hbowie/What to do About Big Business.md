@@ -8,6 +8,29 @@ Status: 9 - Published
 
 Tags: democracy, systemic, balance
 
+Index: Amazon
+Index: Capra, Frank
+Index: Churchill, Winston
+Index: Cooper, Gary
+Index: Ford
+Index: Lincoln, Abraham
+Index: Meet John Doe
+Index: Reuther, Walter
+Index: Seattle
+Index: balance
+Index: business
+Index: cities
+Index: community
+Index: competition
+Index: consumers
+Index: democracy
+Index: economics
+Index: globalization
+Index: governance
+Index: labor
+Index: robots
+
+
 Teaser:
 
 Has business gotten too big? Rather than trying to answer this question directly, let's start by reviewing the fundamental architecture of all modern societies.

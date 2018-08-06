@@ -8,6 +8,14 @@ Status: 6 - Published
 
 Tags: education, cultural evolution
 
+Index: technology
+Index: education
+Index: McElhearn, Kirk
+Index: Cook, Tim
+Index: millennials
+Index: Jobs, Steve
+Index: Gretzky, Wayne
+
 Teaser:
 
 I came across a couple of things recently that got me thinking about the value of technology education, and what that training should look like. As an English major who gained his first job in Information Technology by taking an aptitude test given at a job interview -- and then having to swear to my future boss that I wouldn't quit in a few months to become an English teacher -- I feel I may be qualified to add something to the conversation. 

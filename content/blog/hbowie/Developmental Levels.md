@@ -8,6 +8,28 @@ Status: 5 - Held
 
 Tags:   cultural evolution, integral
 
+Index: developmental levels
+Index: levels, developmental
+Index: integral
+Index: Spiral Dynamics
+Index: Wilber, Ken
+Index: archaic
+Index: instinctual
+Index: magical
+Index: animistic
+Index: tribal
+Index: power gods
+Index: traditional
+Index: mythic order
+Index: modern
+Index: rational
+Index: postmodern
+Index: pluralistic
+Index: systemic
+Index: holistic
+Index: AQAL
+Index: first tier
+
 Teaser: 
  
 A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. Ken Wilber was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the Spiral Dynamics work done by Clare W. Graves, Don Beck and Chris Cowan.

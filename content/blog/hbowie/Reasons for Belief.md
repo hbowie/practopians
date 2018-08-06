@@ -8,6 +8,15 @@ Status: 6 - Published
 
 Tags:   critical thinking, religion
 
+Index: Hammett, Dashiell
+Index: truth
+Index: belief
+Index: Russell, Bertrand
+Index: Mencken, H. L. 
+Index: religion
+Index: science
+Index: critical thinking
+
 Teaser: 
  
 We often seem to assume that people say things, and come to believe them, because they are true.

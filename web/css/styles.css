@@ -453,7 +453,8 @@ a.thumbnail:link {
 .index { font-size: 0.9em; }
 .index dt { font-weight: normal; }
 .index dd { 
-	font-family: 'concourse_t4regular', Verdana, 'Helvetica Neue', Helvetica, Arial, sans-serif;  
+	font-family: 'concourse_t4regular', Verdana, 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	margin-left: 1.5em;  
 }
 
 #toc {
@@ -511,6 +512,19 @@ table.toc {
 	margin-left: 0;
 	padding-left: 0;
 	list-style-position: inside;
+}
+
+.home-block-hdg
+{
+	border-top: 8pt #92ACD2 solid;
+	margin-top: 2rem;
+	padding-top: 1rem;
+}
+
+.home-block-link
+{
+	text-align: left;
+	font-style: italic;
 }
 
 

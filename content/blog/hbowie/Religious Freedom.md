@@ -8,6 +8,15 @@ Status: 6 - Published
 
 Tags:   balance, critical thinking, love, religion, written word
 
+Index: religion
+Index: freedom
+Index: Lewis, C. S. 
+Index: Mencken, H. L.
+Index: Wilber, Ken
+Index: Niemöller, Martin
+Index: immortalists
+
+
 Teaser: 
  
 When it comes to religion, I have to confess to being a bit of a mongrel.

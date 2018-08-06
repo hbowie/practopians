@@ -6,6 +6,15 @@ Date:   Nov 3, 2016
 
 Status: 6 - Published
 
+Index: politics, US
+Index: US politics
+Index: Trump, Donald
+Index: Sanders, Bernie
+Index: education
+Index: governance
+Index: national identity
+Index: democracy
+
 Body:   
  
 <p><img class="img-top-right" style="max-width: 100%; height: auto;" src="../../images/welcome-to-the-future.jpg" alt="Welcome to the Future" title="Welcome to the Future" /></p>

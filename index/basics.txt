@@ -1,0 +1,9 @@
+Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
+C	competition	competition		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+C	cooperation	cooperation		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+E	economics	economics		Basics	basic info		Value Creation	basics/value-creation.html
+E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
+N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+V	value creation	value creation		Basics	basic info		Value Creation	basics/value-creation.html

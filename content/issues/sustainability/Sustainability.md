@@ -8,6 +8,11 @@ Issue: Sustainability
 
 Tags:  sustainability
 
+Index: sustainability
+Index: environment
+Index: Churchill, Winston
+Index: earth
+
 Seq: 1
 
 Teaser:

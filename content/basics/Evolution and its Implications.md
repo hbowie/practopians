@@ -8,6 +8,11 @@ Status: 6 - Published
 
 Tags:   evolution, cultural evolution
 
+Index: evolution
+Index: natural selection
+Index: competition
+Index: cooperation
+
 Teaser: 
  
 A belief in evolution is one of the core Practopian principles. But to say that we believe in evolution means quite a bit more to us than simply a denial of creationism. We also mean to imply that we believe in natural selection as a process for improving things, including human culture. 

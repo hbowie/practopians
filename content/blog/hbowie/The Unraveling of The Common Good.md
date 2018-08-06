@@ -6,6 +6,15 @@ Date:  10 Apr 2018
 
 Status: 9 - Published
 
+Index: Reich, Robert
+Index: democracy
+Index: Chevrolet Corvair
+Index: Capra, Frank
+Index: technology
+Index: work
+Index: labor
+Index: globalization
+
 Tags: democracy, systemic
 
 Teaser:

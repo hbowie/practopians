@@ -8,6 +8,16 @@ Status: 6 - Published
 
 Tags:   cultural evolution, evolution, humanism
 
+Index: humanism
+Index: human nature
+Index: Darwin, Charles
+Index: nature
+Index: symbols
+Index: temporal sense
+Index: mortality
+Index: cultural evolution
+Index: stories
+
 Teaser: 
  
 What does it mean to be human?

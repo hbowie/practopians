@@ -8,6 +8,20 @@ Status: 6 - Published
 
 Tags:   cultural evolution, integral
 
+Index: developmental levels
+Index: levels, developmental
+Index: social structures
+Index: penguins
+Index: Moskowitz, Stewart
+Index: lone wolf
+Index: family
+Index: power pyramid
+Index: shared principles
+Index: peer network
+Index: pluralistic cosmopolis
+Index: systemic
+Index: Jobs, Steve
+
 Teaser: 
  
 As human society has evolved over the centuries, we have developed different types of social structures. None of the later structures  replace earlier ones, yet each new structure has been devised in order to confer some new sort of evolutionary advantage to our species -- in other words, to help us survive and thrive more effectively.

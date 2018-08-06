@@ -8,6 +8,16 @@ Status: 9 - Published
 
 Tags: humanism
 
+Index: Christmas
+Index: religion
+Index: stories
+Index: Capra, Frank
+Index: Dickens, Charles
+Index: Springsteen, Bruce
+Index: Country Gentlemen, The
+Index: music
+Index: humanism
+
 Teaser:
 
 Here we are at the end of another year, well into what many of us call the Holiday Season. 

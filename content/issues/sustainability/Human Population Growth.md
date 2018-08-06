@@ -10,6 +10,11 @@ Issue: Sustainability
 
 Tags:  sustainability
 
+Index: earth
+Index: population growth
+Index: sustainability
+Index: evolution
+
 Seq: 2
 
 Teaser:

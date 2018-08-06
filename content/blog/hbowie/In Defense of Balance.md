@@ -8,6 +8,9 @@ Status: 6 - Published
 
 Tags:   balance
 
+Index: balance
+Index: Yeats, William Butler
+
 Teaser: 
  
 When I founded The Society for Practical Utopians, I based it on a fundamental set of beliefs, divided up into principles and values. And the very first value, the one given preeminent position, is balance. 

@@ -8,6 +8,16 @@ Status: 9 - Published
 
 Tags: governance, cultural evolution
 
+Index: Mill, John Stuart
+Index: Moskowitz, Stewart
+Index: conservatives
+Index: cultural evolution
+Index: developmental levels
+Index: hierarchy
+Index: levels, developmental
+Index: liberals
+Index: penguins
+
 Teaser:
 
 I sometimes think that at least half of the confusion we currently experience in our civil discourse stems from our inability to speak openly and honestly about the nature of hierarchy.

@@ -1,6 +1,12 @@
 Title:  Making Sense of What Happened on Nov 8
 
-Status: 6 - Published
+Status: 6 - Published 
+
+Index: democracy
+Index: Churchill, Winston
+Index: news
+Index: politics, US
+Index: US politics
 
 Body:   
  

@@ -8,6 +8,10 @@ Status: 6 - Published
 
 Tags:   liberty, progress
 
+Index: American
+Index: US politics
+Index: politics, US
+
 Teaser: 
  
 Like many of my fellow citizens, I've been struggling in recent months to understand exactly what it means to be American these days -- to identify the central elements of our collective identity that still bind us together as some kind of unified whole. 

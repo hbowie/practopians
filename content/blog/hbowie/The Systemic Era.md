@@ -8,6 +8,16 @@ Status: 6 - Published
 
 Tags:   cultural evolution, systemic
 
+Index: developmental levels
+Index: levels, developmental
+Index: systemic
+Index: Chaplin, Charlie
+Index: global warming
+Index: Toyota Prius
+Index: Haiti
+Index: Apple, Inc.
+Index: Jobs, Steve
+
 Teaser: 
  
 We tend to divide up human history into relatively neat periods, and give them names like "The Agrarian Era," "The Age of Industrialization" and "The Information Age."
