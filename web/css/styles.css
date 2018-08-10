@@ -211,6 +211,19 @@ td {
 	padding: 5px;
 }
 
+/* Table settings to flow with surrounding text */
+
+table.flow-with-text {
+  border-collapse: collapse;
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.428571429;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+table.flow-with-text td { border: none; }
+
 /* Colors */
 
 .infrared

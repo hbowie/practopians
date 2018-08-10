@@ -12,6 +12,7 @@ A	art	art		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-
 A	art	art		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 A	artificial intelligence	artificial intelligence		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 A	austin, rob	Austin, Rob		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+B	balance	balance		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 B	balance	balance		Blog	blog post		In Defense of Balance	blog/hbowie/in-defense-of-balance.html
 B	balance	balance		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 B	beauty	beauty		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
@@ -179,6 +180,7 @@ S	seattle	Seattle		Blog	blog post		What To Do About Big Business?	blog/hbowie/wh
 S	shared principles	shared principles		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 S	social media	social media		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
 S	social structures	social structures		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
+S	society	society		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 S	society	society		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 S	spiral dynamics	Spiral Dynamics		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 S	springsteen, bruce	Springsteen, Bruce		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html

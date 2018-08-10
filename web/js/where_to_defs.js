@@ -20,9 +20,14 @@ function findPage(table, key) {
   var index = 0;
   var found = false;
   while (index < table.length && (! found)) {
-    if (key == table[index].link) {
-      found = true;
-    } else {
+    try {
+			if (key == table[index].link) {
+				found = true;
+			} else {
+				index++;
+			}
+    }
+    catch (err) {
       index++;
     }
   }
@@ -67,6 +72,7 @@ function getAnchor(page, relative) {
   Write a row of next/prior links
 */
 function writeNextByType(table, index, depth) {
+  var nextLinesWritten = 0;
   var relative = "";
   var j = 0;
   while (j < depth) {
@@ -81,9 +87,14 @@ function writeNextByType(table, index, depth) {
     skips++;
   }
   var nextPageIx = index + 1;
-  while (nextPageIx < table.length && table[nextPageIx].type != currPage.type) {
-    nextPageIx++;
-    skips++;
+  try {
+		while (nextPageIx < table.length && table[nextPageIx].type != currPage.type) {
+			nextPageIx++;
+			skips++;
+		}
+  }
+  catch (err) {
+    skips = 0;
   }
   if (skips > 0) {
 		document.write('<div class="row nav-footer-row">');
@@ -107,13 +118,16 @@ function writeNextByType(table, index, depth) {
 		}
 		document.write('</div>');
 		document.write('</div>');
+		nextLinesWritten++;
   }
+  return nextLinesWritten;
 }
 
 /*
   Write a row of next/prior links
 */
 function writeNext(table, index, depth, left, center, right) {
+  var nextLinesWritten = 0;
   var relative = "";
   var j = 0;
   while (j < depth) {
@@ -138,6 +152,35 @@ function writeNext(table, index, depth, left, center, right) {
   }
   document.write('</div>');
   document.write('</div>');
+  nextLinesWritten++;
+  return nextLinesWritten;
+}
+
+/*
+  Write a Next Row to go Home
+*/
+function writeNextToHome(depth) {
+  var nextLinesWritten = 0;
+  var relative = "";
+  var j = 0;
+  while (j < depth) {
+    relative = relative + "../";
+    j++;
+  }
+  document.write('<div class="row nav-footer-row">');
+  document.write('<div class="col-5 text-right">');
+  document.write('</div>');
+  document.write('<div class="col-2 text-center nav-footer-center">');
+  document.write("Site");
+  document.write('</div>');
+  document.write('<div class="col-5 text-left">');
+  document.write("Next")
+  document.write(' =&gt; ');
+  document.write ('<a href="' + relative + 'index.html' + '">' + 'Home' + '</a>');
+  document.write('</div>');
+  document.write('</div>');
+  nextLinesWritten++;
+  return nextLinesWritten;
 }
 
 var content_logical = new Array();

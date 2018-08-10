@@ -42,20 +42,24 @@ document.write('Where to Next?');
 document.write('</div>');
 document.write('</div>');
 
+var nextLinesWritten = 0;
+
 if (section == "home" || section == "intro" || section == "core") {
 	ix = findPage(content_logical, localPath);
 	var center = "Home";
 	if (ix >= 0) {
 	  center = content_logical[ix].section;
 	}
-	writeNext(content_logical, ix, depth, "Prior", center, "Next");
+	nextLinesWritten += writeNext(content_logical, ix, depth, "Prior", center, "Next");
 }
 
 if (section != "home" && section != "intro" && section != "core") {
   ix = findPage(pages_by_descending_date, localPath);
-  writeNext(pages_by_descending_date, ix, depth, "Newer", "All Items", "Older");
+  if (ix >= 0) {
+    nextLinesWritten += writeNext(pages_by_descending_date, ix, depth, "Newer", "All Items", "Older");
+  }
   if (section != "basics") {
-		writeNextByType(pages_by_descending_date, ix, depth);
+		nextLinesWritten += writeNextByType(pages_by_descending_date, ix, depth);
 	}
 	if (ix >= 0) {
 		tags = pages_by_descending_date[ix].tags;
@@ -71,12 +75,15 @@ if (section != "home" && section != "intro" && section != "core") {
 				tag = tags.substring(tagStart, tagEnd);
 				ix = findPageAndTag(pages_by_tag, localPath, tag);
 				if (ix >= 0) {
-					writeNext(pages_by_tag, ix, depth, "Prior", tag, "Next");
+					nextLinesWritten += writeNext(pages_by_tag, ix, depth, "Prior", tag, "Next");
 				}
 				tagStart = tagEnd + 2;
 			} while (tagStart >= 0 && tagStart < tags.length);
 		}
 	}
+}
+if (nextLinesWritten == 0) {
+	writeNextToHome(depth);
 }
 
 document.write('</div>');

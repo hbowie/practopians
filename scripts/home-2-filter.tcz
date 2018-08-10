@@ -1,9 +1,0 @@
-module	action	modifier	object	value
-filter	add	not equal to	Item Type	Link
-filter	add	not equal to	Item Type	News Item
-filter	add	not equal to	Item Type	Quotation
-filter	set		params	
-filter	add	not equal to	Section	Core
-filter	set		params	
-filter	add	not equal to	Section	Intro
-filter	set		params	

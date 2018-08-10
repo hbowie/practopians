@@ -1,4 +1,4 @@
-<?output "../web/explore/index.html"?>
+<?output "../web/index.html"?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,6 +38,9 @@
           <h2>Working together to shape a brighter future for humanity</h2>
       </div>
 
+      <!-- Banner Image -->
+      <!-- <img class="img-fluid" alt="View of water and land from the air" src="=$relative$=images/banner-1.jpg" > -->
+
       <!-- Body -->
       <div class="row">
 
@@ -55,57 +58,35 @@
           </ol>
 
 					<!-- Content -->
-          <h2>Alpabetical Index</h2>
+          <h2>Home</h2>
 
-<div>
+          <p>Here is a list of recent additions to our site. If you&#8217;re new here, head on over to our <a href="intro/">Introduction</a> for a quick orientation. </p>
 
-<?include "../includes/index-index.html" ?>
-
+<?set item-count = 0 ?>
 <?nextrec?>
-<?definegroup 1 =$initial-letter$= ?>
-<?definegroup 2 "=$term$=" ?>
-<?ifendgroup 2 ?>
+<?set item-count ++ ?>
+<?if =$item-count$= < 101 ?>
+<?if =$itemtype$= == "Quotation" ?>
+					<h3><a href="=$link$=">=$title$=</a></h3>
+					<blockquote>
+					<p>=$teaser&so300$=</p>
+					</blockquote>
+					<p><a href="=$link$=">read more...</a></p>
+					<p>=$item-type$= by =$author$= &nbsp; | &nbsp; =$date&yyyy MMM dd$= </p>
+					<hr />
+<?else?>
+					<h3><a href="=$link$=">=$title$=</a></h3>
+<?if "=$author$=" ?>
+					<p>By =$author$= </p>
 <?endif?>
-<?ifendgroup 1 ?>
-</dl>
+					<p>=$teaser&so300$=</p>
+					<p><a href="=$link$=">read more...</a></p>
+					<p>=$item-type$= &nbsp; | &nbsp; =$date&yyyy MMM dd$= </p>
+					<hr />
 <?endif?>
-<?ifnewgroup 1 ?>
-<h3 id="letter-=$initial-letter&l$=">&mdash; =$initial-letter$= &mdash;</h3>
-<dl class="index">
 <?endif?>
-<?ifnewgroup 2 ?>
-	<dt>
-<?if "=$term-link$=" ?>
-		<a href="=$term-link$=" class="reflink" target="ref">
-<?endif?>
-			=$term$=
-<?if "=$term-link$=" ?>
-		</a>
-<?endif?>
-	</dt>
-<?endif?>
-		<dd>
-			<a href="=$relative$==$page-link$=">
-				=$item-type$=:&nbsp;&ldquo;=$page-title$=&rdquo;
-			</a>
-		</dd>
 <?loop?>
-</div>
-					<!-- Navigation to Next Page -->
-						<div id="content-footer">
-							<p class="content-footer-left">
-								&nbsp;
-							</p>
-							<p class="nextnav">
-									Next:
-									<a href="../index.html">
-										Home
-									</a>
-							</p>
-							<p class="content-footer-right">
-								&nbsp;
-							</p>
-					</div>
+
 					<div style="clear: both;"></div>
 
         </div>
@@ -120,6 +101,32 @@
 
       <!-- Footer -->
 
+      <!-- Next Navigation Footer -->
+      <div class="nav-footer">
+
+				<div class="row">
+					<div class="col-2 offset-5 text-center nav-footer-head">
+						Where to Next?
+					</div>
+				</div>
+
+				<!-- Intro -->
+				<div class="row nav-footer-row">
+					<div class="col-5 text-right">
+
+					</div>
+					<div class="col-2 text-center nav-footer-center">
+						Intro
+					</div>
+					<div class="col-5 text-left">
+						Next =&gt; <a href="intro/index.html">Introduction</a>
+					</div>
+				</div>
+
+<?endif?>
+<?endif?>
+			</div> <!-- End of Next Navigation Footer -->
+
       <div class="row">
         <div class="col-lg-12 footer">
           <hr class="bottom">
@@ -129,6 +136,8 @@
 
     </div>
 
+		<!-- Popper (needed by Bootstrap) -->
+		<script src="=$relative$=js/popper.min.js"></script>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="=$relative$=js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

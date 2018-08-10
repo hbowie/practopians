@@ -519,7 +519,93 @@ sort	set		params
 template	open	text		#PATH#../factory/links_index_by_title.html
 template	generate
 
-<!-- PHASE 6: BUILD FINAL WEB PAGES WITH CONTENT -->
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Explore Page featuring most recent content additions -->
+<!-- Output: ../html/explore/latest-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/explore/latest_all_template.html
+template	generate
+
+<!-- Generate Explore Page featuring most recent original content additions -->
+<!-- Output: ../html/explore/latest-original-content.html                   -->
+
+filter	add	not equal to	Item Type	Link
+filter	add	not equal to	Item Type	News Item
+filter	add	not equal to	Item Type	Quotation
+filter	add	not equal to	Section	Core
+filter	add	not equal to	Section	Intro
+filter	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/explore/latest_original_template.html
+template	generate
+
+<!-- Generate tab-delimited index for blog section  -->
+<!-- Output: ../index/blog-hbowie.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/index_blog_hbowie_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for basics section  -->
+<!-- Output: ../index/basics.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/basics/
+template	open	text		#PATH#../factory/index_basics_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for issues section  -->
+<!-- Output: ../index/issues-sustainability.txt       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/issues/sustainability/
+template	open	text		#PATH#../factory/index_issues_sustainability_template.txt
+template	generate
+
+<!-- Merge and create a Consolidated Index File -->
+<!-- Output: ../feed/combined.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/blog-hbowie.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../index/basics.txt
+input	open	file	merge	#PATH#../index/issues-sustainability.txt
+output	open	file		#PATH#../index/combined.txt
+
+<!-- Generate the Index Page             -->
+<!-- Output: ../web/explore/site-index.html   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/combined.txt
+sort	add	Ascending	Initial Letter
+sort	add	Ascending	Lower Case Term
+sort	add	Ascending	Section
+sort	add	Ascending	Page Title
+sort	set		params
+template	open	text		#PATH#../factory/explore/site_index_letters_template.html
+template	generate
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/explore/site_index_template.html
+template	generate
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
 
 <!-- Generate Web pages for content                     -->
 <!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
