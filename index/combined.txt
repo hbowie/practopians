@@ -226,7 +226,10 @@ Z	zuckerberg, mark	Zuckerberg, Mark		Blog	blog post		A Traditional Remedy for th
 C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
 C	competition	competition		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 C	cooperation	cooperation		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+C	cultural evolution	cultural evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
+C	culture	culture		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	economics	economics		Basics	basic info		Value Creation	basics/value-creation.html
+E	evolution	evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
 N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
@@ -239,3 +242,11 @@ E	evolution	evolution		Issues	issue		Human Population Growth	issues/sustainabili
 P	population growth	population growth		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
 S	sustainability	sustainability		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
 S	sustainability	sustainability		Issues	issue		Sustainability	issues/sustainability/sustainability.html
+D	darrell scott	Darrell Scott		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+D	death	death		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+H	humanism	humanism		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+N	nitty gritty dirt band	Nitty Gritty Dirt Band		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+P	parenthood	parenthood		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+R	religion	religion		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+T	the country gentlemen	The Country Gentlemen		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
+T	tim o'brien	Tim O'Brien		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html

@@ -186,6 +186,7 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
 democracy
 democracy
 democracy
@@ -296,6 +297,7 @@ governance
 governance
 governance
 governance
+humanism
 humanism
 humanism
 humanism
@@ -417,6 +419,7 @@ mission
 mission
 mission
 mission
+parenthood
 parenthood
 parenthood
 parenthood
@@ -459,6 +462,7 @@ progress
 progress
 progress
 property
+religion
 religion
 religion
 religion

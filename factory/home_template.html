@@ -112,13 +112,16 @@
 <?set item-count ++ ?>
 <?if =$item-count$= == 1 ?>
 <?if "=$itemtype$=" == "Blog Post" ?>
-				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>&rdquo;, a blog post penned by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
+				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; a blog post penned by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Basic Info" ?>
-				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>&rdquo;, a basic info article written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
+				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; a basic info article written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
+<?endif?>
+<?if "=$itemtype$=" == "Appreciation" ?>
+				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; an appreciation written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Issue" ?>
-				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>&rdquo;, an issue description written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
+				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; an issue description written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 					<br />
 					<p class="home-block-link"><a href="=$link$=">Check Out our Latest =&gt;</a></p>

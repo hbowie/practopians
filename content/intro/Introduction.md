@@ -12,6 +12,8 @@ We invite you to explore our site. You'll note that it contains several differen
 
 * Our [Blog Posts](../blog/index.html) offer commentary on a variety of topics from a Practopian perspective.
 
+* Our [Appreciations](../appreciations/index.html) offer original appreciations of works by others. 
+
 * We've collected a number of [Quotations](../quotes/index.html) that reflect and illustrate our core beliefs.
 
 * We also highlight various [News Items](../news/index.html), with some brief commentary on why they're relevant to our interests.

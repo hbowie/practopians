@@ -199,6 +199,14 @@ input	open	notenik+		#PATH#../content/blog/hbowie/
 template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
 template	generate
 
+<!-- Generate html content for appreciations section              -->
+<!-- Output: ../../../html/appreciations/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/appreciations/
+template	open	text		#PATH#../factory/appreciations/appreciations_body_template.html
+template	generate
+
 <!-- Generate html content for news section    -->
 <!-- Output: ../../html/news/=$title&f$=.html  -->
 
@@ -305,6 +313,15 @@ input	open	notenik+		#PATH#../content/basics/
 template	open	text		#PATH#../factory/basics-feed_template.txt
 template	generate
 
+<!-- Generate Appreciations feed in a standard format -->
+<!-- Output: ../feed/appreciations-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciations/
+template	open	text		#PATH#../factory/appreciations-feed_template.txt
+template	generate
+
 <!-- Merge and create a Consolidated Feed -->
 <!-- Output: ../feed/combined-feed.txt.   -->
 
@@ -317,6 +334,7 @@ input	open	file	merge	#PATH#../feed/content-feed.txt
 input	open	file	merge	#PATH#../feed/news-feed.txt
 input	open	file	merge	#PATH#../feed/links-feed.txt
 input	open	file	merge	#PATH#../feed/basics-feed.txt
+input	open	file	merge	#PATH#../feed/appreciations-feed.txt
 output	open	file		#PATH#../feed/combined-feed.txt
 
 <!-- PHASE 4: BUILD HTML INCLUDE FILES
@@ -443,6 +461,18 @@ sort	set		params
 template	open	text		#PATH#../factory/basics_index_template.html
 template	generate
 
+<!-- Generate Appreciations Index              -->
+<!-- Output: ../html/appreciations/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciations/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/appreciations_index_template.html
+template	generate
+
 <!-- Generate Quotes Index              -->
 <!-- Output: ../html/quotes/index.html  -->
 
@@ -567,6 +597,15 @@ input	open	notenik-index		#PATH#../content/basics/
 template	open	text		#PATH#../factory/index_basics_template.txt
 template	generate
 
+<!-- Generate tab-delimited index for appreciations section  -->
+<!-- Output: ../index/appreciations.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/appreciations/
+template	open	text		#PATH#../factory/index_appreciations_template.txt
+template	generate
+
 <!-- Generate tab-delimited index for issues section  -->
 <!-- Output: ../index/issues-sustainability.txt       -->
 
@@ -586,6 +625,7 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	file	merge	#PATH#../index/basics.txt
 input	open	file	merge	#PATH#../index/issues-sustainability.txt
+input	open	file	merge	#PATH#../index/appreciations.txt
 output	open	file		#PATH#../index/combined.txt
 
 <!-- Generate the Index Page             -->
@@ -659,6 +699,15 @@ input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/basics/
 template	open	text		#PATH#../factory/basics_template.html
+template	generate
+
+<!-- Generate web pages for Appreciations           -->
+<!-- Output: ../web/appreciations/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciations/
+template	open	text		#PATH#../factory/appreciations_template.html
 template	generate
 
 <!-- Generate Tags Pages                 -->
