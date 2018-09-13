@@ -12,9 +12,7 @@ Link: http://amzn.to/2jsmsVa
 
 Teaser:
 
-This is a book about an envoy from a foreign land, and a mad king;  power-hungry regents and political schemers; the meaning of patriotism and the making of a traitor; about bravery and endurance; about taking in strangers and showing them kindness; about borders and border-crossings; about recognizing our common humanity, irrespective of gender or place of origin or kinship bond; about choosing progress for our fellow humans over personal gain or safety; about darkness and light; about forging a bond with all of humanity through the intimate knowing of one other human who is irredeemably different from ourselves; about waiting for a chance and then taking it. 
-
-In other words, it is the perfect book for our times.
+This is a book about an envoy from a foreign land, and a mad king;  power-hungry regents and political schemers; the meaning of patriotism and the making of a traitor; about bravery and endurance; about taking in strangers and showing them kindness; about borders and border-crossings; about recognizing our common humanity, irrespective of gender or place of origin or kinship bond; about choosing progress for our fellow humans over personal gain or safety; about darkness and light; about forging a bond with all of humanity through the intimate knowing of one other human who is irredeemably different from ourselves; about waiting for a chance and then taking it. In other words, it is the perfect book for our times.
 
 Body:
 

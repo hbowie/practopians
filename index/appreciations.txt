@@ -1,9 +1,0 @@
-Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
-D	darrell scott	Darrell Scott		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-D	death	death		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-H	humanism	humanism		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-N	nitty gritty dirt band	Nitty Gritty Dirt Band		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-P	parenthood	parenthood		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-R	religion	religion		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-T	the country gentlemen	The Country Gentlemen		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html
-T	tim o'brien	Tim O'Brien		Appreciations	appreciation		Will the Circle be Unbroken	appreciations/will-the-circle-be-unbroken.html

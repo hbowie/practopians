@@ -1,24 +1,26 @@
-Title:  Cultural Evolution
+Title: Vol 1 Issue 8 - Cultural Evolution
 
-Author: Herb Bowie
+Date:  2018-08-22
 
-Date:   2018-08-13
-
-Status: 9 - Published
-
-Tags:   cultural evolution
-
-Index: cultural evolution
-Index: evolution
-Index: culture
-
-Teaser: 
- 
-A belief in cultural evolution is one of the core Practopian principles. But what do we mean by human culture? And by its evolution? Let's dive a little deeper to uncover some of the significant ideas lurking behind this simple statement.
+Seq:   1.08
 
 Body:
 
-<p><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html"><img src="../images/cultural-evolution.jpg" alt="Cultural Evolution" title="Cultural Evolution" /></a></p>
+# The Practopian Perspective
+
+Welcome to Issue # 8! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
+
+<p><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html"><img src="https://www.practopians.org/images/cultural-evolution.jpg" alt="Cultural Evolution" title="Cultural Evolution" width="600" style="width: 100%; max-width: 600px;" /></a></p>
+
+## News and Analysis
+
+"A report based on a 2016 national survey concluded that the white-working-class tilt toward Mr. Trump occurred because of fears of 'cultural displacement' rather than economic hardship. Three political scientists argued that the shift represented an 'identity crisis' among whites without college educations that was rooted in their fear that African-Americans and immigrants were undermining their position as the majority group.
+
+"These conclusions, faithful as they may be to the survey data that underlie them, exemplify a misguided debate about whether culture or economics was the driving force in Mr. Trump's win. To be sure, racism is a corrosive part of American culture and politics. Nevertheless, those who try to distinguish between the explanatory power of stagnant wages and a declining industrial base on the one hand, and anxieties about the ascent of minority groups on the other, miss the point: These are not two different factors but two sides of the same coin."
+
+-- "You Can't Separate Money From Culture" from the [New York Times](https://www.nytimes.com/2018/05/06/opinion/trump-supporters-economy-racism.html)
+
+## Basics Explained: Cultural Evolution
 
 A belief in [cultural evolution][cultural-evolution] is one of the core [Practopian principles][principles]. We state our belief in the following way:
 
@@ -26,7 +28,7 @@ A belief in [cultural evolution][cultural-evolution] is one of the core [Practop
 
 But what do we mean by human culture? And by its evolution? Let's dive a little deeper to uncover some of the significant ideas lurking behind this simple statement.
 
-## What We Mean by Human Culture
+### What We Mean by Human Culture
 
 First of all, what do we mean by "culture"? 
 
@@ -36,7 +38,7 @@ First of all, what do we mean by "culture"?
 
 In other words, culture consists of the knowledge, beliefs, artifacts, attitudes, practices, and institutions that are shared by a group of people, and transmitted socially between members of that group. 
 
-## The Importance of Human Culture
+### The Importance of Human Culture
 
 When we think about a definition like this, one thing becomes clear pretty quickly: most of what makes up our daily lives as human beings falls somewhere into this cultural category. Remove these cultural elements -- language, science, buildings, tools, food preparation techniques, social norms, works of art -- and whatever we have left is something most of us would barely recognize as human. 
 
@@ -44,7 +46,7 @@ I recently made a point of rewatching the 1970 film by François Truffaut, *[The
 
 The film's message is clear: whatever we think it means to be human, we are not born that way, but only achieve some measure of humanity to the degree that we are carefully raised and socialized by other caring humans. 
 
-## The Malleability of Human Culture
+### The Malleability of Human Culture
 
 Of course, almost all of us are brought up within some particular human culture. At first, we have our hands (and minds!) full just learning that one culture in which we were raised. If that education is successful, then we reach a point at which we take most cultural elements for granted: like a fish swimming through the ocean, we move through the culture that surrounds us, giving it no more thought than the fish gives the water in which it lives. 
 
@@ -62,7 +64,7 @@ And here's a relevant observation by Eamonn Kelly, a strategic business consulta
  
 > Perhaps the greatest cognitive barrier we face in making sense of the world is that we have come to view certain realities as part of a 'natural order' that will remain unchallenged. In fact, many 'fundamental truths' that we take for granted are simply the fragile constructs of history and could shift radically in the decade ahead.
 
-## Cultural Change Over Time
+### Cultural Change Over Time
 
 Of course culture is often dependent on the part of the world in which we happen to find ourselves. And it can also vary from group to group within a region: a company can be said to have a certain corporate culture, for example.
 
@@ -80,7 +82,7 @@ And many observers note that this ability to leverage cultural evolution has giv
 
 > Our capacity, through language, to manipulate the mental world and so deal imaginatively with the world of experience has been a major factor, perhaps the major factor, in giving humans the overwhelming advantage over other species in terms of cultural, as opposed to biological, evolution.
 
-## The Interrelationship of Cultural Elements
+### The Interrelationship of Cultural Elements
 
 While at times we may consider each cultural strand in isolation from others, there often seems to be an interrelationship between them. As our understanding of the universe has grown through scientific discoveries, for example, that understanding has in turn influenced our religious beliefs and social institutions. As machines have been developed to perform work requiring physical strength, the nature of work has shifted, resulting in broader and deeper education throughout society. As technology and industry have brought greater prosperity to more of society, our respect for the value of individuals within those societies has grown. 
 
@@ -88,7 +90,7 @@ Here's a comment from Harari, again from *Sapiens*, describing how some of these
  
 > Myths, it transpired, are stronger than anyone could have imagined. When the Agricultural Revolution opened opportunities for the creation of crowded cities and mighty empires, people invented stories about great gods, motherlands and joint stock companies to provide the needed social links. While human evolution was crawling at its usual snail's pace, the human imagination was building astounding networks of mass cooperation, unlike any other ever seen on earth.
 
-## Developmental Models
+### Developmental Models
 
 Taking all of this into account, some observers have noted that these various strands of human culture have coevolved through a series of developmental levels. You can read more about these here:
 
@@ -98,7 +100,7 @@ Taking all of this into account, some observers have noted that these various st
 
 These levels really represent different patterns of human engagement, all of which are still in operation today, in all of our societies, and so an understanding of these levels/patterns can help us all better understand how and why humans interact in various ways. 
 
-## Individual Responsibility
+### Individual Responsibility
 
 So how are we to think about human culture, and our role in it? 
 
@@ -132,20 +134,29 @@ In summary, here are a number of ideas I've presented that are all tied to the t
 * Various developmental models have been constructed to paint our common cultural evolution in very broad strokes. 
 * While all of us inherit a certain culture, we also have the ability -- and perhaps even the responsibility -- to  contribute in turn to the further evolution of that culture. 
 
-
-
-[cultural-evolution]: ../tags/cultural-evolution.html
-[dl]: ../blog/hbowie/developmental-levels.html
-[dlss]: ../blog/hbowie/developmental-levels-as-evolving-social-structures.html
+[cultural-evolution]: https://www.practopians.org/tags/cultural-evolution.html
+[dl]: https://www.practopians.org/blog/hbowie/developmental-levels.html
+[dlss]: https://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html
 [einstein]: https://amzn.to/2vyCRvf
 [embo]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3327546/
-[evo]: ../basics/evolution-and-its-implications.html
+[evo]: https://www.practopians.org/basics/evolution-and-its-implications.html
 [jobs]: http://www.siliconvalleyhistorical.org/#!steve-jobs-film/c1x1c
 [kelly]: https://amzn.to/2MdmAp2
 [king]: https://kinginstitute.stanford.edu/king-papers/documents/conquering-self-centeredness-sermon-delivered-dexter-avenue-baptist-church
 [kv]: http://www.wnyc.org/story/kurt-vonnegut-breakfast-champions/
-[principles]: ../core/principles.html
+[principles]: https://www.practopians.org/core/principles.html
 [pulleyblank]: https://amzn.to/2AYAoPQ
 [sapiens]: https://amzn.to/2nrC5f4
 [twc]: https://en.wikipedia.org/wiki/The_Wild_Child
 [wp]: https://en.wikipedia.org/wiki/Culture 
+
+-- Herb Bowie, [Practopians.org](https://www.practopians.org/basics/cultural-evolution.html)
+
+## Next Steps...
+
+Thanks for reading!
+
+Feedback is always welcome at [feedback@practopians.org](mailto:feedback@practopians.org).
+
+This piece, and much more, can always be found at [Practopians.org](https://www.practopians.org).
+

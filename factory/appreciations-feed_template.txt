@@ -1,5 +1,0 @@
-<?output "../feed/appreciations-feed.txt"?>
-Section	Item Type	Date	Title	Author	Link	Tags	Teaser
-<?nextrec?>
-Appreciations	Appreciation	=$date$=	=$title$=	=$author$=	appreciations/=$title&f$=.html	=$tags$=	=$teaser$=
-<?loop?>

@@ -1,0 +1,15 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../feed/combined-feed.txt
+filter	clear			
+filter	set		params	
+filter	add	equals	Author	Herb Bowie
+filter	set		params	
+sort	clear			
+sort	set		params	
+sort	add	Descending	Date	
+sort	set		params	
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/explore/latest_original_template.html
+template	generate			

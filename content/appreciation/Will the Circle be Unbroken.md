@@ -102,7 +102,7 @@ This is not a song of religious dogma, it is a song that speaks to a wellspring 
 
 This is perhaps why the name of this song is so moving as the title for the Nitty Gritty Dirt Band album from 1972, because the recording of that album was itself an attempt to acknowledge the great gifts bequeathed to a younger generation by their elders, and to document those gifts in a way that could be in turn passed on to others. 
 
-So while this song comes from a Christian tradition, for me it also a song of humanism, because it so vividly describes an important dimension of what being human means for all of us. 
+So while this song comes from a Christian tradition, for me it is also a song of humanism, because it so vividly describes an important dimension of what being human means for all of us. 
 
 [album1]: https://amzn.to/2MLs4nR
 [album2]: https://amzn.to/2OAaLaa
