@@ -7,7 +7,7 @@ Practopians.org has many different types of content, and many different ways to 
 Choose one of the following:
 
 * A list of the [latest *original* content](latest-original-content.html) added to the site;
-* A list of [*all* the latest content](latest-all.html), including references to content originating at other sites. 
+* A list of [*all* the latest content](latest-content.html), including references to content originating at other sites. 
 
 ### Explore by Section
 
