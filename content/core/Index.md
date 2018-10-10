@@ -5,6 +5,7 @@ Body:
 Our Core Writings spell out who we are and what we're about.
 
 * [Background](background.html)
+* [Core Beliefs Grouped into Clusters](core-clusters.html)
 * [Mission](mission.html)
 * [Principles](principles.html)
 * [Values](values.html)

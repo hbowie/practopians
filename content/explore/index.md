@@ -47,11 +47,16 @@ Search our site using DuckDuckGo.
 
 At the bottom of most pages, you will find one or more suggested links to proceed to pages related to the one you're on. Feel free to choose one of these to continue your explorations!
 
+### Seattle Meetups
+
+We've started a series of Practopian meetups in Seattle! We'd love to have you join us for the next one. Visit the [Meetup.com page for The Society for Practical Utopians - Seattle Chapter][meetup] for more info. 
+
 [basics]: ../basics/index.html
 [blog]:   ../blog/index.html
 [core]:   ../core/index.html
 [intro]:  ../intro/index.html
 [issues]: ../issues/index.html
 [links]:  ../links/index.html
+[meetup]: https://www.meetup.com/The-Society-for-Practical-Utopians-Seattle-Chapter/
 [news]:   ../news/index.html
 [quotes]: ../quotes/index.html

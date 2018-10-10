@@ -6,7 +6,7 @@ We Practopians seek to identify and promote beliefs, principles, values and acti
 
 We strive to combine a clear-eyed view of what is possible with an idealistic yearning for a better tomorrow.
 
-By documenting in an inclusive and transparent manner a foundational modern worldview, we hope to launch something that might be thought of as the world's first [open-source religion][github].
+By documenting in an inclusive and transparent manner a foundational modern worldview, we hope to launch something that might be thought of as the world's first [open-source belief system][github].
 
 [github]: https://github.com/hbowie/practopians
 

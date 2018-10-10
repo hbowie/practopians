@@ -6,7 +6,7 @@ Put another way, these two lists are intended to constitute a minimum set of bel
 
 We make no claims that these principles and values are fixed and immutable; in fact, they are subject to change and improvement. And we do not uphold them because they were handed down from some higher authority; we believe them because we make a conscious choice to do so. 
 
-It is because of the foundational nature of these beliefs, their transparent authorship, and our openness to change, that we sometimes speak of The Society for Practical Utopians as a sort of "open-source religion." 
+It is because of the foundational nature of these beliefs, their transparent authorship, and our openness to change, that we sometimes speak of The Society for Practical Utopians as a sort of "open-source belief system." 
 
 ## Criteria for Inclusion
 

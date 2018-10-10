@@ -126,6 +126,7 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+critical thinking
 cultural evolution
 cultural evolution
 cultural evolution
@@ -188,6 +189,7 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+democracy
 democracy
 democracy
 democracy
@@ -298,6 +300,7 @@ governance
 governance
 governance
 governance
+governance
 humanism
 humanism
 humanism
@@ -327,6 +330,7 @@ humanism
 humanism
 humanism
 humanism
+imperfection
 imperfection
 imperfection
 imperfection
@@ -484,6 +488,7 @@ religion
 religion
 rule of law
 rule of law
+rule of law
 science
 science
 science
@@ -497,6 +502,7 @@ science
 science
 science
 science
+society
 society
 society
 society

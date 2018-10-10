@@ -2,6 +2,10 @@ Title: Changes
 
 This log tracks major changes to the site, especially in regards to the Core Writings. A more detailed change history can be found on <a href="https://github.com/hbowie/practopians/" target="ref">GitHub</a>.
 
+### 10 Oct 2018
+
+Changed the phrase "open-source religion" to instead say "open-source belief system" (based on feedback from our first Seattle meetup, which occurred on Oct 9).
+
 ### 2 Aug 2018
 
 Changed "The Practopian Creed" to "The Practopian Way." Only the title was changed. No changes were made to the content. 

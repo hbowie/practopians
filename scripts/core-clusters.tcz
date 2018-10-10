@@ -1,0 +1,10 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+filter	add	not equal to	Group	
+filter	set		params	
+sort	add	Ascending	Grp-Seq	
+sort	set		params	
+template	open	text		#PATH#../factory/core-clusters-template.md
+template	generate			

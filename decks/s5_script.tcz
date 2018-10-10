@@ -1,0 +1,6 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#deck1.xls
+template	open	text		#PATH#s5_template.html
+template	generate			

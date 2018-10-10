@@ -1,0 +1,97 @@
+<?output "../web/decks/deck1.html"?>
+<?set slidetype = na ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<?set list-depth = 0 ?>
+<?nextrec?>
+<?definegroup 1 "=$slideno$=" ?>
+<?ifendgroup 1 ?>
+<?if =$list-depth$= gt 0 ?>
+</ul>
+<?set list-depth = 0 ?>
+<?endif?>
+<?if =$slideno$= gt 1 ?>
+</div>
+<?endif?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?if =$slideno$= eq 1 ?>
+<head>
+<title>=$text$=</title>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20050728" />
+<meta name="author" content="Eric A. Meyer" />
+<meta name="company" content="Complex Spiral Consulting" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+<h1>The Society for Practical Utopians</h1>
+<h2>=$text$=</h2>
+</div>
+</div>
+
+<div class="presentation">
+
+<div class="slide">
+<h1>=$text$=</h1>
+<h3>Herb Bowie / Chief Practopian</h3>
+<h4>The Society for Practical Utopians</h4>
+</div>
+<?endif?>
+<?if =$slideno$= gt 1 ?>
+<?set slidetype = =$type$= ?>
+<div class="slide">
+<h1>=$text$=</h1>
+<?if =$type$= eq "ul" ?>
+<ul>
+<?set list-depth += 1 ?>
+<?endif?>
+<?endif?>
+<?endif?>
+<?if =$pointno$= gt 0 ?>
+<?if =$type$= eq li ?>
+<li>=$text$=</li>
+<?endif?>
+<?if =$type$= eq ul ?>
+<ul>
+<?set list-depth += 1 ?>
+<?endif?>
+<?if =$type$= eq end-ul ?>
+</ul>
+<?set list-depth -= 1 ?>
+<?endif?>
+<?if =$type$= eq quote ?>
+<?include "quotes/=$text$=" ?>
+<?endif?>
+<?if =$type$= eq html ?>
+<?include "../html/=$text$=" ?>
+<?endif?>
+<?if =$type$= eq p ?>
+=$text&o$=
+<?endif?>
+<?endif?>
+<?loop?>
+
+</div>
+
+</body>
+</html>

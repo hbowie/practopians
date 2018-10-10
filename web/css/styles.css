@@ -540,6 +540,22 @@ table.toc {
 	font-style: italic;
 }
 
+#single-page h1
+{
+	color: #011993;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+
+#single-page h2 { color: #011993; text-decoration: none; }
+
+#single-page p { font-size: 82%; }
+
+#single-page a:link     { color: #011993; text-decoration: none; }
+#single-page a:visited  { color: #011993; text-decoration: none; }
+#single-page a:hover    { color: #011993; text-decoration: none; }
+#single-page a:active 	{ color: #011993; text-decoration: none; }
+
 
 @media (min-width: 768px) {
 	.navbar .navbar-nav {

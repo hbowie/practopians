@@ -8,6 +8,10 @@ Level:
 
 Tags:   One or more tags, separated by commas 
 
+Group:    
+
+Grp-Seq:  
+
 Abridged: <longtext>
 
 Teaser: 
