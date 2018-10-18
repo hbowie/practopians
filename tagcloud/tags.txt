@@ -214,6 +214,7 @@ diversity
 diversity
 diversity
 diversity
+diversity
 education
 education
 education
@@ -330,11 +331,16 @@ humanism
 humanism
 humanism
 humanism
+humanism
 imperfection
 imperfection
 imperfection
 imperfection
 imperfection
+imperfection
+imperfection
+imperfection
+individuals
 individuals
 individuals
 individuals
@@ -486,6 +492,7 @@ religion
 religion
 religion
 religion
+religion
 rule of law
 rule of law
 rule of law
@@ -593,6 +600,7 @@ wonder
 wonder
 wonder
 wonder
+written word
 written word
 written word
 written word

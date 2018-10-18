@@ -1,0 +1,49 @@
+module	action	modifier	object	value
+
+<!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
+
+<!-- Generate html content for perspectives MailChimp section    -->
+<!-- Output: ../../html/perspective-mailchimp/=$title$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective/perspective_mailchimp_template.html
+template	generate
+
+<!-- Generate html content for perspectives section    -->
+<!-- Output: ../../html/perspective/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective/perspective_body_template.html
+template	generate
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
+
+
+<!-- Generate Perspectives Index              -->
+<!-- Output: ../html/perspective/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+sort	clear
+sort	add	Ascending	Date
+sort	set		params
+template	open	text		#PATH#../factory/perspective_index_template.html
+template	generate
+
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
+
+<!-- Generate web pages for Practopian Perspective Issues  -->
+<!-- Output: ../web/perspective/=$title&f$=.html           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/perspective_template.html
+template	generate

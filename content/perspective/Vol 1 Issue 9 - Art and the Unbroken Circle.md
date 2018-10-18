@@ -6,8 +6,6 @@ Seq:   1.09
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 9! 
 
 One of the Core [Practopian Principles][principles] reads as follows:

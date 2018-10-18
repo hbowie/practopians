@@ -6,8 +6,6 @@ Seq:   1.07
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 7! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><img src="https://www.practopians.org/images/stool.jpg" alt="Boy on Stool" title="Value Creation" width="600" style="width: 100%; max-width: 600px;" /></p>

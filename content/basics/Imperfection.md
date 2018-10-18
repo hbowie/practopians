@@ -1,4 +1,25 @@
-Title: Imperfection
+Title:  Imperfection
+
+Author: Herb Bowie
+
+Date:   2018-10-11
+
+Status: 9 - Published
+
+Tags:   imperfection
+
+Index:  imperfection
+Index:  Voltaire
+Index:  Watson-Watt, Robert
+Index:  Brown, Brené 
+
+Teaser: 
+ 
+Belief in imperfection as a fundamental principle may seem like an odd concept but, in fact, it is an essential part of our thinking. Let's look at some of the reasoning behind this principle. 
+
+Body: 
+
+<p><img src="../images/imperfection.jpg" alt="Imperfection" title="Imperfection" /></p>
 
 One of the Practopian [Principles][] states that:
 

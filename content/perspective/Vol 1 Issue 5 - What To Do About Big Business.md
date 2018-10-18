@@ -6,8 +6,6 @@ Seq:   1.05
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 5! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><img src="http://www.practopians.org/images/meet-john-doe.jpg" alt="Scene from Frank Capra's film Meet John Doe" title="Scene from Frank Capra's film Meet John Doe" width="600" style="width: 100%; max-width: 600px;" /></p>

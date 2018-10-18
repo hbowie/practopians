@@ -6,8 +6,6 @@ Seq:   1.01
 
 Body:
 
-# Welcome to the Practopians Weekly
-
 Welcome to Volume 1, Issue 1 of the Practopians Weekly! I hope you'll enjoy this and every issue. Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5). This week's issue features our latest blog post in its entirety. If you'd rather read this on the Web, then head on [over to the permalink on Practopians.org](http://www.practopians.org/blog/hbowie/a-practopian-approach-to-gun-issues-in-the-us.html)
 
 # A Practopian Approach to Gun Issues in the US

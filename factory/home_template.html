@@ -94,27 +94,41 @@
 				<div class="col-12 col-lg-6 col-xl-4">
 				  <h2 class="home-block-hdg">Read the Latest</h2>
 <?set item-count = 0 ?>
+<?set latest-found = false ?>
+<?set latest-found-2 = false ?>
 <?nextrec?>
 <?set item-count ++ ?>
-<?if =$item-count$= == 1 ?>
+<?if =$latest-found$= == false ?>
 <?if "=$itemtype$=" == "Blog Post" ?>
+<?set latest-found = true ?>
 				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; a blog post penned by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Basic Info" ?>
+<?set latest-found = true ?>
 				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; a basic info article written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Appreciation" ?>
+<?set latest-found = true ?>
 				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; an appreciation written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Issue" ?>
+<?set latest-found = true ?>
 				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; an issue description written by =$author$=, published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
 <?if "=$itemtype$=" == "Core Writing" ?>
+<?set latest-found = true ?>
 				  <p>Read &ldquo;<a href="=$link$=">=$title$=</a>,&rdquo; a core writing published on =$date&EEE, d MMM yyyy$=.</p>
 <?endif?>
+<?endif?>
+<?if =$latest-found$= == true ?>
+<?if =$latest-found-2$= == false ?>
+<?set latest-found-2 = true ?>
 					<br />
 					<p class="home-block-link"><a href="=$link$=">Check Out our Latest =&gt;</a></p>
 				</div>
+<?endif?>
+<?endif?>
+<?loop?>
 
 				<!-- Block 5: Explore -->
 				<div class="col-12 col-lg-6 col-xl-4">
@@ -156,9 +170,6 @@
 					</div>
 				</div>
 
-<?endif?>
-<?endif?>
-<?loop?>
 			</div> <!-- End of Next Navigation Footer -->
 
       <div class="row">

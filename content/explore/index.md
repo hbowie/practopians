@@ -21,6 +21,7 @@ Here's the complete list of content types, starting with original content.
 <li><a href="../issues/index.html">Issues</a> - Our focus for action</li>
 <li><a href="../basics/index.html">Basics</a> - Expanded info on our core beliefs</li>
 <li><a href="../blog/index.html">Blog</a> - Commentary from a Practopian perspective</li>
+<li><a href="../perspective/index.html">Emails</a> - Past Issues of the Practopian Perspective</li> 
 </ul>
 
 The following sections are references to the works of others, rather than original content. 

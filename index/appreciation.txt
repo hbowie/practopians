@@ -1,14 +1,21 @@
 Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+B	buffett, jimmy	Buffett, Jimmy		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
 D	darrell scott	Darrell Scott		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
 D	death	death		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
+D	diversity	diversity		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
+F	fruitcakes	Fruitcakes		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
 G	george santayana	George Santayana		Appreciation	appreciation		The Village Green Preservation Society	appreciation/the-village-green-preservation-society.html
 H	humanism	humanism		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
+I	imperfection	imperfection		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
+I	individuals	individuals		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
 K	kinks	Kinks		Appreciation	appreciation		The Village Green Preservation Society	appreciation/the-village-green-preservation-society.html
 N	nitty gritty dirt band	Nitty Gritty Dirt Band		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
 N	nostalgia	nostalgia		Appreciation	appreciation		The Village Green Preservation Society	appreciation/the-village-green-preservation-society.html
 P	parenthood	parenthood		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
 R	ray davies	Ray Davies		Appreciation	appreciation		The Village Green Preservation Society	appreciation/the-village-green-preservation-society.html
+R	religion	religion		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
 R	religion	religion		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
+S	space travel	space travel		Appreciation	appreciation		Fruitcakes	appreciation/fruitcakes.html
 T	the country gentlemen	The Country Gentlemen		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
 T	tim o'brien	Tim O'Brien		Appreciation	appreciation		Will the Circle be Unbroken	appreciation/will-the-circle-be-unbroken.html
 T	tragedy of the commons	Tragedy of the Commons		Appreciation	appreciation		The Village Green Preservation Society	appreciation/the-village-green-preservation-society.html

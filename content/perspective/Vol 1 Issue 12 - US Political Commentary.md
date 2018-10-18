@@ -6,8 +6,6 @@ Seq:   1.12
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 12! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 This edition features some political commentary for voters and candidates as the United States heads into its tempestuous 2018 midterm season. 

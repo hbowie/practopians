@@ -6,8 +6,6 @@ Seq:   1.11
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 11! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 This edition features a couple of pieces discussing the functioning of our society. The first is a blog post containing some personal reflections on my own upbringing, while the second is an appreciation of one of my favorite songs from The Kinks. Enjoy!

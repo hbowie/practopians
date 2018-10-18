@@ -156,6 +156,21 @@ sort	set		params
 template	open	text		#PATH#../factory/devlevs_template.html
 template	generate
 
+<!-- Generate Core Clusters Page             -->
+<!-- Output ../content/core/Core Clusters.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+filter	clear
+filter	set		params
+filter	add	not equal to	Group
+filter	set		params
+sort	add	Ascending	Grp-Seq
+sort	set		params
+template	open	text		#PATH#../factory/core-clusters-template.md
+template	generate
+
 <!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
 
 <!-- Generate html content for intro section    -->
@@ -247,6 +262,14 @@ input	open	notenik+		#PATH#../content/way/
 template	open	text		#PATH#../factory/way/way_body_template.html
 template	generate
 
+<!-- Generate html content for perspectives section    -->
+<!-- Output: ../../html/perspective-web/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective/perspective_body_template.html
+template	generate
+
 <!-- Generate html content for tags pages    -->
 <!-- Output: ../../html/tags/=$tag&f$=.html  -->
 
@@ -322,6 +345,15 @@ input	open	notenik+		#PATH#../content/appreciation/
 template	open	text		#PATH#../factory/appreciation-feed_template.txt
 template	generate
 
+<!-- Generate perspective feed in a standard format  -->
+<!-- Output: ../feed/perspective-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective-feed_template.txt
+template	generate
+
 <!-- Merge and create a Consolidated Feed -->
 <!-- Output: ../feed/combined-feed.txt.   -->
 
@@ -335,6 +367,7 @@ input	open	file	merge	#PATH#../feed/news-feed.txt
 input	open	file	merge	#PATH#../feed/links-feed.txt
 input	open	file	merge	#PATH#../feed/basics-feed.txt
 input	open	file	merge	#PATH#../feed/appreciation-feed.txt
+input	open	file	merge	#PATH#../feed/perspective-feed.txt
 output	open	file		#PATH#../feed/combined-feed.txt
 
 <!-- PHASE 4: BUILD HTML INCLUDE FILES
@@ -461,7 +494,7 @@ sort	set		params
 template	open	text		#PATH#../factory/basics_index_template.html
 template	generate
 
-<!-- Generate appreciation Index              -->
+<!-- Generate Appreciations Index             -->
 <!-- Output: ../html/appreciation/index.html  -->
 
 input	set		normalization	0

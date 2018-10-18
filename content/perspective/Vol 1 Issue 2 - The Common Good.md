@@ -6,8 +6,6 @@ Seq:   1.02
 
 Body:
 
-# The Weekly Practopian
-
 Welcome to the second issue! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><img src="http://www.practopians.org/images/the-common-good.jpg" alt="The Common Good by Robert B. Reich" title="The Common Good by Robert B. Reich" width="100%" /></p>

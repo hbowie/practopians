@@ -6,8 +6,6 @@ Seq:   1.08
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 8! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html"><img src="https://www.practopians.org/images/cultural-evolution.jpg" alt="Cultural Evolution" title="Cultural Evolution" width="600" style="width: 100%; max-width: 600px;" /></a></p>

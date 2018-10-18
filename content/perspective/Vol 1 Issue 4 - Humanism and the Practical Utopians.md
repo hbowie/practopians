@@ -6,8 +6,6 @@ Seq:   1.04
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 4! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><img src="http://www.practopians.org/images/ppf-progress.jpg" alt="Progress from Past to Present to Future" title="Progress from Past to Present to Future"  /></p>

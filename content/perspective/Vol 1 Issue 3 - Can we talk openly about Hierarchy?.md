@@ -6,8 +6,6 @@ Seq:   1.03
 
 Body:
 
-# The Practopian Perspective
-
 Welcome to Issue # 3! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
 
 <p><img src="http://www.practopians.org/images/the-corp-penguins.jpg" alt="The Corporation by Stewart Moskowitz" title="The Corporation by Stewart Moskowitz"  /></p>

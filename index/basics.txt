@@ -1,4 +1,5 @@
 Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+B	brown, brené	Brown, Brené		Basics	basic info		Imperfection	basics/imperfection.html
 C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
 C	competition	competition		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 C	cooperation	cooperation		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
@@ -7,6 +8,9 @@ C	culture	culture		Basics	basic info		Cultural Evolution	basics/cultural-evoluti
 E	economics	economics		Basics	basic info		Value Creation	basics/value-creation.html
 E	evolution	evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+I	imperfection	imperfection		Basics	basic info		Imperfection	basics/imperfection.html
 L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
 N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 V	value creation	value creation		Basics	basic info		Value Creation	basics/value-creation.html
+V	voltaire	Voltaire		Basics	basic info		Imperfection	basics/imperfection.html
+W	watson-watt, robert	Watson-Watt, Robert		Basics	basic info		Imperfection	basics/imperfection.html
