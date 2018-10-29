@@ -65,6 +65,8 @@ connection
 connection
 connection
 connection
+connection
+critical thinking
 critical thinking
 critical thinking
 critical thinking
@@ -189,6 +191,9 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
+cultural evolution
+democracy
 democracy
 democracy
 democracy
@@ -387,6 +392,7 @@ integral
 integral
 integral
 integral
+integral
 liberty
 liberty
 liberty
@@ -425,6 +431,7 @@ love
 love
 love
 love
+mission
 mission
 mission
 mission
@@ -561,6 +568,8 @@ sustainability
 sustainability
 sustainability
 sustainability
+sustainability
+systemic
 systemic
 systemic
 systemic

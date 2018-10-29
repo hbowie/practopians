@@ -246,21 +246,31 @@ W	work	work		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help
 W	work	work		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 Y	yeats, william butler	Yeats, William Butler		Blog	blog post		In Defense of Balance	blog/hbowie/in-defense-of-balance.html
 Z	zuckerberg, mark	Zuckerberg, Mark		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
+A	amazon	Amazon		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+B	beck, don	Beck, Don		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+B	bezos, jeff	Bezos, Jeff		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 B	brown, brené	Brown, Brené		Basics	basic info		Imperfection	basics/imperfection.html
 C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
 C	competition	competition		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 C	cooperation	cooperation		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+C	cowan, chris	Cowan, Chris		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 C	cultural evolution	cultural evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 C	culture	culture		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
+D	developmental levels	developmental levels		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 E	economics	economics		Basics	basic info		Value Creation	basics/value-creation.html
 E	evolution	evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+G	graves, clare	Graves, Clare		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+H	harari, yuval noah	Harari, Yuval Noah		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 I	imperfection	imperfection		Basics	basic info		Imperfection	basics/imperfection.html
 L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
 N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+P	politics	politics		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+Q	quadrants	quadrants		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 V	value creation	value creation		Basics	basic info		Value Creation	basics/value-creation.html
 V	voltaire	Voltaire		Basics	basic info		Imperfection	basics/imperfection.html
 W	watson-watt, robert	Watson-Watt, Robert		Basics	basic info		Imperfection	basics/imperfection.html
+W	wilber, ken	Wilber, Ken		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 C	churchill, winston	Churchill, Winston		Issues	issue		Sustainability	issues/sustainability/sustainability.html
 E	earth	earth		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html
 E	earth	earth		Issues	issue		Sustainability	issues/sustainability/sustainability.html
