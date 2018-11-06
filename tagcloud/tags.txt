@@ -28,6 +28,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -220,6 +221,7 @@ diversity
 diversity
 diversity
 diversity
+education
 education
 education
 education
@@ -345,6 +347,7 @@ imperfection
 imperfection
 imperfection
 imperfection
+individual
 individuals
 individuals
 individuals

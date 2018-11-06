@@ -10,6 +10,7 @@ A	aqal	AQAL		Blog	blog post		Developmental Levels	blog/hbowie/developmental-leve
 A	aqal	AQAL		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 A	archaic	archaic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 A	art	art		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
+A	art	art		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 A	art	art		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 A	artificial intelligence	artificial intelligence		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 A	atheism	atheism		Blog	blog post		Why I Call Myself a Practopian	blog/hbowie/why-i-call-myself-a-practopian.html
@@ -73,6 +74,7 @@ D	dickens, charles	Dickens, Charles		Blog	blog post		Christmas for All	blog/hbow
 E	easter	Easter		Blog	blog post		Why I Call Myself a Practopian	blog/hbowie/why-i-call-myself-a-practopian.html
 E	economics	economics		Blog	blog post		Humanism	blog/hbowie/humanism.html
 E	economics	economics		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
+E	education	education		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 E	education	education		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 E	education	education		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 E	einstein, albert	Einstein, Albert		Blog	blog post		Humanism	blog/hbowie/humanism.html
@@ -87,6 +89,7 @@ F	football	football		Blog	blog post		US Political Observations for October 2018	
 F	ford	Ford		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 F	four quadrants	Four Quadrants		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 F	freedom	freedom		Blog	blog post		Religious Freedom	blog/hbowie/religious-freedom.html
+F	frost, robert	Frost, Robert		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 G	global warming	global warming		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
 G	globalism	globalism		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 G	globalization	globalization		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
@@ -102,7 +105,9 @@ H	haiti	Haiti		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.htm
 H	hammett, dashiell	Hammett, Dashiell		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
+H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+H	hiatt, john	Hiatt, John		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 H	hierarchy	hierarchy		Blog	blog post		Talking Openly about Hierarchy	blog/hbowie/talking-openly-about-hierarchy.html
 H	holistic	holistic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 H	human nature	human nature		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
@@ -144,6 +149,7 @@ L	lone wolf	lone wolf		Blog	blog post		Developmental Levels as Evolving Social S
 L	long goodbye, the	Long Goodbye, The		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 M	magical	magical		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 M	marsalis, wynton	Marsalis, Wynton		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
+M	marsalis, wynton	Marsalis, Wynton		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 M	mcelhearn, kirk	McElhearn, Kirk		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 M	mead, margaret	Mead, Margaret		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 M	meet john doe	Meet John Doe		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
@@ -180,6 +186,7 @@ P	power gods	power gods		Blog	blog post		Developmental Levels	blog/hbowie/develo
 P	power pyramid	power pyramid		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 P	psychology	psychology		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 Q	quadrants	quadrants		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+R	ramsey, dave	Ramsey, Dave		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 R	rational	rational		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 R	reich, robert	Reich, Robert		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 R	religion	religion		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html
@@ -198,6 +205,8 @@ R	russell, bertrand	Russell, Bertrand		Blog	blog post		Reasons for Belief	blog/h
 S	sanders, bernie	Sanders, Bernie		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 S	science	science		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
 S	seattle	Seattle		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
+S	self-determination	self-determination		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
+S	self-knowledge	self-knowledge		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 S	shared principles	shared principles		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 S	social media	social media		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
 S	social structures	social structures		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
@@ -235,6 +244,7 @@ V	varoufakis, yanis	Varoufakis, Yanis		Blog	blog post		A Twenty-Six Legged Stool
 V	vonnegut, kurt	Vonnegut, Kurt		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 V	vonnegut, kurt	Vonnegut, Kurt		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 W	wales, jimmy	Wales, Jimmy		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
+W	wealth	wealth		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
