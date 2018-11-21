@@ -14,10 +14,10 @@ html, body {margin: 0; padding: 0;}
 
 .quote-title {margin-left: 3.5em; font-family: Helvetica, sans-serif; color: #687C99; }
 
-blockquote, q {font-style: italic;}
+blockquote, q {font-style: italic; font-size: smaller; }
 blockquote {padding: 0 2em 0.5em; margin: 0 1.5em 0.5em; text-align: left; font-size: 0.9em;}
 blockquote {border-left: 10px #B7C6E1 solid; }
-blockquote p {margin: 0;}
+blockquote p { margin: 6pt 0 0 0; }
 blockquote i {font-style: normal;}
 blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
 blockquote b i {font-style: italic;}
@@ -87,6 +87,104 @@ html>body .external {border-bottom: none;}
 .incremental, .incremental *, .incremental *:after {color: #EBEFF4; visibility: visible;}
 img.incremental {visibility: hidden;}
 .slide .current {color: #B02;}
+
+/* Colors */
+
+.infrared
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #CFC7BC;
+}
+.magenta
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #E4B4D5;
+}
+.red
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #F4BAB7;
+}
+.amber
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FbE4BA;
+}
+.orange
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #F7CE93;
+}
+.green
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #A4E5B0;
+}
+.teal
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #98D7C7;
+}
+.turqoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #A4F2F6;
+}
+.ultraviolet {
+  color: #000;
+  font-weight: 500; 
+  background-color: #DBD7F8; 
+}
+.indigo
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #013388;
+}
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+.turquoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #40E0D0;
+}
+.coral
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FF7F50;
+}
 
 
 /* diagnostics

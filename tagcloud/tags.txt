@@ -67,6 +67,7 @@ connection
 connection
 connection
 connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -130,6 +131,10 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+critical thinking
+cultural evolution
+cultural evolution
+cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
@@ -347,7 +352,7 @@ imperfection
 imperfection
 imperfection
 imperfection
-individual
+individuals
 individuals
 individuals
 individuals
@@ -396,6 +401,9 @@ integral
 integral
 integral
 integral
+integral
+integral
+liberty
 liberty
 liberty
 liberty
@@ -434,6 +442,12 @@ love
 love
 love
 love
+love
+mission
+mission
+mission
+mission
+mission
 mission
 mission
 mission
@@ -506,6 +520,7 @@ religion
 rule of law
 rule of law
 rule of law
+rule of law
 science
 science
 science
@@ -519,6 +534,7 @@ science
 science
 science
 science
+society
 society
 society
 society
@@ -612,6 +628,7 @@ wonder
 wonder
 wonder
 wonder
+written word
 written word
 written word
 written word

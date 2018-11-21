@@ -1,4 +1,4 @@
-<?output "../web/decks/deck1.html"?>
+<?output "../web/decks/deck2.html"?>
 <?set slidetype = na ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -87,6 +87,9 @@
 <?endif?>
 <?if =$type$= eq p ?>
 =$text&o$=
+<?endif?>
+<?if =$type$= eq image ?>
+<img src="../images/=$text$=" alt="Practopians image" />
 <?endif?>
 <?endif?>
 <?loop?>

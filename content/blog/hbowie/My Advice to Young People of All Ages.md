@@ -6,7 +6,7 @@ Date: 2018-10-31
 
 Status: 6 - Published
 
-Tags:   art, education, individual
+Tags:   art, education, individuals
 
 Index: education
 Index: self-knowledge

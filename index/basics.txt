@@ -2,6 +2,7 @@ Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	
 A	amazon	Amazon		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 B	beck, don	Beck, Don		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 B	bezos, jeff	Bezos, Jeff		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+B	books	books		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 B	brown, brené	Brown, Brené		Basics	basic info		Imperfection	basics/imperfection.html
 C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
 C	competition	competition		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
@@ -11,6 +12,7 @@ C	cultural evolution	cultural evolution		Basics	basic info		Cultural Evolution	b
 C	culture	culture		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 D	developmental levels	developmental levels		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 E	economics	economics		Basics	basic info		Value Creation	basics/value-creation.html
+E	erasmus, desiderius	Erasmus, Desiderius		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 E	evolution	evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 G	graves, clare	Graves, Clare		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
@@ -19,8 +21,11 @@ I	imperfection	imperfection		Basics	basic info		Imperfection	basics/imperfection
 L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
 N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 P	politics	politics		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+P	publishing	publishing		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 Q	quadrants	quadrants		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+S	sagan, carl	Sagan, Carl		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 V	value creation	value creation		Basics	basic info		Value Creation	basics/value-creation.html
 V	voltaire	Voltaire		Basics	basic info		Imperfection	basics/imperfection.html
 W	watson-watt, robert	Watson-Watt, Robert		Basics	basic info		Imperfection	basics/imperfection.html
 W	wilber, ken	Wilber, Ken		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+W	written word	written word		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
