@@ -1,4 +1,4 @@
-<?output "../web/js/where_to_reverse_chron.js"?>
+<?output "../../../../../../Sites/practopians/js/where_to_reverse_chron.js"?>
 
 ix = 0;
 <?nextrec?>

@@ -10,6 +10,6 @@ sort	clear
 sort	set		params	
 sort	add	Descending	Date	
 sort	set		params	
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/explore/latest_original_template.html
 template	generate			

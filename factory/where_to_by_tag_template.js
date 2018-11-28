@@ -1,4 +1,4 @@
-<?output "../web/js/where_to_by_tag.js"?>
+<?output "../../../../../../Sites/practopians/js/where_to_by_tag.js"?>
 
 ix = 0;
 <?nextrec?>

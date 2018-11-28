@@ -1,4 +1,4 @@
-<?output "../web/js/quotes.js"?>
+<?output "../../../../../../Sites/practopians/js/quotes.js"?>
 var qfilename = new Array();
 var ix = 0;
 <?nextrec?>

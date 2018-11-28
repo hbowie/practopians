@@ -1,5 +1,5 @@
 <?nextrec?>
-<?output "../../web/way/practopian-way.md"?>
+<?output "../../../../../../../Sites/practopians/way/practopian-way.md"?>
 =$title$=
 ====================
 

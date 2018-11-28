@@ -1,4 +1,4 @@
-<?output "../web/js/where_to_content_logical.js" ?>
+<?output "../../../../../../Sites/practopians/js/where_to_content_logical.js" ?>
 
 ix = 0;
 <?nextrec?>

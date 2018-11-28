@@ -33,11 +33,11 @@ template	generate
 <!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
 
 <!-- Generate Web pages for content                     -->
-<!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/=$path&l$==$content-title&f$=.html  -->
 
 
 <!-- Generate web pages for appreciation           -->
-<!-- Output: ../web/appreciation/=$title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/appreciation/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false

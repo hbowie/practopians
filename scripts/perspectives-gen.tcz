@@ -39,11 +39,11 @@ template	generate
 <!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
 
 <!-- Generate web pages for Practopian Perspective Issues  -->
-<!-- Output: ../web/perspective/=$title&f$=.html           -->
+<!-- Output: ../../../../../../Sites/practopians/perspective/=$title&f$=.html           -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik+		#PATH#../content/perspective/
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/perspective_template.html
 template	generate

@@ -88,7 +88,7 @@ template	open	text		#PATH#../factory/creed/creed_template.md
 template	generate
 template	open	text		#PATH#../factory/creed/creed_template.html
 template	generate
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/creed/creed_index_template.html
 template	generate
 filter	add	contains	Status	Current
@@ -109,7 +109,7 @@ template	open	text		#PATH#../factory/way/way_template.md
 template	generate
 template	open	text		#PATH#../factory/way/way_template.html
 template	generate
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/way/way_index_template.html
 template	generate
 filter	add	contains	Status	Current
@@ -122,14 +122,14 @@ template	open	text		#PATH#../factory/way/way_core_template.html
 template	generate
 
 <!-- Generate Abridged Creed                      -->
-<!-- Output "../../web/creed/abridged-creed.html  -->
+<!-- Output "../../../../../../../Sites/practopians/creed/abridged-creed.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	notenik-general		#PATH#../content/beliefs/
 sort	add	Ascending	Seq
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/creed/abridged_template.html
 template	generate
 
@@ -141,7 +141,7 @@ input	set		xpltags	false
 input	open	notenik-general		#PATH#../content/beliefs/
 sort	add	Ascending	Seq
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/way/abridged_way_template.html
 template	generate
 
@@ -285,7 +285,7 @@ sort	set		params
 sort	add	Ascending	Tag
 sort	add	Ascending	Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
 template	generate
 
@@ -389,7 +389,7 @@ filter	clear
 filter	set		params
 filter	add	not equal to	Tag
 filter	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/tags_list_template.html
 template	generate
 template	open	text		#PATH#../factory/tag_cloud_template.txt
@@ -413,12 +413,12 @@ sort	add	Descending	Post Date
 sort	add	Ascending	Author
 sort	add	Ascending	Content Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/navbar_template.html
 template	generate
 
 <!-- Generate Javascript Table of all Content in its logical sequence -->
-<!-- Output: ../web/js/where_to_content_logical.js                    -->
+<!-- Output: ../../../../../../Sites/practopians/js/where_to_content_logical.js                    -->
 
 template	open	text		#PATH#../factory/where_to_content_logical_template.js
 template	generate
@@ -445,7 +445,7 @@ filter	set		params
 sort	clear
 sort	add	Ascending	Content Seq
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/issues_index_template.html
 template	generate
 filter	clear
@@ -462,7 +462,7 @@ sort	add	Descending	Post Date
 sort	add	Ascending	Section Title
 sort	add	Ascending	Content Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/blog_index_template.html
 template	generate
 
@@ -519,7 +519,7 @@ template	open	text		#PATH#../factory/quotes_index_template.html
 template	generate
 
 <!-- Generate Quotes by Author Pages                          -->
-<!-- Output: ../web/quotes-by-author/=$authorfilename$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/quotes-by-author/=$authorfilename$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -528,12 +528,12 @@ sort	add	Ascending	authorfilename
 sort	add	Ascending	date
 sort	add	Ascending	dateadded
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/quotes_by_author_template.html
 template	generate
 
 <!-- Generate Javascript Navigation for Quotes -->
-<!-- Output: ../web/js/quotes.js               -->
+<!-- Output: ../../../../../../Sites/practopians/js/quotes.js               -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -595,7 +595,7 @@ sort	add	Descending	Date
 sort	add	Ascending	Section
 sort	add	Ascending	Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/explore/latest_all_template.html
 template	generate
 
@@ -613,7 +613,7 @@ sort	clear
 sort	set		params
 sort	add	Descending	Date
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/explore/latest_original_template.html
 template	generate
 
@@ -667,7 +667,7 @@ input	open	file	merge	#PATH#../index/appreciation.txt
 output	open	file		#PATH#../index/combined.txt
 
 <!-- Generate the Index Page             -->
-<!-- Output: ../web/explore/site-index.html   -->
+<!-- Output: ../../../../../../Sites/practopians/explore/site-index.html   -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -679,14 +679,14 @@ sort	add	Ascending	Page Title
 sort	set		params
 template	open	text		#PATH#../factory/explore/site_index_letters_template.html
 template	generate
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/explore/site_index_template.html
 template	generate
 
 <!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
 
 <!-- Generate Web pages for content                     -->
-<!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/=$path&l$==$content-title&f$=.html  -->
 
 input	set		normalization	0
 input	open	xls		#PATH#../lists/content.xls
@@ -699,12 +699,12 @@ sort	add	Ascending	Content Seq
 sort	add	Ascending	Author
 sort	add	Ascending	Content Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/content_template.html
 template	generate
 
 <!-- Generate web pages for Quotes           -->
-<!-- Output: ../web/quotes/=$title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/quotes/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -713,7 +713,7 @@ template	open	text		#PATH#../factory/quote_template.html
 template	generate
 
 <!-- Generate web pages for News           -->
-<!-- Output: ../web/news/=$title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/news/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -722,7 +722,7 @@ template	open	text		#PATH#../factory/news_template.html
 template	generate
 
 <!-- Generate web pages for Links           -->
-<!-- Output "../web/links/=$title&f$=.html  -->
+<!-- Output "../../../../../../Sites/practopians/links/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -731,7 +731,7 @@ template	open	text		#PATH#../factory/link_template.html
 template	generate
 
 <!-- Generate web pages for Basic Info       -->
-<!-- Output: ../web/basics/=$title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/basics/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -740,7 +740,7 @@ template	open	text		#PATH#../factory/basics_template.html
 template	generate
 
 <!-- Generate web pages for appreciation           -->
-<!-- Output: ../web/appreciation/=$title&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/appreciation/=$title&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -749,7 +749,7 @@ template	open	text		#PATH#../factory/appreciation_template.html
 template	generate
 
 <!-- Generate Tags Pages                 -->
-<!-- Output: ../web/tags/=$tag&f$=.html  -->
+<!-- Output: ../../../../../../Sites/practopians/tags/=$tag&f$=.html  -->
 
 input	set		normalization	0
 input	set		xpltags	true
@@ -769,7 +769,7 @@ template	open	text		#PATH#../factory/tag_template.html
 template	generate
 
 <!-- Generate Home Page featuring most recent content additions -->
-<!-- Output: ../web/index.html                                  -->
+<!-- Output: ../../../../../../Sites/practopians/index.html                                  -->
 
 input	set		normalization	0
 input	set		xpltags	false
@@ -779,30 +779,30 @@ sort	add	Descending	Date
 sort	add	Ascending	Section
 sort	add	Ascending	Title
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/home_template.html
 template	generate
 
 <!-- Generate Javascript Array to hold all items in descending seq by date -->
-<!-- Output: ../web/js/where_to_reverse_chron.js                           -->
+<!-- Output: ../../../../../../Sites/practopians/js/where_to_reverse_chron.js                           -->
 
 template	open	text		#PATH#../factory/where_to_reverse_chron_template.js
 template	generate
 
 <!-- Generate RSS Feed       -->
-<!-- Output: ../web/rss.xml  -->
+<!-- Output: ../../../../../../Sites/practopians/rss.xml  -->
 
 template	open	text		#PATH#../factory/rss_template.xml
 template	generate
 
 <!-- Generate Search Page               -->
-<!-- Output: ../web/search/search.html  -->
+<!-- Output: ../../../../../../Sites/practopians/search/search.html  -->
 
 input	set		normalization	0
 input	set		xpltags	false
 input	open	file		#PATH#../feed/combined-feed.txt
 sort	clear
 sort	set		params
-template	webroot	text		#PATH#../web/
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/search_template.html
 template	generate

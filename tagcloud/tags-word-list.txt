@@ -15,7 +15,7 @@
 17	integral	https://www.practopians.org/tags/integral.html
 21	liberty	https://www.practopians.org/tags/liberty.html
 19	love	https://www.practopians.org/tags/love.html
-13	mission	https://www.practopians.org/tags/mission.html
+14	mission	https://www.practopians.org/tags/mission.html
 07	parenthood	https://www.practopians.org/tags/parenthood.html
 03	population	https://www.practopians.org/tags/population.html
 04	practical	https://www.practopians.org/tags/practical.html
@@ -30,5 +30,5 @@
 10	systemic	https://www.practopians.org/tags/systemic.html
 01	tools	https://www.practopians.org/tags/tools.html
 14	value creation	https://www.practopians.org/tags/value-creation.html
-15	wonder	https://www.practopians.org/tags/wonder.html
+16	wonder	https://www.practopians.org/tags/wonder.html
 15	written word	https://www.practopians.org/tags/written-word.html

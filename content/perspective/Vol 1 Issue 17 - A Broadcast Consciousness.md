@@ -1,45 +1,43 @@
-Title: A Broadcast Consciousness
+Title: Vol 1 Issue 17 - A Broadcast Consciousness
 
-By:    Herb Bowie
+Date:  2018-11-27
 
-Date:  19 Nov 2018
-
-Status: 9 - Published
-
-Tags: integral, cultural evolution
-
-Index: integral
-Index: Wilber, Ken
-Index: broadcasting
-Index: developmental levels
-Index: consciousness
-Index: cultural evolution
-Index: King Jr., Martin Luther
-Index: communications strategies
-Index: social structures
-Index: quadrants
-Index: Harari, Yuval Noah
-Index: cooperation
-Index: Graves, Clare W. 
-Index: Capra, Frank
-Index: Meet John Doe
-Index: Hitler, Adolf
-Index: Welles, Orson
-Index: Sullivan, Ed
-Index: Beatles, The
-Index: advertising
-Index: Pinker, Steven
-Index: Better Angels of our Nature, The
-Index: social media
-Index: news media
-
-Teaser:
-
-Let me take you on a little journey of thought exploring some hitherto unconsidered aspects of our common cultural evolution. 
+Seq:   1.17
 
 Body:
 
-<p><img src="../../images/please-stand-by.jpg" alt="Please Stand By" title="Please Stand By" /></p>
+<p><img src="https://www.practopians.org/images/please-stand-by.jpg" alt="Please Stand By" title="Please Stand By" width="600" style="width: 100%; max-width: 600px;" /></p>
+
+Welcome to Issue # 17! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
+
+This edition features the recent blog post discussing "A Broadcast Consciousness".  This is a slightly longer read than usual, so you may want to set aside a little time so you can get through the whole thing in one sitting.
+
+
+## Meetups in Seattle!
+
+Our next Seattle meetup will be Wednesday, December 12th, at 6:30 PM, at the Phinney Neighborhood Association. We were very pleased with the response to our first two, and are looking forward to another great one in December!	
+
+Due to some regrettable conflicts, we've canceled our Harari book discussion group previously scheduled for  Monday, Nov. 28. 
+
+More info available on our meetups at [Meetup.com](https://www.meetup.com/The-Society-for-Practical-Utopians-Seattle-Chapter/). 
+
+Hope to see you soon!
+
+
+## News and Analysis   
+ 
+"On both sides of the political spectrum, manipulative clickbait sites lure people to read stories that feed their outrage. Russian propaganda is aimed at both sides on Facebook and Twitter. We all suffer confirmation bias. We all occasionally fall prey to this desire. 
+
+"But 'post-truth' or epistemic crisis are population-level effects -- where an entire chunk of the population loses the ability to tell truth from identity-confirming fiction -- not individual or small group effects. Because people on the left use a broad range of media mostly subject to mutual policing for facts and misinformation, they regularly encounter stories that give them a reality check. This limits the spread of disinformation in the population as a whole, although it cannot prevent discrete instances of false belief.
+
+"On the right, millions of people wake up with 'Fox & Friends,' commute with talk radio, have lunch with Limbaugh, or settle in for an evening of Carlson, Hannity and Ingraham, as their president tweets against the fake news media. These are their most trusted news sources, and they have been telling their audiences for over 20 years that they can't trust anything they hear outside their own propaganda bubble. The outrage industry amplifies, reinforces and monetizes the desire to satisfy confirmation bias, while insulating its audiences from sources that could give them a reality check (and reduce profits).""
+
+-- Yochai Benkler, the Berkman professor of Entrepreneurial Legal Studies at Harvard Law School, and faculty co-director of the Berkman Klein Center, as interviewed by Henry Farrell for The Washington Post, "[Blame Fox, not Facebook, for fake news][foxnews]" 
+
+[foxnews]: https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/06/blame-fox-not-facebook-for-fake-news/?utm_term=.255e393500bb]
+
+
+## Blog Post: A Broadcast Consciousness
 
 Let me take you on a little journey of thought exploring some hitherto unconsidered aspects of our common cultural evolution. 
 
@@ -125,7 +123,7 @@ So what can we say about this communications strategy of broadcasting, including
 
 5. The ability to unify people seems to work equally well whether they are being unified around an inspiring truth, or a destructive falsehood. As with the Orson Welles broadcast -- as well as with the rise of Hitler -- when everyone around you is hearing the same message at the same time from an authority in power, then you've created a powerful echo chamber that amplifies the message being transmitted. 
 
-6. Since broadcasting requires lots of carefully coordinated expensive technological infrastructure, it is inevitably a tool for those with money and power. And so the [mission](../../basics/the-importance-of-mission.html) of those wielding this power becomes vitally important. As one example, the Public Broadcasting Service (PBS) in the US is a  nonprofit with the mission to "serve the American public with programming and services of the highest quality, using media to educate, inspire, entertain and express a diversity of perspectives." On the other hand, a Google search for the mission of Fox News did not turn up any results. 
+6. Since broadcasting requires lots of carefully coordinated expensive technological infrastructure, it is inevitably a tool for those with money and power. And so the [mission](https://www.practopians.org/basics/the-importance-of-mission.html) of those wielding this power becomes vitally important. As one example, the Public Broadcasting Service (PBS) in the US is a  nonprofit with the mission to "serve the American public with programming and services of the highest quality, using media to educate, inspire, entertain and express a diversity of perspectives." On the other hand, a Google search for the mission of Fox News did not turn up any results. 
 
 7. When broadcasting is employed by those with money and power, and is used by a for-profit enterprise, and the only goal is to make more money and acquire more power -- well, then, we might occasionally be skeptical about the veracity and motivation of their transmissions. (And, of course, this isn't limited to Fox News, and it's not meant to give PBS or other nonprofits a free pass.)  
 
@@ -168,33 +166,33 @@ Share this awareness with others.
 
 If you currently find yourself spending too much time tuning in to various broadcasts -- whether from your favorite television news channel, or from non-social alerts and notifications on your personal device(s) -- turn them off, and look for other more effective communications strategies that you can enable in your life.
 
-Regularly consider news sources that do original reporting, and that offer differing perspectives. Avoid news sources that simply parrot items of dubious parentage, and collections of news sources that all seem to simply repeat a common message without any new analysis or investigation. In this regard, you might want to be aware of research [reported here][kleinc]. 
+Regularly consider news sources that do original reporting, and that offer differing perspectives. Avoid news sources that simply parrot items of dubious parentage, and collections of news sources that all seem to simply repeat a common message without any new analysis or investigation.   
 
 In particular, look for ways to become more reflective and less reactive. You might start by selecting and then reading a new book on some topic of interest, being careful to pick something that won't simply tell you things you already think you know. In management circles, this is often described as paying more attention to what's important, and less attention to what's ostensibly urgent.
 
 
 
-[art]: ../../blog/hbowie/art-and-the-eye-of-the-beholder.html
+[art]: https://www.practopians.org/blog/hbowie/art-and-the-eye-of-the-beholder.html
   
 [broad]: https://en.wikipedia.org/wiki/Broadcasting
 
-[cul]: ../../tags/cultural-evolution.html
+[cul]: https://www.practopians.org/tags/cultural-evolution.html
 
-[devlev]: ../../blog/hbowie/developmental-levels.html
+[devlev]: https://www.practopians.org/blog/hbowie/developmental-levels.html
 
 [ebs]: https://en.wikipedia.org/wiki/Emergency_Broadcast_System
 
 [graves]: https://en.wikipedia.org/wiki/Clare_W._Graves
 
-[harari]: ../../quotes/flexible-cooperation-with-strangers.html
+[harari]: https://www.practopians.org/quotes/flexible-cooperation-with-strangers.html
 
-[hier]: ../../blog/hbowie/talking-openly-about-hierarchy.html
+[hier]: https://www.practopians.org/blog/hbowie/talking-openly-about-hierarchy.html
 
 [hitler]: https://www.theguardian.com/culture/2008/oct/09/radio.hitler.bbc.czechoslovakia
 
 [jobswwdc]: https://youtu.be/6iACK-LNnzM
 
-[king]: ../../quotes/the-arc-of-history.html
+[king]: https://www.practopians.org/quotes/the-arc-of-history.html
 
 [kleinc]: https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/06/blame-fox-not-facebook-for-fake-news/
 
@@ -202,14 +200,78 @@ In particular, look for ways to become more reflective and less reactive. You mi
 
 [nra]: https://www.nytimes.com/interactive/2018/11/08/opinion/nra-mass-shootings-thousand-oaks.html
 
-[quads]: ../../blog/hbowie/the-four-quadrants-of-human-knowledge.html
+[quads]: https://www.practopians.org/blog/hbowie/the-four-quadrants-of-human-knowledge.html
 
 [shooters]: https://www.apa.org/news/press/releases/2016/08/media-contagion-effect.pdf
 
-[socstr]: ../../blog/hbowie/developmental-levels-as-evolving-social-structures.html
+[socstr]: https://www.practopians.org/blog/hbowie/developmental-levels-as-evolving-social-structures.html
 
 [spiral]: https://amzn.to/2qSn4Vl
 
-[wilber]: ../../quotes/levels-of-development.html
+[wilber]: https://www.practopians.org/quotes/levels-of-development.html
 
 [written]: http://www.practopians.org/basics/the-written-word-in-the-21st-century.html
+
+
+-- Herb Bowie, first published at [Practopians.org](https://www.practopians.org/blog/hbowie/a-broadcast-consciousness.html) on Nov 19, 2018
+ 
+ 
+## Next Steps...
+
+Thanks for reading!
+
+If you liked this issue's blog post, feel free to give it a few claps on [Medium.com](https://medium.com/@hbowie/a-broadcast-consciousness-1ccec2cf7256).
+
+Feedback is always welcome at [feedback@practopians.org](mailto:feedback@practopians.org).
+
+This post, and so much more, can always be found at [Practopians.org](https://www.practopians.org).
+
+[web]:        https://www.practopians.org/index.html
+[core]:       https://www.practopians.org/core/index.html
+[mission]:    https://www.practopians.org/core/mission.html
+[principles]: https://www.practopians.org/core/principles.html
+[values]:     https://www.practopians.org/core/values.html
+
+[ww]:         https://www.practopians.org/tags/written-word.html
+
+[love]:       https://www.practopians.org/tags/love.html
+[connection]: https://www.practopians.org/tags/connection.html
+[wonder]:     https://www.practopians.org/tags/wonder.html
+
+[humanist]:   https://www.practopians.org/tags/humanism.html
+[science]:    https://www.practopians.org/tags/science.html
+[evolution]:  https://www.practopians.org/tags/evolution.html
+[education]:  https://www.practopians.org/tags/education.html
+[ct]:    https://www.practopians.org/tags/critical-thinking.html
+[st]:         https://www.practopians.org/tags/systemic.html
+ 
+[individuals]: https://www.practopians.org/tags/individuals.html
+[liberty]:    https://www.practopians.org/tags/liberty.html
+[equality]:   https://www.practopians.org/tags/equality.html
+[diversity]:  https://www.practopians.org/tags/diversity.html
+
+[society]:    https://www.practopians.org/tags/society.html
+[governance]: https://www.practopians.org/tags/governance.html
+[democracy]:  https://www.practopians.org/tags/democracy.html
+[law]:        https://www.practopians.org/tags/rule-of-law.html
+[property]:   https://www.practopians.org/tags/property.html
+[parenthood]: https://www.practopians.org/tags/parenthood.html
+[value]:    https://www.practopians.org/tags/value-creation.html
+
+[storytelling]: https://www.practopians.org/tags/stories.html
+
+[culture]:    https://www.practopians.org/tags/cultural-evolution.html
+
+[balance]:    https://www.practopians.org/tags/balance.html
+[imperfections]: https://www.practopians.org/tags/imperfection.html
+[integral]:   https://www.practopians.org/tags/integral.html
+
+[prorg]:      https://www.practopians.org/index.html
+
+[quotations]: https://www.practopians.org/quotes/index.html
+[aw]: https://www.practopians.org/explore/latest-original-content.html
+
+[contact]: https://www.practopians.org/intro/contact.html
+
+
+
