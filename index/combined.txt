@@ -35,6 +35,7 @@ B	business	business		Blog	blog post		A Traditional Remedy for the Facebook Probl
 B	business	business		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 B	business	business		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 C	capra, frank	Capra, Frank		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
+C	capra, frank	Capra, Frank		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 C	capra, frank	Capra, Frank		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html
 C	capra, frank	Capra, Frank		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 C	capra, frank	Capra, Frank		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
@@ -75,6 +76,7 @@ D	democracy	democracy		Blog	blog post		What To Do About Big Business?	blog/hbowi
 D	democracy	democracy		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 D	developmental levels	developmental levels		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 D	developmental levels	developmental levels		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
+D	developmental levels	developmental levels		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 D	developmental levels	developmental levels		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 D	developmental levels	developmental levels		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 D	developmental levels	developmental levels		Blog	blog post		Talking Openly about Hierarchy	blog/hbowie/talking-openly-about-hierarchy.html
@@ -110,6 +112,7 @@ G	governance	governance		Blog	blog post		What To Do About Big Business?	blog/hbo
 G	governance	governance		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 G	government	government		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 G	graves, clare w.	Graves, Clare W.		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
+G	green new deal	Green New Deal		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 G	gretzky, wayne	Gretzky, Wayne		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 G	guns	guns		Blog	blog post		A Practopian Approach to Gun Issues in the US	blog/hbowie/a-practopian-approach-to-gun-issues-in-the-us.html
 H	haiti	Haiti		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
@@ -188,6 +191,7 @@ N	news	news		Blog	blog post		Making Sense of What Happened on Nov 8	blog/hbowie/
 N	niemöller, martin	Niemöller, Martin		Blog	blog post		Religious Freedom	blog/hbowie/religious-freedom.html
 O	obama, barack	Obama, Barack		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 O	objective	objective		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+O	ocasio-cortez, alexandria	Ocasio-Cortez, Alexandria		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 O	open-source	open-source		Blog	blog post		A Compact, Extensible, Open-Source Belief System for the 21st Century	blog/hbowie/a-compact-extensible-open-source-belief-system-for-the-21st-century.html
 P	peer network	peer network		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 P	penguins	penguins		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
@@ -234,6 +238,7 @@ S	social structures	social structures		Blog	blog post		Developmental Levels as E
 S	society	society		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 S	society	society		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 S	society	society		Blog	blog post		Our Societal Disconnect	blog/hbowie/our-societal-disconnect.html
+S	space race	space race		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 S	spiral dynamics	Spiral Dynamics		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 S	springsteen, bruce	Springsteen, Bruce		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html
 S	stoneman douglas high school	Stoneman Douglas High School		Blog	blog post		A Practopian Approach to Gun Issues in the US	blog/hbowie/a-practopian-approach-to-gun-issues-in-the-us.html
@@ -242,6 +247,7 @@ S	stories	stories		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 S	stories	stories		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 S	subjective	subjective		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 S	sullivan, ed	Sullivan, Ed		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
+S	sustainability	sustainability		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 S	symbols	symbols		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 S	systemic	systemic		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 S	systemic	systemic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
@@ -257,6 +263,7 @@ T	tribal	tribal		Blog	blog post		Developmental Levels	blog/hbowie/developmental-
 T	trump, donald	Trump, Donald		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 T	trump, donald	Trump, Donald		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 T	truth	truth		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
+U	us politics	US Politics		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 U	us politics	US politics		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
 U	us politics	US politics		Blog	blog post		Making Sense of What Happened on Nov 8	blog/hbowie/making-sense-of-what-happened-on-nov-8.html
 U	us politics	US politics		Blog	blog post		Our American Identity: Where To Next?	blog/hbowie/our-american-identity-where-to-next.html
@@ -268,6 +275,7 @@ V	vonnegut, kurt	Vonnegut, Kurt		Blog	blog post		Religion, Storytelling and Art	
 W	wales, jimmy	Wales, Jimmy		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 W	wealth	wealth		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 W	welles, orson	Welles, Orson		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
+W	why we fight	Why We Fight		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
@@ -278,6 +286,7 @@ W	wilber, ken	Wilber, Ken		Blog	blog post		The Four Quadrants of Human Knowledge
 W	wilber, ken	Wilber, Ken		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
 W	work	work		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 W	work	work		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
+W	world war ii	World War II		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 Y	yeats, william butler	Yeats, William Butler		Blog	blog post		In Defense of Balance	blog/hbowie/in-defense-of-balance.html
 Z	zuckerberg, mark	Zuckerberg, Mark		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
 A	amazon	Amazon		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
