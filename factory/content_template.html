@@ -55,15 +55,16 @@
 
 					<p>By =$author-name$=</p>
 <?endif?>
-<?if "=$post-date$=" ?>
-					<p>=$post-date&yyyy MMM dd$=</p>
-<?endif?>
 <?if "=$tags$=" ?>
 					<p>tags: =$tags&gtags$=</p>
 <?endif?>
 
 
 <?include "../html/=$path&l$==$content-title&f$=.html" ?>
+
+<?if "=$post-date$=" ?>
+					<p class="pub-date">Published =$post-date&yyyy MMM dd$=</p>
+<?endif?>
 
 					<div style="clear: both;"></div>
 

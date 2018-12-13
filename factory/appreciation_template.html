@@ -53,13 +53,14 @@
 
 					<p>By =$author$=</p>
 <?endif?>
-<?if "=$date$=" ?>
-					<p>=$date&yyyy MMM dd$=</p>
-<?endif?>
 
 					<p>tags: =$tags&gtags$=</p>
 
 					=$body&o$=
+
+<?if "=$date$=" ?>
+					<p class="pub-date">Published =$date&yyyy MMM dd$=</p>
+<?endif?>
 
         </div>
 
