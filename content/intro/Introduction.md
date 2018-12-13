@@ -6,13 +6,13 @@ We invite you to explore our site. You'll note that it contains several differen
 
 * Our [Core Writings](../core/index.html) spell out who we are and what we're about, laying out our Background, Mission, Principles and Values.
 
-* Our [Issues](../issues/index.html) section identifies the issues we feel are most important.
-
 * Our [Basics](../basics/index.html) offer extended, but still foundational, information about our core beliefs. 
 
 * Our [Blog Posts](../blog/index.html) offer commentary on a variety of topics from a Practopian perspective.
 
 * Our [Appreciations](../appreciations/index.html) offer original appreciations of works by others. 
+
+* Our [Issues](../issues/index.html) section identifies the issues we feel are most important.
 
 * We've collected a number of [Quotations](../quotes/index.html) that reflect and illustrate our core beliefs.
 
@@ -20,9 +20,9 @@ We invite you to explore our site. You'll note that it contains several differen
 
 * Our [Links](../links/index.html) section contains a collection of helpful hyperlinks to other resources -- works of art, websites -- that we recommend.
 
-When you visit our home page, you'll find yourself viewing all the [Latest Additions](../index.html) to our site, including all of the various content types listed above.
+If you'd like to see what's new, you can review a list of the [latest *original* content](../explore/latest-original-content.html) added to the site, or a list of [*all* the latest content](../explore/latest-content.html), including references to content originating at other sites.
 
-You'll see a list of Tags on every page. Each piece of content on the site is tagged with one or more of these words or phrases. Most of these Tags tie back to one of our Core Principles or Values; feel free to click on any of these to delve into additional content on a particular topic.
+You'll see a list of Tags on every page other than the home page. Each piece of content on the site is tagged with one or more of these words or phrases. Most of these Tags tie back to one of our Core Principles or Values or Issues; feel free to click on any of these to delve into additional content on a particular topic.
 
 Navigation links at the bottom of most pages can be used to proceed directly from one page to another, using any of several possible paths through the site. 
 

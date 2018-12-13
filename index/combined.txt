@@ -295,6 +295,7 @@ B	beck, don	Beck, Don		Basics	basic info		An Integral Approach	basics/an-integra
 B	benefit corporation	Benefit Corporation		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
 B	bezos, jeff	Bezos, Jeff		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 B	books	books		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
+B	bradbury, ray	Bradbury, Ray		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 B	brown, brené	Brown, Brené		Basics	basic info		Imperfection	basics/imperfection.html
 C	c corporation	C Corporation		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
 C	capitalism	capitalism		Basics	basic info		Value Creation	basics/value-creation.html
@@ -310,11 +311,17 @@ E	einstein, albert	Einstein, Albert		Basics	basic info		The Importance of Missio
 E	erasmus, desiderius	Erasmus, Desiderius		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 E	evolution	evolution		Basics	basic info		Cultural Evolution	basics/cultural-evolution.html
 E	evolution	evolution		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
+F	forster, e.m.	Forster, E.M.		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
+F	free will	free will		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 G	graves, clare	Graves, Clare		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 H	harari, yuval noah	Harari, Yuval Noah		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 I	imperfection	imperfection		Basics	basic info		Imperfection	basics/imperfection.html
+I	individuals	individuals		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 J	jobs, steve	Jobs, Steve		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
+J	jobs, steve	Jobs, Steve		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
+K	kay, alan	Kay, Alan		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 L	liberalism	liberalism		Basics	basic info		Value Creation	basics/value-creation.html
+M	mead, margaret	Mead, Margaret		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 M	mission	mission		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
 N	natural selection	natural selection		Basics	basic info		Evolution and Its Implications	basics/evolution-and-its-implications.html
 N	npo	NPO		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
@@ -322,12 +329,14 @@ P	politics	politics		Basics	basic info		An Integral Approach	basics/an-integral-
 P	publishing	publishing		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 Q	quadrants	quadrants		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
 S	sagan, carl	Sagan, Carl		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
+S	schweitzer, albert	Schweitzer, Albert		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 V	value creation	value creation		Basics	basic info		Value Creation	basics/value-creation.html
 V	voltaire	Voltaire		Basics	basic info		Imperfection	basics/imperfection.html
 W	wales, jimmy	Wales, Jimmy		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
 W	watson-watt, robert	Watson-Watt, Robert		Basics	basic info		Imperfection	basics/imperfection.html
 W	wikipedia	Wikipedia		Basics	basic info		The Importance of Mission	basics/the-importance-of-mission.html
 W	wilber, ken	Wilber, Ken		Basics	basic info		An Integral Approach	basics/an-integral-approach.html
+W	wright, frank lloyd	Wright, Frank Lloyd		Basics	basic info		The Value of Individuals	basics/the-value-of-individuals.html
 W	written word	written word		Basics	basic info		The Written Word in the 21st Century	basics/the-written-word-in-the-21st-century.html
 C	churchill, winston	Churchill, Winston		Issues	issue		Sustainability	issues/sustainability/sustainability.html
 E	earth	earth		Issues	issue		Human Population Growth	issues/sustainability/human-population-growth.html

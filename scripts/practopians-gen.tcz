@@ -595,6 +595,10 @@ sort	add	Descending	Date
 sort	add	Ascending	Section
 sort	add	Ascending	Title
 sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Section	Perspective
+filter	set		params
 template	webroot	text		#PATH#../../../../../../Sites/practopians/
 template	open	text		#PATH#../factory/explore/latest_all_template.html
 template	generate
