@@ -6,6 +6,7 @@ A	american	American		Blog	blog post		Our American Identity: Where To Next?	blog/
 A	amsterdam declaration	Amsterdam Declaration		Blog	blog post		Humanism	blog/hbowie/humanism.html
 A	animistic	animistic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 A	annapolis	Annapolis		Blog	blog post		Our Societal Disconnect	blog/hbowie/our-societal-disconnect.html
+A	apple, inc.	Apple, Inc.		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 A	apple, inc.	Apple, Inc.		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
 A	aqal	AQAL		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 A	aqal	AQAL		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
@@ -29,6 +30,7 @@ B	better angels of our nature, the	Better Angels of our Nature, The		Blog	blog p
 B	blake, william	Blake, William		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 B	broadcasting	broadcasting		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 B	brooks, david	Brooks, David		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
+B	buffett, jimmy	Buffett, Jimmy		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 B	bureaucracy	bureaucracy		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 B	burgess, anthony	Burgess, Anthony		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 B	business	business		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
@@ -129,6 +131,7 @@ H	holistic	holistic		Blog	blog post		Developmental Levels	blog/hbowie/developmen
 H	human nature	human nature		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 H	human nature	human nature		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
 H	humanism	humanism		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html
+H	humanism	humanism		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 H	humanism	humanism		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 H	humanism	humanism		Blog	blog post		Humanism	blog/hbowie/humanism.html
 H	humanism	humanism		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
@@ -143,10 +146,13 @@ I	integral	integral		Blog	blog post		A Practopian Approach to Gun Issues in the 
 I	integral	integral		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 I	inter-subjective	inter-subjective		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 I	interior	interior		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+I	iphone	iPhone		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 J	jobs, steve	Jobs, Steve		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
+J	jobs, steve	Jobs, Steve		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 J	jobs, steve	Jobs, Steve		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 J	jobs, steve	Jobs, Steve		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 J	jobs, steve	Jobs, Steve		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
+J	johnson, ron	Johnson, Ron		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 K	king jr., martin luther	King Jr., Martin Luther		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 K	king jr., martin luther	King Jr., Martin Luther		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 L	labor	labor		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
@@ -165,6 +171,12 @@ L	liker, jeffrey	Liker, Jeffrey		Blog	blog post		The Four Quadrants of Human Kno
 L	lincoln, abraham	Lincoln, Abraham		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 L	lone wolf	lone wolf		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 L	long goodbye, the	Long Goodbye, The		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
+M	mac os x	Mac OS X		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
+M	macaddict	MacAddict		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
+M	macintosh	Macintosh		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
+M	maclife	MacLife		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
+M	macuser	MacUser		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
+M	macworld	MacWorld		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 M	magical	magical		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 M	marsalis, wynton	Marsalis, Wynton		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 M	marsalis, wynton	Marsalis, Wynton		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
@@ -196,6 +208,7 @@ O	open-source	open-source		Blog	blog post		A Compact, Extensible, Open-Source Be
 P	peer network	peer network		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 P	penguins	penguins		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 P	penguins	penguins		Blog	blog post		Talking Openly about Hierarchy	blog/hbowie/talking-openly-about-hierarchy.html
+P	pepsi	Pepsi		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 P	pinker, steven	Pinker, Steven		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 P	pluralistic cosmopolis	pluralistic cosmopolis		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 P	pluralistic	pluralistic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
@@ -227,6 +240,7 @@ R	rule of law	rule of law		Blog	blog post		US Political Observations for October
 R	russell, bertrand	Russell, Bertrand		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
 S	sanders, bernie	Sanders, Bernie		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 S	science	science		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
+S	sculley, john	Sculley, John		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 S	seattle	Seattle		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 S	self-determination	self-determination		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 S	self-knowledge	self-knowledge		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
@@ -252,6 +266,7 @@ S	symbols	symbols		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 S	systemic	systemic		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 S	systemic	systemic		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 S	systemic	systemic		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
+T	technology	technology		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 T	technology	technology		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 T	technology	technology		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 T	technology	technology		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html

@@ -1,34 +1,33 @@
-Title: Christmas for All
+Title: Vol 1 Issue 20 - A Christmas Wish For All
 
-Author: Herb Bowie
+Date:  2018-12-18
 
-Date: 2016-12-08
-
-Status: 9 - Published
-
-Tags: humanism
-
-Index: Christmas
-Index: religion
-Index: stories
-Index: Capra, Frank
-Index: Dickens, Charles
-Index: Springsteen, Bruce
-Index: Country Gentlemen, The
-Index: music
-Index: humanism
-
-Teaser:
-
-Here we are at the end of another year, well into what many of us call the Holiday Season. 
-
-As I've remarked elsewhere, when it comes to religion, I'm a bit of a mongrel, so my approach to the holidays, while imbued with many of the traditional elements associated with a good Methodist upbringing, does not hew closely to any particular set of Christian dictates. 
-
-But that's perhaps as it should be, for Christmas, it seems to me, has always been too big a thing to be narrowly claimed by any particular religious organization. 
+Seq:   1.20
 
 Body:
 
-<p><a href="http://amzn.to/2h4Oq4w" target="ref"><img class="img-top-right" src="../../images/a-christmas-gift-for-you.jpg" alt="A Christmas Gift For You album cover" title="A Christmas Gift For You album cover" /></a></p>
+<p><img src="https://www.practopians.org/images/happy-holidays.jpg" alt="Happy Holidays" title="Happy Holidays" width="600" style="width: 100%; max-width: 600px;" /></p>
+
+Welcome to Issue # 20! Feel free to share liberally with like-minded friends. If someone forwarded this issue to you, then you can sign up to get your very own copy [on MailChimp](http://eepurl.com/c0Smf5).
+
+
+## Quotation     
+ 
+"I once addressed, on a Christmas day many years ago, on behalf of the United Nations, an audience of about two thousand school children in London. As on this occasion, I knew in general what I was going to say, but I did not know exactly what I was going to say, and in a moment of abandon I said to them: 'This is how the world goes, you are going to have to make it different, you are going to have to stop listening to your parents. If you go on obeying your parents, the world will never be a better place.' And at that moment twenty newspaper men representing the European press got up from the front row and rushed for the telephone boxes. And by the time I got home one of the more adventurous correspondents from Geneva had actually phoned my daughter, then aged seven, at school in order to ask her whether she was encouraged to disobey her parents at home."
+
+-- Jacob Bronowski, from his book *[The Origins of Knowledge and Imagination][jacob]* 
+
+[jacob]: https://amzn.to/2BtW975
+
+
+## Songs for The Season
+
+I've put together a playlist, with commentary, of twenty of my favorite songs for the holiday season. You can find the complete list on the [Words About Songs][was] site. 
+
+[was]: https://wordsaboutsongs.com/christmas.html 
+
+
+## Blog Post: A Christmas Wish For All
 
 Here we are at the end of another year, well into what many of us call the Holiday Season. 
 
@@ -90,4 +89,66 @@ These are not questions asked only by those of some particular faith, nor, I thi
 
 And so I wish you the very best this Christmas season: the best of what we humans have to offer each other, the brightest gifts, the most piercing joy, the deepest love.
 
-[rf]: religious-freedom.html
+[rf]: https://www.practopians.org/blog/hbowie/religious-freedom.html
+
+-- Herb Bowie, first published at [Practopians.org](https://www.practopians.org/blog/hbowie/christmas-for-all.html) on Dec 8, 2016
+ 
+ 
+## Next Steps...
+
+Thanks for reading!
+
+If you liked this issue's blog post, feel free to give it a few claps on [Medium.com](https://medium.com/@hbowie/christmas-for-all-96bc16f7fab3).
+
+Feedback is always welcome at [feedback@practopians.org](mailto:feedback@practopians.org).
+
+This post, and so much more, can always be found at [Practopians.org](https://www.practopians.org).
+
+[web]:        https://www.practopians.org/index.html
+[core]:       https://www.practopians.org/core/index.html
+[mission]:    https://www.practopians.org/core/mission.html
+[principles]: https://www.practopians.org/core/principles.html
+[values]:     https://www.practopians.org/core/values.html
+
+[ww]:         https://www.practopians.org/tags/written-word.html
+
+[love]:       https://www.practopians.org/tags/love.html
+[connection]: https://www.practopians.org/tags/connection.html
+[wonder]:     https://www.practopians.org/tags/wonder.html
+
+[humanist]:   https://www.practopians.org/tags/humanism.html
+[science]:    https://www.practopians.org/tags/science.html
+[evolution]:  https://www.practopians.org/tags/evolution.html
+[education]:  https://www.practopians.org/tags/education.html
+[ct]:    https://www.practopians.org/tags/critical-thinking.html
+[st]:         https://www.practopians.org/tags/systemic.html
+ 
+[individuals]: https://www.practopians.org/tags/individuals.html
+[liberty]:    https://www.practopians.org/tags/liberty.html
+[equality]:   https://www.practopians.org/tags/equality.html
+[diversity]:  https://www.practopians.org/tags/diversity.html
+
+[society]:    https://www.practopians.org/tags/society.html
+[governance]: https://www.practopians.org/tags/governance.html
+[democracy]:  https://www.practopians.org/tags/democracy.html
+[law]:        https://www.practopians.org/tags/rule-of-law.html
+[property]:   https://www.practopians.org/tags/property.html
+[parenthood]: https://www.practopians.org/tags/parenthood.html
+[value]:    https://www.practopians.org/tags/value-creation.html
+
+[storytelling]: https://www.practopians.org/tags/stories.html
+
+[culture]:    https://www.practopians.org/tags/cultural-evolution.html
+
+[balance]:    https://www.practopians.org/tags/balance.html
+[imperfections]: https://www.practopians.org/tags/imperfection.html
+[integral]:   https://www.practopians.org/tags/integral.html
+
+[prorg]:      https://www.practopians.org/index.html
+
+[quotations]: https://www.practopians.org/quotes/index.html
+[aw]: https://www.practopians.org/explore/latest-original-content.html
+
+[contact]: https://www.practopians.org/intro/contact.html
+
+
