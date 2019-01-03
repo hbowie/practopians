@@ -133,6 +133,7 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+critical thinking
 cultural evolution
 cultural evolution
 cultural evolution
@@ -252,6 +253,7 @@ education
 education
 education
 education
+equality
 equality
 equality
 equality
@@ -294,6 +296,7 @@ evolution
 evolution
 evolution
 evolution
+governance
 governance
 governance
 governance
@@ -569,6 +572,8 @@ society
 society
 society
 society
+society
+society
 stories
 stories
 stories
@@ -609,6 +614,7 @@ systemic
 systemic
 systemic
 systemic
+systems thinking
 tools
 tools
 value creation
@@ -642,6 +648,8 @@ wonder
 wonder
 wonder
 wonder
+written word
+written word
 written word
 written word
 written word
