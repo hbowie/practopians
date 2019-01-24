@@ -1,0 +1,186 @@
+module	action	modifier	object	value
+
+
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Explore Page featuring most recent content additions -->
+<!-- Output: ../html/explore/latest-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Section	Perspective
+filter	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/explore/latest_all_template.html
+template	generate
+
+<!-- Generate Explore Page featuring most recent original content additions -->
+<!-- Output: ../html/explore/latest-original-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+filter	clear
+filter	set		params
+filter	add	equals	Author	Herb Bowie
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	Descending	Date
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/explore/latest_original_template.html
+template	generate
+
+<!-- Merge and create a Consolidated Index File -->
+<!-- Output: ../feed/combined.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/blog-hbowie.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../index/basics.txt
+input	open	file	merge	#PATH#../index/issues-sustainability.txt
+input	open	file	merge	#PATH#../index/appreciation.txt
+output	open	file		#PATH#../index/combined.txt
+
+<!-- Generate the Index Page             -->
+<!-- Output: ../../../../../../Sites/practopians/explore/site-index.html   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/combined.txt
+sort	add	Ascending	Initial Letter
+sort	add	Ascending	Lower Case Term
+sort	add	Ascending	Section
+sort	add	Ascending	Page Title
+sort	set		params
+template	open	text		#PATH#../factory/explore/site_index_letters_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/explore/site_index_template.html
+template	generate
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
+
+<!-- Generate Web pages for content                     -->
+<!-- Output: ../../../../../../Sites/practopians/=$path&l$==$content-title&f$=.html  -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+filter	clear
+filter	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/content_template.html
+template	generate
+
+<!-- Generate web pages for News           -->
+<!-- Output: ../../../../../../Sites/practopians/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news_template.html
+template	generate
+
+<!-- Generate web pages for Links           -->
+<!-- Output "../../../../../../Sites/practopians/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/link_template.html
+template	generate
+
+<!-- Generate web pages for Basic Info       -->
+<!-- Output: ../../../../../../Sites/practopians/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics_template.html
+template	generate
+
+<!-- Generate web pages for appreciation           -->
+<!-- Output: ../../../../../../Sites/practopians/appreciation/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation_template.html
+template	generate
+
+<!-- Generate Tags Pages                 -->
+<!-- Output: ../../../../../../Sites/practopians/tags/=$tag&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+template	open	text		#PATH#../factory/tag_template.html
+template	generate
+
+<!-- Generate Home Page featuring most recent content additions -->
+<!-- Output: ../../../../../../Sites/practopians/index.html                                  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/home_template.html
+template	generate
+
+<!-- Generate Javascript Array to hold all items in descending seq by date -->
+<!-- Output: ../../../../../../Sites/practopians/js/where_to_reverse_chron.js                           -->
+
+template	open	text		#PATH#../factory/where_to_reverse_chron_template.js
+template	generate
+
+<!-- Generate RSS Feed       -->
+<!-- Output: ../../../../../../Sites/practopians/rss.xml  -->
+
+template	open	text		#PATH#../factory/rss_template.xml
+template	generate
+
+<!-- Generate Search Page               -->
+<!-- Output: ../../../../../../Sites/practopians/search/search.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/search_template.html
+template	generate

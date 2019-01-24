@@ -1,0 +1,118 @@
+module	action	modifier	object	value
+
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
+
+<!-- Generate Issues Index              -->
+<!-- Output: ../html/issues/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Issues
+filter	add	not equal to	Content Title	Index
+filter	set		params
+sort	clear
+sort	add	Ascending	Content Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/issues_index_template.html
+template	generate
+filter	clear
+filter	set		params
+
+<!-- Generate Basics Index              -->
+<!-- Output: ../html/basics/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/basics_index_template.html
+template	generate
+
+<!-- Generate Appreciations Index             -->
+<!-- Output: ../html/appreciation/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/appreciation_index_template.html
+template	generate
+
+<!-- Generate News Index              -->
+<!-- Output: ../html/news/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/news_index_template.html
+template	generate
+
+<!-- Generate Links Index              -->
+<!-- Output: ../html/links/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+sort	clear
+sort	add	Descending	Date
+sort	set		params
+template	open	text		#PATH#../factory/links_index_template.html
+template	generate
+
+<!-- Generate Links Index by Title              -->
+<!-- Output: ../html/links/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+filter	clear
+filter	set		params
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/links_index_by_title.html
+template	generate
+
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Explore Page featuring most recent content additions -->
+<!-- Output: ../html/explore/latest-content.html                   -->
+
+<!-- Generate tab-delimited index for basics section  -->
+<!-- Output: ../index/basics.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/basics/
+template	open	text		#PATH#../factory/index_basics_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for appreciation section  -->
+<!-- Output: ../index/appreciation.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/index_appreciation_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for issues section  -->
+<!-- Output: ../index/issues-sustainability.txt       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/issues/sustainability/
+template	open	text		#PATH#../factory/index_issues_sustainability_template.txt
+template	generate

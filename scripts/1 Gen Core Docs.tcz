@@ -1,0 +1,191 @@
+module	action	modifier	object	value
+
+<!-- PHASE 1: BUILD GENERATED DOCUMENTS -->
+
+<!-- Generate Mission Statement         -->
+<!-- Output: ../content/core/Mission.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	clear
+sort	set		params
+sort	add	Ascending	Seq
+sort	set		params
+filter	add	equals	Type	Mission
+filter	set		params
+template	open	text		#PATH#../factory/mission_template.md
+template	generate
+
+<!-- Generate List of Principles           -->
+<!-- Output: ../content/core/Principles.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	equals	Type	Principle
+filter	set		params
+template	open	text		#PATH#../factory/principles_template.md
+template	generate
+
+<!-- Generate List of Values            -->
+<!-- Output: ../content/core/Values.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	equals	Type	Value
+filter	set		params
+template	open	text		#PATH#../factory/values_template.md
+template	generate
+
+<!-- Generate Creed Content from beliefs              -->
+<!-- Output: ../../content/creed/practopian-creed.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params
+template	open	text		#PATH#../factory/creed/creed_content_gen.md
+template	generate
+
+<!-- Generate Way Content from beliefs              -->
+<!-- Output: ../../content/way/practopian-way.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params
+template	open	text		#PATH#../factory/way/way_content_gen.md
+template	generate
+
+<!-- Generate Creed Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/creed/
+template	open	text		#PATH#../factory/creed/creed_template.md
+template	generate
+template	open	text		#PATH#../factory/creed/creed_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/creed/creed_index_template.html
+template	generate
+filter	add	contains	Status	Current
+filter	set		params
+template	open	text		#PATH#../factory/creed/creed_current_template.md
+template	generate
+template	open	text		#PATH#../factory/creed/creed_current_template.html
+template	generate
+template	open	text		#PATH#../factory/creed/creed_core_template.html
+template	generate
+
+<!-- Generate Way Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/way/way_index_template.html
+template	generate
+filter	add	contains	Status	Current
+filter	set		params
+template	open	text		#PATH#../factory/way/way_current_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_current_template.html
+template	generate
+template	open	text		#PATH#../factory/way/way_core_template.html
+template	generate
+
+<!-- Generate Abridged Creed                      -->
+<!-- Output "../../../../../../../Sites/practopians/creed/abridged-creed.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/creed/abridged_template.html
+template	generate
+
+<!-- Generate Abridged Way                      -->
+<!-- Output "../../way/abridged-way.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/way/abridged_way_template.html
+template	generate
+
+<!-- Generate Developmental Levels include -->
+<!-- Output ../includes/devlevs.html       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/dev levels/
+sort	add	Ascending	Seq
+sort	set		params
+template	open	text		#PATH#../factory/devlevs_template.html
+template	generate
+
+<!-- Generate Core Clusters Page             -->
+<!-- Output ../content/core/Core Clusters.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+filter	clear
+filter	set		params
+filter	add	not equal to	Group
+filter	set		params
+sort	add	Ascending	Grp-Seq
+sort	set		params
+template	open	text		#PATH#../factory/core-clusters-template.md
+template	generate
+
+
+<!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
+
+<!-- Generate html content for creed section    -->
+<!-- Output: ../../html/creed/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/creed/
+template	open	text		#PATH#../factory/creed/creed_body_template.html
+template	generate
+
+<!-- Generate html content for way section    -->
+<!-- Output: ../../html/way/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_body_template.html
+template	generate

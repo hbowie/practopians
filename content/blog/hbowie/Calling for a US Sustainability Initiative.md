@@ -14,7 +14,7 @@ Index: Why We Fight
 Index: space race
 Index: World War II
 Index: developmental levels
-Index: US Politics
+Index: US politics
 Index: Ocasio-Cortez, Alexandria 
 Index: Green New Deal
 

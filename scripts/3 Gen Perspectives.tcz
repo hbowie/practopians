@@ -1,5 +1,6 @@
 module	action	modifier	object	value
 
+
 <!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
 
 <!-- Generate html content for perspectives MailChimp section    -->
@@ -20,8 +21,20 @@ input	open	notenik+		#PATH#../content/perspective/
 template	open	text		#PATH#../factory/perspective/perspective_body_template.html
 template	generate
 
-<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
 
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Generate perspective feed in a standard format  -->
+<!-- Output: ../feed/perspective-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective-feed_template.txt
+template	generate
+
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
 
 <!-- Generate Perspectives Index              -->
 <!-- Output: ../html/perspective/index.html  -->

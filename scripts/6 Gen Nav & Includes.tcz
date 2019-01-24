@@ -1,0 +1,78 @@
+module	action	modifier	object	value
+
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Merge and create a Consolidated Feed -->
+<!-- Output: ../feed/combined-feed.txt.   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/quotes-feed.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../feed/content-feed.txt
+input	open	file	merge	#PATH#../feed/news-feed.txt
+input	open	file	merge	#PATH#../feed/links-feed.txt
+input	open	file	merge	#PATH#../feed/basics-feed.txt
+input	open	file	merge	#PATH#../feed/appreciation-feed.txt
+input	open	file	merge	#PATH#../feed/perspective-feed.txt
+output	open	file		#PATH#../feed/combined-feed.txt
+
+<!-- PHASE 4: BUILD HTML INCLUDE FILES
+
+<!-- Generate Tags List with links for right-hand column -->
+<!-- Output: ../includes/tags_list.html                  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/tags_list_template.html
+template	generate
+template	open	text		#PATH#../factory/tag_cloud_template.txt
+template	generate
+template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
+template	generate
+template	open	text		#PATH#../factory/where_to_by_tag_template.js
+template	generate
+
+<!-- Generate navbar include file     -->
+<!-- Output: ../includes/navbar.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Descending	Post Date
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/navbar_template.html
+template	generate
+
+<!-- Generate Javascript Table of all Content in its logical sequence -->
+<!-- Output: ../../../../../../Sites/practopians/js/where_to_content_logical.js                    -->
+
+template	open	text		#PATH#../factory/where_to_content_logical_template.js
+template	generate
+
+<!-- Generate Next Navigation                              -->
+<!-- Output: ../nextnav/=$lastpath$==$lastfilename$=.html  -->
+
+template	open	text		#PATH#../factory/nextnav_template.html
+template	generate

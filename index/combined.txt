@@ -1,4 +1,5 @@
 Initial Letter	Lower Case Term	Term	Term Link	Section	Item Type	Date	Page Title	Page Link
+A	abrams, frank w.	Abrams, Frank W.		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 A	advertising	advertising		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 A	ai	AI		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 A	amazon	Amazon		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
@@ -36,6 +37,7 @@ B	burgess, anthony	Burgess, Anthony		Blog	blog post		Art and the Eye of the  Beh
 B	business	business		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
 B	business	business		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 B	business	business		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
+C	capitalism	capitalism		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 C	capra, frank	Capra, Frank		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 C	capra, frank	Capra, Frank		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 C	capra, frank	Capra, Frank		Blog	blog post		Christmas for All	blog/hbowie/christmas-for-all.html
@@ -71,10 +73,12 @@ C	cultural evolution	cultural evolution		Blog	blog post		Talking Openly about Hi
 D	darwin, charles	Darwin, Charles		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 D	death	death		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
 D	democracy	democracy		Blog	blog post		Making Sense of What Happened on Nov 8	blog/hbowie/making-sense-of-what-happened-on-nov-8.html
+D	democracy	democracy		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 D	democracy	democracy		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 D	democracy	democracy		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 D	democracy	democracy		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 D	democracy	democracy		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
+D	democracy	democracy		Blog	blog post		What We Can Learn from the Government Shutdown	blog/hbowie/what-we-can-learn-from-the-government-shutdown.html
 D	democracy	democracy		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 D	developmental levels	developmental levels		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 D	developmental levels	developmental levels		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
@@ -92,11 +96,13 @@ E	education	education		Blog	blog post		My Advice to Young People of All Ages	blo
 E	education	education		Blog	blog post		Technology Education for the Youth of Today	blog/hbowie/technology-education-for-the-youth-of-today.html
 E	education	education		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 E	einstein, albert	Einstein, Albert		Blog	blog post		Humanism	blog/hbowie/humanism.html
+E	equality	equality		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 E	exterior	exterior		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 F	facebook	Facebook		Blog	blog post		A Traditional Remedy for the Facebook Problem: Competition	blog/hbowie/a-traditional-remedy-for-the-facebook-problem-competition.html
 F	families	families		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 F	family planning	family planning		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 F	family	family		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
+F	feudalism	feudalism		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 F	first tier	first tier		Blog	blog post		Developmental Levels	blog/hbowie/developmental-levels.html
 F	florida	Florida		Blog	blog post		A Practopian Approach to Gun Issues in the US	blog/hbowie/a-practopian-approach-to-gun-issues-in-the-us.html
 F	football	football		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
@@ -106,6 +112,7 @@ F	freedom	freedom		Blog	blog post		Religious Freedom	blog/hbowie/religious-freed
 F	frost, robert	Frost, Robert		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 G	global warming	global warming		Blog	blog post		The Systemic Era	blog/hbowie/the-systemic-era.html
 G	globalism	globalism		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
+G	globalization	globalization		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 G	globalization	globalization		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 G	globalization	globalization		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 G	god	god		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
@@ -124,6 +131,7 @@ H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		Art and the Eye of the 
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+H	harari, yuval noah	Harari, Yuval Noah		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 H	hiatt, john	Hiatt, John		Blog	blog post		My Advice to Young People of All Ages	blog/hbowie/my-advice-to-young-people-of-all-ages.html
 H	hierarchy	hierarchy		Blog	blog post		Talking Openly about Hierarchy	blog/hbowie/talking-openly-about-hierarchy.html
 H	hitler, adolf	Hitler, Adolf		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
@@ -156,6 +164,7 @@ J	johnson, ron	Johnson, Ron		Blog	blog post		Have We Passed The Point of Maximum
 K	king jr., martin luther	King Jr., Martin Luther		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 K	king jr., martin luther	King Jr., Martin Luther		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
 L	labor	labor		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
+L	labor	labor		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 L	labor	labor		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 L	labor	labor		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 L	levels, developmental	levels, developmental		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
@@ -168,9 +177,11 @@ L	lewis, c. s.	Lewis, C. S.		Blog	blog post		Religious Freedom	blog/hbowie/relig
 L	lewis, c.s.	Lewis, C.S.		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
 L	liberals	liberals		Blog	blog post		Talking Openly about Hierarchy	blog/hbowie/talking-openly-about-hierarchy.html
 L	liker, jeffrey	Liker, Jeffrey		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
+L	lincoln, abraham	Lincoln, Abraham		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 L	lincoln, abraham	Lincoln, Abraham		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 L	lone wolf	lone wolf		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
 L	long goodbye, the	Long Goodbye, The		Blog	blog post		Art and the Eye of the  Beholder	blog/hbowie/art-and-the-eye-of-the-beholder.html
+L	luce, edward	Luce, Edward		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 M	mac os x	Mac OS X		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 M	macaddict	MacAddict		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
 M	macintosh	Macintosh		Blog	blog post		Have We Passed The Point of Maximum Useful Tech?	blog/hbowie/have-we-passed-the-point-of-maximum-useful-tech.html
@@ -201,6 +212,7 @@ N	nature	nature		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 N	news media	news media		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
 N	news	news		Blog	blog post		Making Sense of What Happened on Nov 8	blog/hbowie/making-sense-of-what-happened-on-nov-8.html
 N	niemöller, martin	Niemöller, Martin		Blog	blog post		Religious Freedom	blog/hbowie/religious-freedom.html
+O	o'reilly, tim	O'Reilly, Tim		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 O	obama, barack	Obama, Barack		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 O	objective	objective		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 O	ocasio-cortez, alexandria	Ocasio-Cortez, Alexandria		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
@@ -232,6 +244,7 @@ R	religion	religion		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/
 R	religion	religion		Blog	blog post		Religious Freedom	blog/hbowie/religious-freedom.html
 R	religion	religion		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
 R	religion	religion		Blog	blog post		Why I Call Myself a Practopian	blog/hbowie/why-i-call-myself-a-practopian.html
+R	reuther, walter	Reuther, Walter		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 R	reuther, walter	Reuther, Walter		Blog	blog post		What To Do About Big Business?	blog/hbowie/what-to-do-about-big-business.html
 R	robbins, tom	Robbins, Tom		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 R	robots	robots		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
@@ -261,6 +274,7 @@ S	stories	stories		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 S	stories	stories		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 S	subjective	subjective		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 S	sullivan, ed	Sullivan, Ed		Blog	blog post		A Broadcast Consciousness	blog/hbowie/a-broadcast-consciousness.html
+S	surplus	surplus		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 S	sustainability	sustainability		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 S	symbols	symbols		Blog	blog post		Human Nature	blog/hbowie/human-nature.html
 S	systemic	systemic		Blog	blog post		Developmental Levels as Evolving Social Structures	blog/hbowie/developmental-levels-as-evolving-social-structures.html
@@ -278,13 +292,15 @@ T	tribal	tribal		Blog	blog post		Developmental Levels	blog/hbowie/developmental-
 T	trump, donald	Trump, Donald		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
 T	trump, donald	Trump, Donald		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 T	truth	truth		Blog	blog post		Reasons for Belief	blog/hbowie/reasons-for-belief.html
-U	us politics	US Politics		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 U	us politics	US politics		Blog	blog post		Another Way to Think about the US Elections	blog/hbowie/another-way-to-think-about-the-us-elections.html
+U	us politics	US politics		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 U	us politics	US politics		Blog	blog post		Making Sense of What Happened on Nov 8	blog/hbowie/making-sense-of-what-happened-on-nov-8.html
 U	us politics	US politics		Blog	blog post		Our American Identity: Where To Next?	blog/hbowie/our-american-identity-where-to-next.html
 U	us politics	US politics		Blog	blog post		US Political Observations for October 2018	blog/hbowie/us-political-observations-for-october-2018.html
+U	us politics	US politics		Blog	blog post		What We Can Learn from the Government Shutdown	blog/hbowie/what-we-can-learn-from-the-government-shutdown.html
 U	us politics	US politics		Blog	blog post		What We Need After the Election	blog/hbowie/what-we-need-after-the-election.html
 V	varoufakis, yanis	Varoufakis, Yanis		Blog	blog post		A Twenty-Six Legged Stool?	blog/hbowie/a-twenty-six-legged-stool.html
+V	varoufakis, yanis	Varoufakis, Yanis		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 V	vonnegut, kurt	Vonnegut, Kurt		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
 V	vonnegut, kurt	Vonnegut, Kurt		Blog	blog post		Religion, Storytelling and Art	blog/hbowie/religion-storytelling-and-art.html
 W	wales, jimmy	Wales, Jimmy		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
@@ -300,6 +316,7 @@ W	wilber, ken	Wilber, Ken		Blog	blog post		Religious Freedom	blog/hbowie/religio
 W	wilber, ken	Wilber, Ken		Blog	blog post		The Four Quadrants of Human Knowledge	blog/hbowie/the-four-quadrants-of-human-knowledge.html
 W	wilber, ken	Wilber, Ken		Blog	blog post		The Nature of God	blog/hbowie/the-nature-of-god.html
 W	work	work		Blog	blog post		Help! Help! The Robots are Coming!	blog/hbowie/help-help-the-robots-are-coming.html
+W	work	work		Blog	blog post		The Truth About Capitalism	blog/hbowie/the-truth-about-capitalism.html
 W	work	work		Blog	blog post		The Unraveling of The Common Good	blog/hbowie/the-unraveling-of-the-common-good.html
 W	world war ii	World War II		Blog	blog post		Calling for a US Sustainability Initiative	blog/hbowie/calling-for-a-us-sustainability-initiative.html
 Y	yeats, william butler	Yeats, William Butler		Blog	blog post		In Defense of Balance	blog/hbowie/in-defense-of-balance.html

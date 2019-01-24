@@ -1,0 +1,70 @@
+module	action	modifier	object	value
+
+
+<!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
+
+<!-- Generate html content for blog section              -->
+<!-- Output: ../../../html/blog/hbowie/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
+template	generate
+
+
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Generate Content feed in a standard format -->
+<!-- Output: ../feed/content-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+template	open	text		#PATH#../factory/content-feed_template.txt
+template	generate
+
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
+
+<!-- Generate Blog Index              -->
+<!-- Output: ../html/blog/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	add	Descending	Post Date
+sort	add	Ascending	Section Title
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/blog_index_template.html
+template	generate
+
+<!-- Generate Blog Index by Title              -->
+<!-- Output: ../html/blog/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Blog
+filter	add	does not contain	Title for Sort	index
+filter	set		params
+sort	add	Ascending	Title for Sort
+sort	set		params
+template	open	text		#PATH#../factory/blog_index_by_title.html
+template	generate
+
+
+<!-- PHASE 6: GENERATE CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate tab-delimited index for blog section  -->
+<!-- Output: ../index/blog-hbowie.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/index_blog_hbowie_template.txt
+template	generate

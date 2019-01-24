@@ -202,6 +202,10 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
+cultural evolution
+democracy
+democracy
 democracy
 democracy
 democracy
@@ -253,6 +257,7 @@ education
 education
 education
 education
+equality
 equality
 equality
 equality
@@ -319,6 +324,7 @@ governance
 governance
 governance
 governance
+governance
 humanism
 humanism
 humanism
@@ -392,6 +398,7 @@ individuals
 individuals
 individuals
 individuals
+individuals
 integral
 integral
 integral
@@ -449,6 +456,7 @@ love
 love
 love
 love
+mission
 mission
 mission
 mission
@@ -478,6 +486,7 @@ practical
 practical
 practical
 practical
+progress
 progress
 progress
 progress
@@ -542,6 +551,9 @@ science
 science
 science
 science
+science
+society
+society
 society
 society
 society
@@ -632,6 +644,9 @@ value creation
 value creation
 value creation
 value creation
+value creation
+value creation
+wonder
 wonder
 wonder
 wonder

@@ -1,0 +1,67 @@
+module	action	modifier	object	value
+
+
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Generate Quotes feed in a standard format -->
+<!-- Output: ../feed/quotes-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quotes-feed_template.txt
+template	generate
+
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
+
+<!-- Generate Quotes Index              -->
+<!-- Output: ../html/quotes/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_index_template.html
+template	generate
+
+<!-- Generate Quotes by Author Pages                          -->
+<!-- Output: ../../../../../../Sites/practopians/quotes-by-author/=$authorfilename$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorfilename
+sort	add	Ascending	date
+sort	add	Ascending	dateadded
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/quotes_by_author_template.html
+template	generate
+
+<!-- Generate Javascript Navigation for Quotes -->
+<!-- Output: ../../../../../../Sites/practopians/js/quotes.js               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_template.js
+template	generate
+
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
+
+<!-- Generate web pages for Quotes           -->
+<!-- Output: ../../../../../../Sites/practopians/quotes/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quote_template.html
+template	generate
+

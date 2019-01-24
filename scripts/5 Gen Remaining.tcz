@@ -1,0 +1,126 @@
+module	action	modifier	object	value
+
+<!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
+
+<!-- Generate html content for intro section    -->
+<!-- Output: ../../html/intro/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/intro/
+template	open	text		#PATH#../factory/intro/intro_body_template.html
+template	generate
+
+<!-- Generate html content for core section    -->
+<!-- Output: ../../html/core/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/core/
+template	open	text		#PATH#../factory/core/core_body_template.html
+template	generate
+
+<!-- Generate html content for issues section                -->
+<!-- Output: ../../html/issues/=$issue&f$=/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/issues/
+template	open	text		#PATH#../factory/issues/issue_body_template.html
+template	generate
+
+<!-- Generate html content for basics section    -->
+<!-- Output: ../../html/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics/basics_body_template.html
+template	generate
+
+<!-- Generate html content for appreciation section              -->
+<!-- Output: ../../../html/appreciation/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation/appreciation_body_template.html
+template	generate
+
+<!-- Generate html content for news section    -->
+<!-- Output: ../../html/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news/news_body_template.html
+template	generate
+
+<!-- Generate html content for links section    -->
+<!-- Output: ../../html/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links/link_body_template.html
+template	generate
+
+<!-- Generate html content for follow section    -->
+<!-- Output: ../../html/follow/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/follow/
+template	open	text		#PATH#../factory/follow/follow_body_template.html
+template	generate
+
+<!-- Generate html content for tags pages    -->
+<!-- Output: ../../html/tags/=$tag&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-defined		#PATH#../content/beliefs/
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopians/
+template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
+template	generate
+
+
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Generate News feed in a standard format -->
+<!-- Output: ../feed/news-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news-feed_template.txt
+template	generate
+
+<!-- Generate Links feed in a standard format -->
+<!-- Output: ../feed/links-feed.txt.          -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links-feed_template.txt
+template	generate
+
+<!-- Generate Basics feed in a standard format -->
+<!-- Output: ../feed/basics-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics-feed_template.txt
+template	generate
+
+<!-- Generate appreciation feed in a standard format -->
+<!-- Output: ../feed/appreciation-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation-feed_template.txt
+template	generate
