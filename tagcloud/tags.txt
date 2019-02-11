@@ -204,6 +204,8 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
+democracy
 democracy
 democracy
 democracy
@@ -257,6 +259,9 @@ education
 education
 education
 education
+education
+equality
+equality
 equality
 equality
 equality
@@ -456,6 +461,10 @@ love
 love
 love
 love
+love
+love
+mission
+mission
 mission
 mission
 mission
@@ -486,6 +495,7 @@ practical
 practical
 practical
 practical
+progress
 progress
 progress
 progress
@@ -586,6 +596,9 @@ society
 society
 society
 society
+society
+society
+society
 stories
 stories
 stories
@@ -629,6 +642,7 @@ systemic
 systems thinking
 tools
 tools
+value creation
 value creation
 value creation
 value creation

@@ -16,7 +16,7 @@ Traditional religions offer one set of answers to these questions. Despite their
 
 But can we construct another option? A new institution that provides another set of answers to these questions?
 
-*The Practopians* is an experiment attempting to answer this very question.
+*Practopians* is an experiment attempting to answer this very question.
 
 -- [Herb Bowie](http://www.herbbowie.com)  
 November 15, 2016  

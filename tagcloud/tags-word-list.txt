@@ -2,11 +2,11 @@
 12	balance	https://www.practopians.org/tags/balance.html
 27	connection	https://www.practopians.org/tags/connection.html
 66	critical thinking	https://www.practopians.org/tags/critical-thinking.html
-70	cultural evolution	https://www.practopians.org/tags/cultural-evolution.html
-16	democracy	https://www.practopians.org/tags/democracy.html
+71	cultural evolution	https://www.practopians.org/tags/cultural-evolution.html
+17	democracy	https://www.practopians.org/tags/democracy.html
 13	diversity	https://www.practopians.org/tags/diversity.html
-24	education	https://www.practopians.org/tags/education.html
-39	equality	https://www.practopians.org/tags/equality.html
+25	education	https://www.practopians.org/tags/education.html
+41	equality	https://www.practopians.org/tags/equality.html
 05	evolution	https://www.practopians.org/tags/evolution.html
 24	governance	https://www.practopians.org/tags/governance.html
 30	humanism	https://www.practopians.org/tags/humanism.html
@@ -14,22 +14,22 @@
 36	individuals	https://www.practopians.org/tags/individuals.html
 17	integral	https://www.practopians.org/tags/integral.html
 21	liberty	https://www.practopians.org/tags/liberty.html
-19	love	https://www.practopians.org/tags/love.html
-16	mission	https://www.practopians.org/tags/mission.html
+21	love	https://www.practopians.org/tags/love.html
+18	mission	https://www.practopians.org/tags/mission.html
 07	parenthood	https://www.practopians.org/tags/parenthood.html
 03	population	https://www.practopians.org/tags/population.html
 04	practical	https://www.practopians.org/tags/practical.html
-29	progress	https://www.practopians.org/tags/progress.html
+30	progress	https://www.practopians.org/tags/progress.html
 01	property	https://www.practopians.org/tags/property.html
 18	religion	https://www.practopians.org/tags/religion.html
 04	rule of law	https://www.practopians.org/tags/rule-of-law.html
 14	science	https://www.practopians.org/tags/science.html
-34	society	https://www.practopians.org/tags/society.html
+37	society	https://www.practopians.org/tags/society.html
 11	stories	https://www.practopians.org/tags/stories.html
 19	sustainability	https://www.practopians.org/tags/sustainability.html
 10	systemic	https://www.practopians.org/tags/systemic.html
 01	systems thinking	https://www.practopians.org/tags/systems-thinking.html
 02	tools	https://www.practopians.org/tags/tools.html
-17	value creation	https://www.practopians.org/tags/value-creation.html
+18	value creation	https://www.practopians.org/tags/value-creation.html
 17	wonder	https://www.practopians.org/tags/wonder.html
 17	written word	https://www.practopians.org/tags/written-word.html
